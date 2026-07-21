@@ -1,0 +1,7112 @@
+[
+  {
+    "Name": "Android",
+    "ID": "AA_01",
+    "Atk1Dmg": 345,
+    "Atk2Dmg": 199,
+    "Health": 1550,
+    "Type": "gold",
+    "Price": "36",
+    "Icon": "specimen/aa_01.png"
+  },
+  {
+    "Name": "Goliath",
+    "ID": "AA_02",
+    "Atk1Dmg": 1199,
+    "Atk2Dmg": 689,
+    "Health": 3676,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/aa_02.png"
+  },
+  {
+    "Name": "H.U.M.A.N.",
+    "ID": "AA_03",
+    "Atk1Dmg": 518,
+    "Atk2Dmg": 298,
+    "Health": 1878,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_03.png"
+  },
+  {
+    "Name": "Tri-Klops",
+    "ID": "AA_04",
+    "Atk1Dmg": 283,
+    "Atk2Dmg": 164,
+    "Health": 1543,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_04.png"
+  },
+  {
+    "Name": "Thunderstruck",
+    "ID": "AA_05",
+    "Atk1Dmg": 741,
+    "Atk2Dmg": 428,
+    "Health": 1875,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/aa_05.png"
+  },
+  {
+    "Name": "Hercules",
+    "ID": "AA_06",
+    "Atk1Dmg": 945,
+    "Atk2Dmg": 635,
+    "Health": 2258,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_06.png"
+  },
+  {
+    "Name": "Project 3V3",
+    "ID": "AA_07",
+    "Atk1Dmg": 274,
+    "Atk2Dmg": 156,
+    "Health": 1235,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_07.png"
+  },
+  {
+    "Name": "R0B-H4N Sentinel",
+    "ID": "AA_08",
+    "Atk1Dmg": 604,
+    "Atk2Dmg": 409,
+    "Health": 1909,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_08.png"
+  },
+  {
+    "Name": "H.U.N.T.3.R",
+    "ID": "AA_09",
+    "Atk1Dmg": 453,
+    "Atk2Dmg": 260,
+    "Health": 1938,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_09.png"
+  },
+  {
+    "Name": "ED-404",
+    "ID": "AA_10",
+    "Atk1Dmg": 950,
+    "Atk2Dmg": 554,
+    "Health": 2888,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_10.png"
+  },
+  {
+    "Name": "TriAD",
+    "ID": "AA_11",
+    "Atk1Dmg": 275,
+    "Atk2Dmg": 145,
+    "Health": 1191,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_11.png"
+  },
+  {
+    "Name": "Cabloid",
+    "ID": "AA_12",
+    "Atk1Dmg": 870,
+    "Atk2Dmg": 435,
+    "Health": 3400,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_12.png"
+  },
+  {
+    "Name": "TCB-8566 Trafficroid",
+    "ID": "AA_13",
+    "Atk1Dmg": 755,
+    "Atk2Dmg": 544,
+    "Health": 2054,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_13.png"
+  },
+  {
+    "Name": "Arbitrator",
+    "ID": "AA_14",
+    "Atk1Dmg": 1033,
+    "Atk2Dmg": 624,
+    "Health": 2026,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "AA_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "AA_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/aa_98.png"
+  },
+  {
+    "Name": "A00-C0R3-C0NTR0L",
+    "ID": "AA_99",
+    "Atk1Dmg": 1240,
+    "Atk2Dmg": 752,
+    "Health": 4621,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/aa_99.png"
+  },
+  {
+    "Name": "Dead Bot",
+    "ID": "AB_01",
+    "Atk1Dmg": 254,
+    "Atk2Dmg": 254,
+    "Health": 1197,
+    "Type": "gold",
+    "Price": "36",
+    "Icon": "specimen/ab_01.png"
+  },
+  {
+    "Name": "The Darkseer",
+    "ID": "AB_02",
+    "Atk1Dmg": 490,
+    "Atk2Dmg": 490,
+    "Health": 1554,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ab_02.png"
+  },
+  {
+    "Name": "Xenarach",
+    "ID": "AB_03",
+    "Atk1Dmg": 390,
+    "Atk2Dmg": 390,
+    "Health": 1464,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ab_03.png"
+  },
+  {
+    "Name": "Commander Ender",
+    "ID": "AB_04",
+    "Atk1Dmg": 869,
+    "Atk2Dmg": 869,
+    "Health": 1846,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ab_04.png"
+  },
+  {
+    "Name": "Neo-Urban XIII\\n",
+    "ID": "AB_05",
+    "Atk1Dmg": 558,
+    "Atk2Dmg": 558,
+    "Health": 2552,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/ab_05.png"
+  },
+  {
+    "Name": "Drusella",
+    "ID": "AB_06",
+    "Atk1Dmg": 264,
+    "Atk2Dmg": 264,
+    "Health": 1422,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ab_06.png"
+  },
+  {
+    "Name": "Crusher",
+    "ID": "AB_07",
+    "Atk1Dmg": 979,
+    "Atk2Dmg": 979,
+    "Health": 3210,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/ab_07.png"
+  },
+  {
+    "Name": "High Gravelord",
+    "ID": "AB_08",
+    "Atk1Dmg": 332,
+    "Atk2Dmg": 332,
+    "Health": 1533,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ab_08.png"
+  },
+  {
+    "Name": "Grumpy Claus",
+    "ID": "AB_09",
+    "Atk1Dmg": 1119,
+    "Atk2Dmg": 1119,
+    "Health": 3760,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ab_09.png"
+  },
+  {
+    "Name": "S-K-Venger",
+    "ID": "AB_10",
+    "Atk1Dmg": 1141,
+    "Atk2Dmg": 1141,
+    "Health": 1925,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ab_10.png"
+  },
+  {
+    "Name": "Enviro Mk III",
+    "ID": "AB_11",
+    "Atk1Dmg": 516,
+    "Atk2Dmg": 339,
+    "Health": 2026,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ab_11.png"
+  },
+  {
+    "Name": "Unstabot",
+    "ID": "AB_12",
+    "Atk1Dmg": 844,
+    "Atk2Dmg": 422,
+    "Health": 2351,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ab_12.png"
+  },
+  {
+    "Name": "The Architect",
+    "ID": "AB_13",
+    "Atk1Dmg": 1132,
+    "Atk2Dmg": 1132,
+    "Health": 1911,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ab_13.png"
+  },
+  {
+    "Name": "The Screencaster",
+    "ID": "AB_14",
+    "Atk1Dmg": 1047,
+    "Atk2Dmg": 1047,
+    "Health": 4557,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ab_14.png"
+  },
+  {
+    "Name": "Glitchy Heart",
+    "ID": "AB_15",
+    "Atk1Dmg": 1541,
+    "Atk2Dmg": 1541,
+    "Health": 3865,
+    "Type": "gold",
+    "Price": "99999",
+    "Icon": "specimen/ab_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "AB_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ab_98.png"
+  },
+  {
+    "Name": "Battle Simulacrum",
+    "ID": "AB_99",
+    "Atk1Dmg": 1000,
+    "Atk2Dmg": 635,
+    "Health": 5864,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ab_99.png"
+  },
+  {
+    "Name": "Stealth Bot",
+    "ID": "AC_01",
+    "Atk1Dmg": 391,
+    "Atk2Dmg": 391,
+    "Health": 1431,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ac_01.png"
+  },
+  {
+    "Name": "Captain Wrenchfury",
+    "ID": "AC_02",
+    "Atk1Dmg": 474,
+    "Atk2Dmg": 474,
+    "Health": 2342,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ac_02.png"
+  },
+  {
+    "Name": "Dezinger",
+    "ID": "AC_03",
+    "Atk1Dmg": 696,
+    "Atk2Dmg": 696,
+    "Health": 2394,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_03.png"
+  },
+  {
+    "Name": "The Plumber",
+    "ID": "AC_04",
+    "Atk1Dmg": 595,
+    "Atk2Dmg": 595,
+    "Health": 2419,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/ac_04.png"
+  },
+  {
+    "Name": "Cyber Punk",
+    "ID": "AC_05",
+    "Atk1Dmg": 250,
+    "Atk2Dmg": 250,
+    "Health": 1362,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_05.png"
+  },
+  {
+    "Name": "Viper",
+    "ID": "AC_06",
+    "Atk1Dmg": 631,
+    "Atk2Dmg": 631,
+    "Health": 1788,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_06.png"
+  },
+  {
+    "Name": "Robo Fuerte",
+    "ID": "AC_07",
+    "Atk1Dmg": 856,
+    "Atk2Dmg": 856,
+    "Health": 2181,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/ac_07.png"
+  },
+  {
+    "Name": "Blender",
+    "ID": "AC_08",
+    "Atk1Dmg": 291,
+    "Atk2Dmg": 291,
+    "Health": 1225,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_08.png"
+  },
+  {
+    "Name": "Optimus Zord",
+    "ID": "AC_09",
+    "Atk1Dmg": 310,
+    "Atk2Dmg": 310,
+    "Health": 1761,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_09.png"
+  },
+  {
+    "Name": "Sergeant Dusk",
+    "ID": "AC_10",
+    "Atk1Dmg": 786,
+    "Atk2Dmg": 786,
+    "Health": 1814,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_10.png"
+  },
+  {
+    "Name": "Spin Fury",
+    "ID": "AC_11",
+    "Atk1Dmg": 378,
+    "Atk2Dmg": 378,
+    "Health": 855,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_11.png"
+  },
+  {
+    "Name": "Phileas Derocas",
+    "ID": "AC_12",
+    "Atk1Dmg": 881,
+    "Atk2Dmg": 881,
+    "Health": 2402,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_12.png"
+  },
+  {
+    "Name": "Capsulator MTZ-004",
+    "ID": "AC_13",
+    "Atk1Dmg": 1345,
+    "Atk2Dmg": 1345,
+    "Health": 4356,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ac_13.png"
+  },
+  {
+    "Name": "Professor Chronomantik",
+    "ID": "AC_14",
+    "Atk1Dmg": 1041,
+    "Atk2Dmg": 1041,
+    "Health": 2541,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "AC_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "AC_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "AC_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ac_99.png"
+  },
+  {
+    "Name": "Beetle Bot",
+    "ID": "AD_01",
+    "Atk1Dmg": 657,
+    "Atk2Dmg": 657,
+    "Health": 1838,
+    "Type": "gold",
+    "Price": "144",
+    "Icon": "specimen/ad_01.png"
+  },
+  {
+    "Name": "Monocerus",
+    "ID": "AD_02",
+    "Atk1Dmg": 420,
+    "Atk2Dmg": 420,
+    "Health": 1577,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_02.png"
+  },
+  {
+    "Name": "Taurider",
+    "ID": "AD_03",
+    "Atk1Dmg": 395,
+    "Atk2Dmg": 395,
+    "Health": 1712,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ad_03.png"
+  },
+  {
+    "Name": "Deathcon 1",
+    "ID": "AD_04",
+    "Atk1Dmg": 336,
+    "Atk2Dmg": 336,
+    "Health": 1553,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_04.png"
+  },
+  {
+    "Name": "Cyber Croc",
+    "ID": "AD_05",
+    "Atk1Dmg": 546,
+    "Atk2Dmg": 546,
+    "Health": 1932,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_05.png"
+  },
+  {
+    "Name": "Bio-Hedgehog",
+    "ID": "AD_06",
+    "Atk1Dmg": 796,
+    "Atk2Dmg": 796,
+    "Health": 2646,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_06.png"
+  },
+  {
+    "Name": "Fuel Wasp",
+    "ID": "AD_07",
+    "Atk1Dmg": 266,
+    "Atk2Dmg": 266,
+    "Health": 2211,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_07.png"
+  },
+  {
+    "Name": "Kitty Ranger",
+    "ID": "AD_08",
+    "Atk1Dmg": 314,
+    "Atk2Dmg": 314,
+    "Health": 1616,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_08.png"
+  },
+  {
+    "Name": "Carcinus Gigas",
+    "ID": "AD_09",
+    "Atk1Dmg": 583,
+    "Atk2Dmg": 583,
+    "Health": 2569,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_09.png"
+  },
+  {
+    "Name": "Hippopotank",
+    "ID": "AD_10",
+    "Atk1Dmg": 943,
+    "Atk2Dmg": 943,
+    "Health": 2477,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_10.png"
+  },
+  {
+    "Name": "Hatching Mecharachnidian",
+    "ID": "AD_11",
+    "Atk1Dmg": 605,
+    "Atk2Dmg": 701,
+    "Health": 2951,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ad_11.png"
+  },
+  {
+    "Name": "Lepidoptech",
+    "ID": "AD_12",
+    "Atk1Dmg": 664,
+    "Atk2Dmg": 664,
+    "Health": 1671,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_12.png"
+  },
+  {
+    "Name": "Myrmidus.exe",
+    "ID": "AD_13",
+    "Atk1Dmg": 876,
+    "Atk2Dmg": 876,
+    "Health": 2323,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_13.png"
+  },
+  {
+    "Name": "Origamix",
+    "ID": "AD_14",
+    "Atk1Dmg": 584,
+    "Atk2Dmg": 584,
+    "Health": 354,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "AD_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "AD_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "AD_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ad_99.png"
+  },
+  {
+    "Name": "Colossus",
+    "ID": "AE_01",
+    "Atk1Dmg": 495,
+    "Atk2Dmg": 495,
+    "Health": 1656,
+    "Type": "gold",
+    "Price": "252",
+    "Icon": "specimen/ae_01.png"
+  },
+  {
+    "Name": "Libraro",
+    "ID": "AE_02",
+    "Atk1Dmg": 308,
+    "Atk2Dmg": 308,
+    "Health": 2546,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ae_02.png"
+  },
+  {
+    "Name": "Invadron",
+    "ID": "AE_03",
+    "Atk1Dmg": 670,
+    "Atk2Dmg": 670,
+    "Health": 1888,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_03.png"
+  },
+  {
+    "Name": "Supraman X",
+    "ID": "AE_04",
+    "Atk1Dmg": 551,
+    "Atk2Dmg": 551,
+    "Health": 2423,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/ae_04.png"
+  },
+  {
+    "Name": "CyberSlug",
+    "ID": "AE_05",
+    "Atk1Dmg": 423,
+    "Atk2Dmg": 423,
+    "Health": 1877,
+    "Type": "gold",
+    "Price": "732",
+    "Icon": "specimen/ae_05.png"
+  },
+  {
+    "Name": "Marv",
+    "ID": "AE_06",
+    "Atk1Dmg": 271,
+    "Atk2Dmg": 271,
+    "Health": 1423,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_06.png"
+  },
+  {
+    "Name": "Alfie",
+    "ID": "AE_07",
+    "Atk1Dmg": 887,
+    "Atk2Dmg": 887,
+    "Health": 1722,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_07.png"
+  },
+  {
+    "Name": "Andromeda",
+    "ID": "AE_08",
+    "Atk1Dmg": 455,
+    "Atk2Dmg": 455,
+    "Health": 1065,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_08.png"
+  },
+  {
+    "Name": "Centaurus",
+    "ID": "AE_09",
+    "Atk1Dmg": 443,
+    "Atk2Dmg": 443,
+    "Health": 2383,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_09.png"
+  },
+  {
+    "Name": "Akai-Bot",
+    "ID": "AE_10",
+    "Atk1Dmg": 1041,
+    "Atk2Dmg": 1041,
+    "Health": 4200,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_10.png"
+  },
+  {
+    "Name": "Mix0-Logist",
+    "ID": "AE_11",
+    "Atk1Dmg": 735,
+    "Atk2Dmg": 735,
+    "Health": 2172,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_11.png"
+  },
+  {
+    "Name": "Tenacity",
+    "ID": "AE_12",
+    "Atk1Dmg": 949,
+    "Atk2Dmg": 949,
+    "Health": 2341,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_12.png"
+  },
+  {
+    "Name": "Helidrone KxT-271",
+    "ID": "AE_13",
+    "Atk1Dmg": 585,
+    "Atk2Dmg": 511,
+    "Health": 681,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_13.png"
+  },
+  {
+    "Name": "Giganto-Moai",
+    "ID": "AE_14",
+    "Atk1Dmg": 1011,
+    "Atk2Dmg": 594,
+    "Health": 4212,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "AE_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "AE_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_98.png"
+  },
+  {
+    "Name": "Randonymous",
+    "ID": "AE_99",
+    "Atk1Dmg": 1248,
+    "Atk2Dmg": 1248,
+    "Health": 3566,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ae_99.png"
+  },
+  {
+    "Name": "Deus Machina",
+    "ID": "AF_01",
+    "Atk1Dmg": 368,
+    "Atk2Dmg": 368,
+    "Health": 1395,
+    "Type": "gold",
+    "Price": "864",
+    "Icon": "specimen/af_01.png"
+  },
+  {
+    "Name": "Virgon",
+    "ID": "AF_02",
+    "Atk1Dmg": 255,
+    "Atk2Dmg": 255,
+    "Health": 1931,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/af_02.png"
+  },
+  {
+    "Name": "Halbeard",
+    "ID": "AF_03",
+    "Atk1Dmg": 778,
+    "Atk2Dmg": 778,
+    "Health": 1966,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_03.png"
+  },
+  {
+    "Name": "Autonorush",
+    "ID": "AF_04",
+    "Atk1Dmg": 162,
+    "Atk2Dmg": 162,
+    "Health": 1655,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_04.png"
+  },
+  {
+    "Name": "Abraham Lincoln",
+    "ID": "AF_05",
+    "Atk1Dmg": 1518,
+    "Atk2Dmg": 1518,
+    "Health": 3733,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/af_05.png"
+  },
+  {
+    "Name": "Eva's Replication",
+    "ID": "AF_06",
+    "Atk1Dmg": 439,
+    "Atk2Dmg": 439,
+    "Health": 2633,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/af_06.png"
+  },
+  {
+    "Name": "Bounda",
+    "ID": "AF_07",
+    "Atk1Dmg": 824,
+    "Atk2Dmg": 824,
+    "Health": 2155,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_07.png"
+  },
+  {
+    "Name": "H0ud1n1",
+    "ID": "AF_08",
+    "Atk1Dmg": 402,
+    "Atk2Dmg": 402,
+    "Health": 1693,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_08.png"
+  },
+  {
+    "Name": "Steam Warlord",
+    "ID": "AF_09",
+    "Atk1Dmg": 606,
+    "Atk2Dmg": 606,
+    "Health": 2415,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_09.png"
+  },
+  {
+    "Name": "El Veneno",
+    "ID": "AF_10",
+    "Atk1Dmg": 399,
+    "Atk2Dmg": 399,
+    "Health": 1733,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_10.png"
+  },
+  {
+    "Name": "Heimdall",
+    "ID": "AF_11",
+    "Atk1Dmg": 900,
+    "Atk2Dmg": 900,
+    "Health": 3321,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/af_11.png"
+  },
+  {
+    "Name": "Dream Defender",
+    "ID": "AF_12",
+    "Atk1Dmg": 1025,
+    "Atk2Dmg": 1025,
+    "Health": 2746,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/af_12.png"
+  },
+  {
+    "Name": "Epoch Golem",
+    "ID": "AF_13",
+    "Atk1Dmg": 843,
+    "Atk2Dmg": 843,
+    "Health": 3480,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_13.png"
+  },
+  {
+    "Name": "Black I.C.E.",
+    "ID": "AF_14",
+    "Atk1Dmg": 687,
+    "Atk2Dmg": 687,
+    "Health": 1351,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "AF_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "AF_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_98.png"
+  },
+  {
+    "Name": "A027441",
+    "ID": "AF_99",
+    "Atk1Dmg": 780,
+    "Atk2Dmg": 780,
+    "Health": 2950,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/af_99.png"
+  },
+  {
+    "Name": "Robot",
+    "ID": "A_01",
+    "Atk1Dmg": 274,
+    "Atk2Dmg": 549,
+    "Health": 1819,
+    "Type": "gold",
+    "Price": "36",
+    "Icon": "specimen/a_01.png"
+  },
+  {
+    "Name": "Weak Robot",
+    "ID": "A_02",
+    "Atk1Dmg": 60,
+    "Atk2Dmg": 276,
+    "Health": 500,
+    "Type": "unknown",
+    "Price": "",
+    "Icon": "specimen/a_02.png"
+  },
+  {
+    "Name": "Garuda",
+    "ID": "A_03",
+    "Atk1Dmg": 432,
+    "Atk2Dmg": 248,
+    "Health": 3196,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_03.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_04",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_04.png"
+  },
+  {
+    "Name": "Bounty Hunter",
+    "ID": "A_05",
+    "Atk1Dmg": 515,
+    "Atk2Dmg": 303,
+    "Health": 1922,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/a_05.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_06",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_06.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_07",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_07.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_08",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_08.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_09",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_09.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_10",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_10.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_11",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_11.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_12",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_12.png"
+  },
+  {
+    "Name": "Asimov",
+    "ID": "A_13",
+    "Atk1Dmg": 510,
+    "Atk2Dmg": 442,
+    "Health": 967,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/a_13.png"
+  },
+  {
+    "Name": "Automaton",
+    "ID": "A_14",
+    "Atk1Dmg": 744,
+    "Atk2Dmg": 531,
+    "Health": 1688,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/a_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "A_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/a_99.png"
+  },
+  {
+    "Name": "Zomborg",
+    "ID": "BA_01",
+    "Atk1Dmg": 439,
+    "Atk2Dmg": 439,
+    "Health": 1846,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ba_01.png"
+  },
+  {
+    "Name": "Terrordoll",
+    "ID": "BA_02",
+    "Atk1Dmg": 236,
+    "Atk2Dmg": 236,
+    "Health": 1739,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ba_02.png"
+  },
+  {
+    "Name": "Triple-B",
+    "ID": "BA_03",
+    "Atk1Dmg": 639,
+    "Atk2Dmg": 639,
+    "Health": 1982,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_03.png"
+  },
+  {
+    "Name": "The Experiment",
+    "ID": "BA_04",
+    "Atk1Dmg": 365,
+    "Atk2Dmg": 365,
+    "Health": 1595,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_04.png"
+  },
+  {
+    "Name": "Doctor Blaw",
+    "ID": "BA_05",
+    "Atk1Dmg": 542,
+    "Atk2Dmg": 542,
+    "Health": 1834,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_05.png"
+  },
+  {
+    "Name": "Z-0",
+    "ID": "BA_06",
+    "Atk1Dmg": 947,
+    "Atk2Dmg": 947,
+    "Health": 2041,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_06.png"
+  },
+  {
+    "Name": "Peekaboo",
+    "ID": "BA_07",
+    "Atk1Dmg": 374,
+    "Atk2Dmg": 374,
+    "Health": 2042,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_07.png"
+  },
+  {
+    "Name": "Naraxis",
+    "ID": "BA_08",
+    "Atk1Dmg": 335,
+    "Atk2Dmg": 335,
+    "Health": 1848,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_08.png"
+  },
+  {
+    "Name": "Excavalypse",
+    "ID": "BA_09",
+    "Atk1Dmg": 814,
+    "Atk2Dmg": 814,
+    "Health": 2312,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_09.png"
+  },
+  {
+    "Name": "Hellsaw",
+    "ID": "BA_10",
+    "Atk1Dmg": 732,
+    "Atk2Dmg": 732,
+    "Health": 2585,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_10.png"
+  },
+  {
+    "Name": "Roadmaster",
+    "ID": "BA_11",
+    "Atk1Dmg": 225,
+    "Atk2Dmg": 392,
+    "Health": 2689,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_11.png"
+  },
+  {
+    "Name": "Cr€$u$",
+    "ID": "BA_12",
+    "Atk1Dmg": 607,
+    "Atk2Dmg": 1077,
+    "Health": 2499,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_12.png"
+  },
+  {
+    "Name": "The Anarchic",
+    "ID": "BA_13",
+    "Atk1Dmg": 445,
+    "Atk2Dmg": 445,
+    "Health": 1488,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_13.png"
+  },
+  {
+    "Name": "Mecargoyle",
+    "ID": "BA_14",
+    "Atk1Dmg": 1224,
+    "Atk2Dmg": 1224,
+    "Health": 2221,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ba_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "BA_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "BA_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "BA_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ba_99.png"
+  },
+  {
+    "Name": "Leech Lord",
+    "ID": "BB_01",
+    "Atk1Dmg": 609,
+    "Atk2Dmg": 349,
+    "Health": 2151,
+    "Type": "gold",
+    "Price": "36",
+    "Icon": "specimen/bb_01.png"
+  },
+  {
+    "Name": "Crypt Wraith",
+    "ID": "BB_02",
+    "Atk1Dmg": 339,
+    "Atk2Dmg": 195,
+    "Health": 1758,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/bb_02.png"
+  },
+  {
+    "Name": "Cursed Rider",
+    "ID": "BB_03",
+    "Atk1Dmg": 228,
+    "Atk2Dmg": 133,
+    "Health": 2080,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_03.png"
+  },
+  {
+    "Name": "The Boogey Girl",
+    "ID": "BB_04",
+    "Atk1Dmg": 255,
+    "Atk2Dmg": 146,
+    "Health": 1538,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_04.png"
+  },
+  {
+    "Name": "Soul Eater",
+    "ID": "BB_05",
+    "Atk1Dmg": 813,
+    "Atk2Dmg": 468,
+    "Health": 2375,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_05.png"
+  },
+  {
+    "Name": "The Glutton",
+    "ID": "BB_06",
+    "Atk1Dmg": 611,
+    "Atk2Dmg": 351,
+    "Health": 2164,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_06.png"
+  },
+  {
+    "Name": "Necroparasyte",
+    "ID": "BB_07",
+    "Atk1Dmg": 308,
+    "Atk2Dmg": 175,
+    "Health": 2219,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_07.png"
+  },
+  {
+    "Name": "Plague Witch",
+    "ID": "BB_08",
+    "Atk1Dmg": 389,
+    "Atk2Dmg": 228,
+    "Health": 1798,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_08.png"
+  },
+  {
+    "Name": "Frankenhuahua",
+    "ID": "BB_09",
+    "Atk1Dmg": 344,
+    "Atk2Dmg": 148,
+    "Health": 1571,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_09.png"
+  },
+  {
+    "Name": "T-3rr0r",
+    "ID": "BB_10",
+    "Atk1Dmg": 440,
+    "Atk2Dmg": 253,
+    "Health": 2840,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_10.png"
+  },
+  {
+    "Name": "The Forgotten One",
+    "ID": "BB_11",
+    "Atk1Dmg": 1036,
+    "Atk2Dmg": 613,
+    "Health": 5480,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/bb_11.png"
+  },
+  {
+    "Name": "The Lantern Doctor",
+    "ID": "BB_12",
+    "Atk1Dmg": 1211,
+    "Atk2Dmg": 606,
+    "Health": 4119,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/bb_12.png"
+  },
+  {
+    "Name": "The Phosphorescent",
+    "ID": "BB_13",
+    "Atk1Dmg": 1011,
+    "Atk2Dmg": 586,
+    "Health": 2833,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_13.png"
+  },
+  {
+    "Name": "",
+    "ID": "BB_14",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/bb_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "BB_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "BB_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "BB_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bb_99.png"
+  },
+  {
+    "Name": "Dire Despot",
+    "ID": "BC_01",
+    "Atk1Dmg": 559,
+    "Atk2Dmg": 559,
+    "Health": 1919,
+    "Type": "gold",
+    "Price": "36",
+    "Icon": "specimen/bc_01.png"
+  },
+  {
+    "Name": "Captain Bag ‘O’ Bones",
+    "ID": "BC_02",
+    "Atk1Dmg": 347,
+    "Atk2Dmg": 347,
+    "Health": 1351,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/bc_02.png"
+  },
+  {
+    "Name": "Micky Krueger",
+    "ID": "BC_03",
+    "Atk1Dmg": 331,
+    "Atk2Dmg": 331,
+    "Health": 1414,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_03.png"
+  },
+  {
+    "Name": "George Washington",
+    "ID": "BC_04",
+    "Atk1Dmg": 1284,
+    "Atk2Dmg": 1284,
+    "Health": 3926,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/bc_04.png"
+  },
+  {
+    "Name": "Psycho Chainsawer",
+    "ID": "BC_05",
+    "Atk1Dmg": 465,
+    "Atk2Dmg": 465,
+    "Health": 1727,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_05.png"
+  },
+  {
+    "Name": "Dandy Bones",
+    "ID": "BC_06",
+    "Atk1Dmg": 543,
+    "Atk2Dmg": 543,
+    "Health": 1831,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_06.png"
+  },
+  {
+    "Name": "Muddypeat",
+    "ID": "BC_07",
+    "Atk1Dmg": 694,
+    "Atk2Dmg": 694,
+    "Health": 1752,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_07.png"
+  },
+  {
+    "Name": "Thrann",
+    "ID": "BC_08",
+    "Atk1Dmg": 862,
+    "Atk2Dmg": 862,
+    "Health": 1482,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_08.png"
+  },
+  {
+    "Name": "The Collector",
+    "ID": "BC_09",
+    "Atk1Dmg": 675,
+    "Atk2Dmg": 675,
+    "Health": 2138,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_09.png"
+  },
+  {
+    "Name": "King Lulu",
+    "ID": "BC_10",
+    "Atk1Dmg": 1113,
+    "Atk2Dmg": 1113,
+    "Health": 1981,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_10.png"
+  },
+  {
+    "Name": "Ragefang",
+    "ID": "BC_11",
+    "Atk1Dmg": 202,
+    "Atk2Dmg": 202,
+    "Health": 2367,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_11.png"
+  },
+  {
+    "Name": "Charon",
+    "ID": "BC_12",
+    "Atk1Dmg": 1432,
+    "Atk2Dmg": 1432,
+    "Health": 4851,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/bc_12.png"
+  },
+  {
+    "Name": "The Flaying, MD",
+    "ID": "BC_13",
+    "Atk1Dmg": 730,
+    "Atk2Dmg": 730,
+    "Health": 2020,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_13.png"
+  },
+  {
+    "Name": "Perfitrouille",
+    "ID": "BC_14",
+    "Atk1Dmg": 834,
+    "Atk2Dmg": 834,
+    "Health": 1432,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "BC_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "BC_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "BC_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bc_99.png"
+  },
+  {
+    "Name": "Undead Dragon",
+    "ID": "BD_01",
+    "Atk1Dmg": 584,
+    "Atk2Dmg": 584,
+    "Health": 1950,
+    "Type": "gold",
+    "Price": "432",
+    "Icon": "specimen/bd_01.png"
+  },
+  {
+    "Name": "Cancernia",
+    "ID": "BD_02",
+    "Atk1Dmg": 636,
+    "Atk2Dmg": 636,
+    "Health": 2449,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/bd_02.png"
+  },
+  {
+    "Name": "Scare Bear",
+    "ID": "BD_03",
+    "Atk1Dmg": 328,
+    "Atk2Dmg": 328,
+    "Health": 1501,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_03.png"
+  },
+  {
+    "Name": "Lady Harpy",
+    "ID": "BD_04",
+    "Atk1Dmg": 226,
+    "Atk2Dmg": 226,
+    "Health": 1154,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_04.png"
+  },
+  {
+    "Name": "Bulldozer",
+    "ID": "BD_05",
+    "Atk1Dmg": 516,
+    "Atk2Dmg": 516,
+    "Health": 1800,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_05.png"
+  },
+  {
+    "Name": "Mur'Ghoul",
+    "ID": "BD_06",
+    "Atk1Dmg": 428,
+    "Atk2Dmg": 428,
+    "Health": 1912,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_06.png"
+  },
+  {
+    "Name": "The Primal",
+    "ID": "BD_07",
+    "Atk1Dmg": 516,
+    "Atk2Dmg": 516,
+    "Health": 2622,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/bd_07.png"
+  },
+  {
+    "Name": "Runt and Cerebro",
+    "ID": "BD_08",
+    "Atk1Dmg": 471,
+    "Atk2Dmg": 471,
+    "Health": 1657,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_08.png"
+  },
+  {
+    "Name": "Hellmaw",
+    "ID": "BD_09",
+    "Atk1Dmg": 282,
+    "Atk2Dmg": 282,
+    "Health": 1499,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_09.png"
+  },
+  {
+    "Name": "Waryena",
+    "ID": "BD_10",
+    "Atk1Dmg": 806,
+    "Atk2Dmg": 806,
+    "Health": 2222,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_10.png"
+  },
+  {
+    "Name": "Cooktouille",
+    "ID": "BD_11",
+    "Atk1Dmg": 720,
+    "Atk2Dmg": 720,
+    "Health": 1920,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_11.png"
+  },
+  {
+    "Name": "Thanaconda",
+    "ID": "BD_12",
+    "Atk1Dmg": 841,
+    "Atk2Dmg": 841,
+    "Health": 2093,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_12.png"
+  },
+  {
+    "Name": "Bloodsquito",
+    "ID": "BD_13",
+    "Atk1Dmg": 594,
+    "Atk2Dmg": 594,
+    "Health": 860,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/bd_13.png"
+  },
+  {
+    "Name": "Greensward Rager ",
+    "ID": "BD_14",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 684,
+    "Health": 2386,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "BD_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "BD_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_98.png"
+  },
+  {
+    "Name": "Tengu",
+    "ID": "BD_99",
+    "Atk1Dmg": 491,
+    "Atk2Dmg": 491,
+    "Health": 1977,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bd_99.png"
+  },
+  {
+    "Name": "Ghostmonaut",
+    "ID": "BE_01",
+    "Atk1Dmg": 576,
+    "Atk2Dmg": 576,
+    "Health": 1981,
+    "Type": "gold",
+    "Price": "252",
+    "Icon": "specimen/be_01.png"
+  },
+  {
+    "Name": "Caprika",
+    "ID": "BE_02",
+    "Atk1Dmg": 531,
+    "Atk2Dmg": 531,
+    "Health": 1837,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/be_02.png"
+  },
+  {
+    "Name": "Humongous",
+    "ID": "BE_03",
+    "Atk1Dmg": 473,
+    "Atk2Dmg": 473,
+    "Health": 1838,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/be_03.png"
+  },
+  {
+    "Name": "Commodore Le Shark",
+    "ID": "BE_04",
+    "Atk1Dmg": 982,
+    "Atk2Dmg": 982,
+    "Health": 2495,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/be_04.png"
+  },
+  {
+    "Name": "Nyrlatoth",
+    "ID": "BE_05",
+    "Atk1Dmg": 420,
+    "Atk2Dmg": 420,
+    "Health": 1810,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_05.png"
+  },
+  {
+    "Name": "Apophis",
+    "ID": "BE_06",
+    "Atk1Dmg": 264,
+    "Atk2Dmg": 264,
+    "Health": 1541,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_06.png"
+  },
+  {
+    "Name": "Nezarim",
+    "ID": "BE_07",
+    "Atk1Dmg": 590,
+    "Atk2Dmg": 590,
+    "Health": 1746,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_07.png"
+  },
+  {
+    "Name": "Dug Dario",
+    "ID": "BE_08",
+    "Atk1Dmg": 500,
+    "Atk2Dmg": 500,
+    "Health": 1929,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_08.png"
+  },
+  {
+    "Name": "Pyrothrope",
+    "ID": "BE_09",
+    "Atk1Dmg": 529,
+    "Atk2Dmg": 529,
+    "Health": 1924,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_09.png"
+  },
+  {
+    "Name": "Overkill",
+    "ID": "BE_10",
+    "Atk1Dmg": 924,
+    "Atk2Dmg": 924,
+    "Health": 2208,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_10.png"
+  },
+  {
+    "Name": "Oculys",
+    "ID": "BE_11",
+    "Atk1Dmg": 1113,
+    "Atk2Dmg": 1113,
+    "Health": 2171,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_11.png"
+  },
+  {
+    "Name": "Ichorous Slime",
+    "ID": "BE_12",
+    "Atk1Dmg": 708,
+    "Atk2Dmg": 708,
+    "Health": 3246,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_12.png"
+  },
+  {
+    "Name": "Wormhole Traveler",
+    "ID": "BE_13",
+    "Atk1Dmg": 1776,
+    "Atk2Dmg": 1776,
+    "Health": 1503,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/be_13.png"
+  },
+  {
+    "Name": "",
+    "ID": "BE_14",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/be_14.png"
+  },
+  {
+    "Name": "The Hunger",
+    "ID": "BE_15",
+    "Atk1Dmg": 2430,
+    "Atk2Dmg": 2430,
+    "Health": 3120,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "BE_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "BE_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/be_99.png"
+  },
+  {
+    "Name": "Baron Lundi",
+    "ID": "BF_01",
+    "Atk1Dmg": 419,
+    "Atk2Dmg": 419,
+    "Health": 1750,
+    "Type": "gold",
+    "Price": "360",
+    "Icon": "specimen/bf_01.png"
+  },
+  {
+    "Name": "Lichlock",
+    "ID": "BF_02",
+    "Atk1Dmg": 220,
+    "Atk2Dmg": 220,
+    "Health": 2111,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/bf_02.png"
+  },
+  {
+    "Name": "Rammerhead",
+    "ID": "BF_03",
+    "Atk1Dmg": 883,
+    "Atk2Dmg": 883,
+    "Health": 2987,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/bf_03.png"
+  },
+  {
+    "Name": "Galactic Emperor",
+    "ID": "BF_04",
+    "Atk1Dmg": 361,
+    "Atk2Dmg": 361,
+    "Health": 2094,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/bf_04.png"
+  },
+  {
+    "Name": "Britany",
+    "ID": "BF_05",
+    "Atk1Dmg": 585,
+    "Atk2Dmg": 585,
+    "Health": 1952,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bf_05.png"
+  },
+  {
+    "Name": "The King of Mimphys",
+    "ID": "BF_06",
+    "Atk1Dmg": 510,
+    "Atk2Dmg": 510,
+    "Health": 1680,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bf_06.png"
+  },
+  {
+    "Name": "Mushbark",
+    "ID": "BF_07",
+    "Atk1Dmg": 575,
+    "Atk2Dmg": 575,
+    "Health": 1738,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bf_07.png"
+  },
+  {
+    "Name": "Van Helsing",
+    "ID": "BF_08",
+    "Atk1Dmg": 519,
+    "Atk2Dmg": 519,
+    "Health": 1913,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bf_08.png"
+  },
+  {
+    "Name": "Calaca",
+    "ID": "BF_09",
+    "Atk1Dmg": 1469,
+    "Atk2Dmg": 1469,
+    "Health": 4348,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/bf_09.png"
+  },
+  {
+    "Name": "The Undertaker",
+    "ID": "BF_10",
+    "Atk1Dmg": 951,
+    "Atk2Dmg": 951,
+    "Health": 2657,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bf_10.png"
+  },
+  {
+    "Name": "Acheron",
+    "ID": "BF_11",
+    "Atk1Dmg": 1480,
+    "Atk2Dmg": 740,
+    "Health": 2926,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/bf_11.png"
+  },
+  {
+    "Name": "Desecrated Cleric",
+    "ID": "BF_12",
+    "Atk1Dmg": 685,
+    "Atk2Dmg": 382,
+    "Health": 2951,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bf_12.png"
+  },
+  {
+    "Name": "Soul Coalescence",
+    "ID": "BF_13",
+    "Atk1Dmg": 917,
+    "Atk2Dmg": 917,
+    "Health": 4547,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/bf_13.png"
+  },
+  {
+    "Name": "Irradiance",
+    "ID": "BF_14",
+    "Atk1Dmg": 1514,
+    "Atk2Dmg": 1514,
+    "Health": 1861,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/bf_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "BF_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bf_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "BF_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bf_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "BF_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/bf_99.png"
+  },
+  {
+    "Name": "Zombie",
+    "ID": "B_01",
+    "Atk1Dmg": 331,
+    "Atk2Dmg": 331,
+    "Health": 1425,
+    "Type": "gold",
+    "Price": "36",
+    "Icon": "specimen/b_01.png"
+  },
+  {
+    "Name": "Weak Zombie",
+    "ID": "B_02",
+    "Atk1Dmg": 150,
+    "Atk2Dmg": 252,
+    "Health": 400,
+    "Type": "unknown",
+    "Price": "",
+    "Icon": "specimen/b_02.png"
+  },
+  {
+    "Name": "Jack O'Lantern",
+    "ID": "B_03",
+    "Atk1Dmg": 519,
+    "Atk2Dmg": 300,
+    "Health": 2851,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_03.png"
+  },
+  {
+    "Name": "Crow",
+    "ID": "B_04",
+    "Atk1Dmg": 865,
+    "Atk2Dmg": 496,
+    "Health": 3531,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_04.png"
+  },
+  {
+    "Name": "Drudge Zombie",
+    "ID": "B_05",
+    "Atk1Dmg": 507,
+    "Atk2Dmg": 507,
+    "Health": 2230,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/b_05.png"
+  },
+  {
+    "Name": "",
+    "ID": "B_06",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_06.png"
+  },
+  {
+    "Name": "",
+    "ID": "B_07",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_07.png"
+  },
+  {
+    "Name": "",
+    "ID": "B_08",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_08.png"
+  },
+  {
+    "Name": "",
+    "ID": "B_09",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_09.png"
+  },
+  {
+    "Name": "",
+    "ID": "B_10",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_10.png"
+  },
+  {
+    "Name": "",
+    "ID": "B_11",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_11.png"
+  },
+  {
+    "Name": "Ossembly",
+    "ID": "B_12",
+    "Atk1Dmg": 719,
+    "Atk2Dmg": 719,
+    "Health": 1680,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/b_12.png"
+  },
+  {
+    "Name": "GAR, Zombie Sovereign",
+    "ID": "B_13",
+    "Atk1Dmg": 807,
+    "Atk2Dmg": 574,
+    "Health": 3625,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/b_13.png"
+  },
+  {
+    "Name": "Spectroplasm",
+    "ID": "B_14",
+    "Atk1Dmg": 721,
+    "Atk2Dmg": 561,
+    "Health": 1951,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/b_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "B_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "B_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "B_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/b_99.png"
+  },
+  {
+    "Name": "Enforcer",
+    "ID": "CA_01",
+    "Atk1Dmg": 485,
+    "Atk2Dmg": 485,
+    "Health": 1567,
+    "Type": "gold",
+    "Price": "36",
+    "Icon": "specimen/ca_01.png"
+  },
+  {
+    "Name": "Interceptrix",
+    "ID": "CA_02",
+    "Atk1Dmg": 257,
+    "Atk2Dmg": 257,
+    "Health": 1189,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ca_02.png"
+  },
+  {
+    "Name": "General Chaos",
+    "ID": "CA_03",
+    "Atk1Dmg": 390,
+    "Atk2Dmg": 390,
+    "Health": 1464,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ca_03.png"
+  },
+  {
+    "Name": "Project X27",
+    "ID": "CA_04",
+    "Atk1Dmg": 157,
+    "Atk2Dmg": 157,
+    "Health": 960,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_04.png"
+  },
+  {
+    "Name": "Challengeer",
+    "ID": "CA_05",
+    "Atk1Dmg": 595,
+    "Atk2Dmg": 595,
+    "Health": 1297,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_05.png"
+  },
+  {
+    "Name": "RA-DK-Bot",
+    "ID": "CA_06",
+    "Atk1Dmg": 830,
+    "Atk2Dmg": 830,
+    "Health": 2321,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_06.png"
+  },
+  {
+    "Name": "Rocky Botboa",
+    "ID": "CA_07",
+    "Atk1Dmg": 732,
+    "Atk2Dmg": 732,
+    "Health": 2931,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_07.png"
+  },
+  {
+    "Name": "Makino",
+    "ID": "CA_08",
+    "Atk1Dmg": 243,
+    "Atk2Dmg": 243,
+    "Health": 931,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_08.png"
+  },
+  {
+    "Name": "Big Bo$$",
+    "ID": "CA_09",
+    "Atk1Dmg": 1515,
+    "Atk2Dmg": 1515,
+    "Health": 4157,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ca_09.png"
+  },
+  {
+    "Name": "Altaris",
+    "ID": "CA_10",
+    "Atk1Dmg": 1238,
+    "Atk2Dmg": 1238,
+    "Health": 2315,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_10.png"
+  },
+  {
+    "Name": "The Reef",
+    "ID": "CA_11",
+    "Atk1Dmg": 577,
+    "Atk2Dmg": 577,
+    "Health": 1277,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ca_11.png"
+  },
+  {
+    "Name": "Terracotta General",
+    "ID": "CA_12",
+    "Atk1Dmg": 845,
+    "Atk2Dmg": 464,
+    "Health": 2234,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_12.png"
+  },
+  {
+    "Name": "Anteros",
+    "ID": "CA_13",
+    "Atk1Dmg": 976,
+    "Atk2Dmg": 976,
+    "Health": 3434,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ca_13.png"
+  },
+  {
+    "Name": "Breakmaster",
+    "ID": "CA_14",
+    "Atk1Dmg": 1233,
+    "Atk2Dmg": 870,
+    "Health": 2166,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "CA_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "CA_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_98.png"
+  },
+  {
+    "Name": "Awakened Missy",
+    "ID": "CA_99",
+    "Atk1Dmg": 1200,
+    "Atk2Dmg": 1200,
+    "Health": 2512,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ca_99.png"
+  },
+  {
+    "Name": "Blade Banshee",
+    "ID": "CB_01",
+    "Atk1Dmg": 299,
+    "Atk2Dmg": 299,
+    "Health": 1280,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/cb_01.png"
+  },
+  {
+    "Name": "Bushi",
+    "ID": "CB_02",
+    "Atk1Dmg": 540,
+    "Atk2Dmg": 540,
+    "Health": 1770,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/cb_02.png"
+  },
+  {
+    "Name": "Ragnar",
+    "ID": "CB_03",
+    "Atk1Dmg": 455,
+    "Atk2Dmg": 455,
+    "Health": 1577,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_03.png"
+  },
+  {
+    "Name": "Leonidas",
+    "ID": "CB_04",
+    "Atk1Dmg": 516,
+    "Atk2Dmg": 516,
+    "Health": 1777,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_04.png"
+  },
+  {
+    "Name": "Cupid",
+    "ID": "CB_05",
+    "Atk1Dmg": 926,
+    "Atk2Dmg": 926,
+    "Health": 3472,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/cb_05.png"
+  },
+  {
+    "Name": "Scarlett",
+    "ID": "CB_06",
+    "Atk1Dmg": 720,
+    "Atk2Dmg": 720,
+    "Health": 2813,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/cb_06.png"
+  },
+  {
+    "Name": "The Skeleton King",
+    "ID": "CB_07",
+    "Atk1Dmg": 621,
+    "Atk2Dmg": 621,
+    "Health": 1670,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_07.png"
+  },
+  {
+    "Name": "Wrath",
+    "ID": "CB_08",
+    "Atk1Dmg": 1120,
+    "Atk2Dmg": 1120,
+    "Health": 1463,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_08.png"
+  },
+  {
+    "Name": "Jane Saw",
+    "ID": "CB_09",
+    "Atk1Dmg": 617,
+    "Atk2Dmg": 617,
+    "Health": 2174,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_09.png"
+  },
+  {
+    "Name": "Frankendwarf",
+    "ID": "CB_10",
+    "Atk1Dmg": 720,
+    "Atk2Dmg": 720,
+    "Health": 2169,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_10.png"
+  },
+  {
+    "Name": "Dissension",
+    "ID": "CB_11",
+    "Atk1Dmg": 827,
+    "Atk2Dmg": 575,
+    "Health": 2081,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_11.png"
+  },
+  {
+    "Name": "Cranequin",
+    "ID": "CB_12",
+    "Atk1Dmg": 826,
+    "Atk2Dmg": 826,
+    "Health": 1740,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_12.png"
+  },
+  {
+    "Name": "The Mutiny",
+    "ID": "CB_13",
+    "Atk1Dmg": 815,
+    "Atk2Dmg": 815,
+    "Health": 2587,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_13.png"
+  },
+  {
+    "Name": "Fleet Captain Blackbeard",
+    "ID": "CB_14",
+    "Atk1Dmg": 748,
+    "Atk2Dmg": 748,
+    "Health": 2511,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "CB_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "CB_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "CB_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cb_99.png"
+  },
+  {
+    "Name": "Nordic Knightmare",
+    "ID": "CC_01",
+    "Atk1Dmg": 515,
+    "Atk2Dmg": 296,
+    "Health": 1843,
+    "Type": "gold",
+    "Price": "36",
+    "Icon": "specimen/cc_01.png"
+  },
+  {
+    "Name": "Buck Maurice",
+    "ID": "CC_02",
+    "Atk1Dmg": 996,
+    "Atk2Dmg": 593,
+    "Health": 2920,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_02.png"
+  },
+  {
+    "Name": "Zena",
+    "ID": "CC_03",
+    "Atk1Dmg": 352,
+    "Atk2Dmg": 177,
+    "Health": 846,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_03.png"
+  },
+  {
+    "Name": "Lara",
+    "ID": "CC_04",
+    "Atk1Dmg": 435,
+    "Atk2Dmg": 251,
+    "Health": 2851,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/cc_04.png"
+  },
+  {
+    "Name": "Shin Hakuho",
+    "ID": "CC_05",
+    "Atk1Dmg": 744,
+    "Atk2Dmg": 428,
+    "Health": 2309,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_05.png"
+  },
+  {
+    "Name": "El Gringo",
+    "ID": "CC_06",
+    "Atk1Dmg": 238,
+    "Atk2Dmg": 134,
+    "Health": 1395,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_06.png"
+  },
+  {
+    "Name": "Spartac",
+    "ID": "CC_07",
+    "Atk1Dmg": 1800,
+    "Atk2Dmg": 899,
+    "Health": 4630,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_07.png"
+  },
+  {
+    "Name": "Yokozuna",
+    "ID": "CC_08",
+    "Atk1Dmg": 329,
+    "Atk2Dmg": 189,
+    "Health": 1594,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_08.png"
+  },
+  {
+    "Name": "Lancelot",
+    "ID": "CC_09",
+    "Atk1Dmg": 954,
+    "Atk2Dmg": 358,
+    "Health": 1650,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_09.png"
+  },
+  {
+    "Name": "Urgan",
+    "ID": "CC_10",
+    "Atk1Dmg": 1126,
+    "Atk2Dmg": 569,
+    "Health": 2406,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_10.png"
+  },
+  {
+    "Name": "Santagonist",
+    "ID": "CC_11",
+    "Atk1Dmg": 1400,
+    "Atk2Dmg": 700,
+    "Health": 4675,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/cc_11.png"
+  },
+  {
+    "Name": "Scaramouche",
+    "ID": "CC_12",
+    "Atk1Dmg": 590,
+    "Atk2Dmg": 386,
+    "Health": 915,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_12.png"
+  },
+  {
+    "Name": "Limitless Friendship",
+    "ID": "CC_13",
+    "Atk1Dmg": 897,
+    "Atk2Dmg": 677,
+    "Health": 1983,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_13.png"
+  },
+  {
+    "Name": "Blue King",
+    "ID": "CC_14",
+    "Atk1Dmg": 944,
+    "Atk2Dmg": 633,
+    "Health": 2882,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/cc_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "CC_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "CC_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "CC_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cc_99.png"
+  },
+  {
+    "Name": "Honey Bunny",
+    "ID": "CD_01",
+    "Atk1Dmg": 181,
+    "Atk2Dmg": 181,
+    "Health": 1085,
+    "Type": "gold",
+    "Price": "144",
+    "Icon": "specimen/cd_01.png"
+  },
+  {
+    "Name": "Sagittaurius",
+    "ID": "CD_02",
+    "Atk1Dmg": 740,
+    "Atk2Dmg": 740,
+    "Health": 1855,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/cd_02.png"
+  },
+  {
+    "Name": "Haggis",
+    "ID": "CD_03",
+    "Atk1Dmg": 641,
+    "Atk2Dmg": 641,
+    "Health": 1860,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/cd_03.png"
+  },
+  {
+    "Name": "Battle Toad",
+    "ID": "CD_04",
+    "Atk1Dmg": 177,
+    "Atk2Dmg": 177,
+    "Health": 1713,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_04.png"
+  },
+  {
+    "Name": "Hog the Ripper",
+    "ID": "CD_05",
+    "Atk1Dmg": 1633,
+    "Atk2Dmg": 1633,
+    "Health": 4580,
+    "Type": "unknown",
+    "Price": "",
+    "Icon": "specimen/cd_05.png"
+  },
+  {
+    "Name": "Sir Puggington",
+    "ID": "CD_06",
+    "Atk1Dmg": 699,
+    "Atk2Dmg": 699,
+    "Health": 3268,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_06.png"
+  },
+  {
+    "Name": "Jack Ice",
+    "ID": "CD_07",
+    "Atk1Dmg": 1188,
+    "Atk2Dmg": 1188,
+    "Health": 4154,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_07.png"
+  },
+  {
+    "Name": "Drall",
+    "ID": "CD_08",
+    "Atk1Dmg": 668,
+    "Atk2Dmg": 668,
+    "Health": 2752,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_08.png"
+  },
+  {
+    "Name": "Mon-Key Crew",
+    "ID": "CD_09",
+    "Atk1Dmg": 341,
+    "Atk2Dmg": 341,
+    "Health": 1471,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_09.png"
+  },
+  {
+    "Name": "Men'ki Guard",
+    "ID": "CD_10",
+    "Atk1Dmg": 405,
+    "Atk2Dmg": 405,
+    "Health": 1350,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_10.png"
+  },
+  {
+    "Name": "Sir Bannog",
+    "ID": "CD_11",
+    "Atk1Dmg": 679,
+    "Atk2Dmg": 679,
+    "Health": 2127,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_11.png"
+  },
+  {
+    "Name": "Captain Eagle",
+    "ID": "CD_12",
+    "Atk1Dmg": 1012,
+    "Atk2Dmg": 1012,
+    "Health": 3494,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/cd_12.png"
+  },
+  {
+    "Name": "Bearsikk Siklaest",
+    "ID": "CD_13",
+    "Atk1Dmg": 815,
+    "Atk2Dmg": 815,
+    "Health": 2544,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_13.png"
+  },
+  {
+    "Name": "Don Gamberetti",
+    "ID": "CD_14",
+    "Atk1Dmg": 1277,
+    "Atk2Dmg": 1277,
+    "Health": 1972,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/cd_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "CD_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "CD_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "CD_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cd_99.png"
+  },
+  {
+    "Name": "Martian Marauder",
+    "ID": "CE_01",
+    "Atk1Dmg": 210,
+    "Atk2Dmg": 210,
+    "Health": 1109,
+    "Type": "gold",
+    "Price": "756",
+    "Icon": "specimen/ce_01.png"
+  },
+  {
+    "Name": "Geminium",
+    "ID": "CE_02",
+    "Atk1Dmg": 706,
+    "Atk2Dmg": 706,
+    "Health": 2503,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ce_02.png"
+  },
+  {
+    "Name": "Galactic Guardian",
+    "ID": "CE_03",
+    "Atk1Dmg": 650,
+    "Atk2Dmg": 650,
+    "Health": 1780,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_03.png"
+  },
+  {
+    "Name": "Apex",
+    "ID": "CE_04",
+    "Atk1Dmg": 201,
+    "Atk2Dmg": 201,
+    "Health": 1610,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_04.png"
+  },
+  {
+    "Name": "Sun-Duke",
+    "ID": "CE_05",
+    "Atk1Dmg": 531,
+    "Atk2Dmg": 531,
+    "Health": 1405,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/ce_05.png"
+  },
+  {
+    "Name": "Iron Eagle",
+    "ID": "CE_06",
+    "Atk1Dmg": 328,
+    "Atk2Dmg": 328,
+    "Health": 1337,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_06.png"
+  },
+  {
+    "Name": "Aran",
+    "ID": "CE_07",
+    "Atk1Dmg": 895,
+    "Atk2Dmg": 895,
+    "Health": 1423,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_07.png"
+  },
+  {
+    "Name": "Nameless King",
+    "ID": "CE_08",
+    "Atk1Dmg": 622,
+    "Atk2Dmg": 622,
+    "Health": 1551,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_08.png"
+  },
+  {
+    "Name": "Tsar Bomba",
+    "ID": "CE_09",
+    "Atk1Dmg": 608,
+    "Atk2Dmg": 608,
+    "Health": 1867,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_09.png"
+  },
+  {
+    "Name": "Captain Achabe",
+    "ID": "CE_10",
+    "Atk1Dmg": 667,
+    "Atk2Dmg": 667,
+    "Health": 3550,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_10.png"
+  },
+  {
+    "Name": "Chun-Lei",
+    "ID": "CE_11",
+    "Atk1Dmg": 280,
+    "Atk2Dmg": 280,
+    "Health": 875,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_11.png"
+  },
+  {
+    "Name": "Regulo&Juzya",
+    "ID": "CE_12",
+    "Atk1Dmg": 1240,
+    "Atk2Dmg": 1240,
+    "Health": 2560,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ce_12.png"
+  },
+  {
+    "Name": "Atlas",
+    "ID": "CE_13",
+    "Atk1Dmg": 1033,
+    "Atk2Dmg": 1033,
+    "Health": 2331,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_13.png"
+  },
+  {
+    "Name": "Cosmic Dandy",
+    "ID": "CE_14",
+    "Atk1Dmg": 1232,
+    "Atk2Dmg": 1232,
+    "Health": 1144,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ce_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "CE_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "CE_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_98.png"
+  },
+  {
+    "Name": "Kolossus",
+    "ID": "CE_99",
+    "Atk1Dmg": 1672,
+    "Atk2Dmg": 1672,
+    "Health": 5780,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ce_99.png"
+  },
+  {
+    "Name": "Valkyrie",
+    "ID": "CF_01",
+    "Atk1Dmg": 417,
+    "Atk2Dmg": 417,
+    "Health": 1556,
+    "Type": "gold",
+    "Price": "360",
+    "Icon": "specimen/cf_01.png"
+  },
+  {
+    "Name": "Thor",
+    "ID": "CF_02",
+    "Atk1Dmg": 700,
+    "Atk2Dmg": 700,
+    "Health": 1917,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_02.png"
+  },
+  {
+    "Name": "Tinker Blade",
+    "ID": "CF_03",
+    "Atk1Dmg": 220,
+    "Atk2Dmg": 220,
+    "Health": 746,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_03.png"
+  },
+  {
+    "Name": "Azog",
+    "ID": "CF_04",
+    "Atk1Dmg": 948,
+    "Atk2Dmg": 948,
+    "Health": 1976,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_04.png"
+  },
+  {
+    "Name": "Akuso Monk",
+    "ID": "CF_05",
+    "Atk1Dmg": 292,
+    "Atk2Dmg": 292,
+    "Health": 1511,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_05.png"
+  },
+  {
+    "Name": "Uncle Sam",
+    "ID": "CF_06",
+    "Atk1Dmg": 1197,
+    "Atk2Dmg": 1197,
+    "Health": 3469,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/cf_06.png"
+  },
+  {
+    "Name": "Big Santa",
+    "ID": "CF_07",
+    "Atk1Dmg": 946,
+    "Atk2Dmg": 946,
+    "Health": 3306,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/cf_07.png"
+  },
+  {
+    "Name": "Wynn",
+    "ID": "CF_08",
+    "Atk1Dmg": 723,
+    "Atk2Dmg": 723,
+    "Health": 2095,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_08.png"
+  },
+  {
+    "Name": "The Keymaster",
+    "ID": "CF_09",
+    "Atk1Dmg": 898,
+    "Atk2Dmg": 898,
+    "Health": 1860,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_09.png"
+  },
+  {
+    "Name": "Arelvam",
+    "ID": "CF_10",
+    "Atk1Dmg": 305,
+    "Atk2Dmg": 305,
+    "Health": 1977,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_10.png"
+  },
+  {
+    "Name": "Caliburn EX",
+    "ID": "CF_11",
+    "Atk1Dmg": 1645,
+    "Atk2Dmg": 1645,
+    "Health": 4724,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/cf_11.png"
+  },
+  {
+    "Name": "Inheritor of the 5 rings",
+    "ID": "CF_12",
+    "Atk1Dmg": 989,
+    "Atk2Dmg": 989,
+    "Health": 2996,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_12.png"
+  },
+  {
+    "Name": "Son of the Storm",
+    "ID": "CF_13",
+    "Atk1Dmg": 797,
+    "Atk2Dmg": 797,
+    "Health": 2032,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_13.png"
+  },
+  {
+    "Name": "Ice Dancer Yria ",
+    "ID": "CF_14",
+    "Atk1Dmg": 451,
+    "Atk2Dmg": 451,
+    "Health": 760,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/cf_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "CF_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "CF_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_98.png"
+  },
+  {
+    "Name": "True Hero Reed",
+    "ID": "CF_99",
+    "Atk1Dmg": 855,
+    "Atk2Dmg": 855,
+    "Health": 3597,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/cf_99.png"
+  },
+  {
+    "Name": "Warrior",
+    "ID": "C_01",
+    "Atk1Dmg": 380,
+    "Atk2Dmg": 380,
+    "Health": 1516,
+    "Type": "gold",
+    "Price": "36",
+    "Icon": "specimen/c_01.png"
+  },
+  {
+    "Name": "Weak Warrior",
+    "ID": "C_02",
+    "Atk1Dmg": 150,
+    "Atk2Dmg": 300,
+    "Health": 300,
+    "Type": "unknown",
+    "Price": "",
+    "Icon": "specimen/c_02.png"
+  },
+  {
+    "Name": "Cryonos",
+    "ID": "C_03",
+    "Atk1Dmg": 1064,
+    "Atk2Dmg": 612,
+    "Health": 3265,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_03.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_04",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_04.png"
+  },
+  {
+    "Name": "Barbarian",
+    "ID": "C_05",
+    "Atk1Dmg": 877,
+    "Atk2Dmg": 877,
+    "Health": 2382,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/c_05.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_06",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_06.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_07",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_07.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_08",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_08.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_09",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_09.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_10",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_10.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_11",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_11.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_12",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_12.png"
+  },
+  {
+    "Name": "D'Arathomis",
+    "ID": "C_13",
+    "Atk1Dmg": 752,
+    "Atk2Dmg": 836,
+    "Health": 1794,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/c_13.png"
+  },
+  {
+    "Name": "Gladiator",
+    "ID": "C_14",
+    "Atk1Dmg": 1124,
+    "Atk2Dmg": 833,
+    "Health": 2244,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/c_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "C_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/c_99.png"
+  },
+  {
+    "Name": "Reptoïd",
+    "ID": "DA_01",
+    "Atk1Dmg": 298,
+    "Atk2Dmg": 298,
+    "Health": 1492,
+    "Type": "gold",
+    "Price": "432",
+    "Icon": "specimen/da_01.png"
+  },
+  {
+    "Name": "Arachno",
+    "ID": "DA_02",
+    "Atk1Dmg": 641,
+    "Atk2Dmg": 641,
+    "Health": 2208,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/da_02.png"
+  },
+  {
+    "Name": "Mantidroid",
+    "ID": "DA_03",
+    "Atk1Dmg": 475,
+    "Atk2Dmg": 475,
+    "Health": 1755,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/da_03.png"
+  },
+  {
+    "Name": "Rhino Squadron",
+    "ID": "DA_04",
+    "Atk1Dmg": 585,
+    "Atk2Dmg": 585,
+    "Health": 1953,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_04.png"
+  },
+  {
+    "Name": "Fennec Plus Ultra",
+    "ID": "DA_05",
+    "Atk1Dmg": 368,
+    "Atk2Dmg": 368,
+    "Health": 1777,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_05.png"
+  },
+  {
+    "Name": "Tricera Tank",
+    "ID": "DA_06",
+    "Atk1Dmg": 758,
+    "Atk2Dmg": 758,
+    "Health": 1973,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_06.png"
+  },
+  {
+    "Name": "Pugnisher",
+    "ID": "DA_07",
+    "Atk1Dmg": 185,
+    "Atk2Dmg": 185,
+    "Health": 1384,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_07.png"
+  },
+  {
+    "Name": "Asaylan",
+    "ID": "DA_08",
+    "Atk1Dmg": 805,
+    "Atk2Dmg": 805,
+    "Health": 1266,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_08.png"
+  },
+  {
+    "Name": "Sound Killah",
+    "ID": "DA_09",
+    "Atk1Dmg": 1358,
+    "Atk2Dmg": 1358,
+    "Health": 2136,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_09.png"
+  },
+  {
+    "Name": "Hawkeye",
+    "ID": "DA_10",
+    "Atk1Dmg": 334,
+    "Atk2Dmg": 334,
+    "Health": 1408,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_10.png"
+  },
+  {
+    "Name": "The An0maly",
+    "ID": "DA_11",
+    "Atk1Dmg": 264,
+    "Atk2Dmg": 325,
+    "Health": 1672,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_11.png"
+  },
+  {
+    "Name": "Data Snail",
+    "ID": "DA_12",
+    "Atk1Dmg": 1085,
+    "Atk2Dmg": 1085,
+    "Health": 2995,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_12.png"
+  },
+  {
+    "Name": "Dreaming Anthroborg",
+    "ID": "DA_13",
+    "Atk1Dmg": 634,
+    "Atk2Dmg": 634,
+    "Health": 2642,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_13.png"
+  },
+  {
+    "Name": "B.U.N. Overmind ",
+    "ID": "DA_14",
+    "Atk1Dmg": 930,
+    "Atk2Dmg": 930,
+    "Health": 2999,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/da_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "DA_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "DA_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "DA_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/da_99.png"
+  },
+  {
+    "Name": "Cerberus",
+    "ID": "DB_01",
+    "Atk1Dmg": 320,
+    "Atk2Dmg": 320,
+    "Health": 1485,
+    "Type": "gold",
+    "Price": "144",
+    "Icon": "specimen/db_01.png"
+  },
+  {
+    "Name": "Zombat",
+    "ID": "DB_02",
+    "Atk1Dmg": 162,
+    "Atk2Dmg": 162,
+    "Health": 1145,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/db_02.png"
+  },
+  {
+    "Name": "Cobrakai",
+    "ID": "DB_03",
+    "Atk1Dmg": 569,
+    "Atk2Dmg": 569,
+    "Health": 1856,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_03.png"
+  },
+  {
+    "Name": "Louis XVI",
+    "ID": "DB_04",
+    "Atk1Dmg": 979,
+    "Atk2Dmg": 979,
+    "Health": 3210,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/db_04.png"
+  },
+  {
+    "Name": "Brawler",
+    "ID": "DB_05",
+    "Atk1Dmg": 1150,
+    "Atk2Dmg": 1150,
+    "Health": 3152,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/db_05.png"
+  },
+  {
+    "Name": "Breaver",
+    "ID": "DB_06",
+    "Atk1Dmg": 271,
+    "Atk2Dmg": 271,
+    "Health": 1253,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_06.png"
+  },
+  {
+    "Name": "Lord Dragon",
+    "ID": "DB_07",
+    "Atk1Dmg": 207,
+    "Atk2Dmg": 207,
+    "Health": 995,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_07.png"
+  },
+  {
+    "Name": "Deadnosaur",
+    "ID": "DB_08",
+    "Atk1Dmg": 715,
+    "Atk2Dmg": 715,
+    "Health": 2032,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_08.png"
+  },
+  {
+    "Name": "Horax",
+    "ID": "DB_09",
+    "Atk1Dmg": 673,
+    "Atk2Dmg": 673,
+    "Health": 2028,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_09.png"
+  },
+  {
+    "Name": "Buffalor",
+    "ID": "DB_10",
+    "Atk1Dmg": 923,
+    "Atk2Dmg": 923,
+    "Health": 2030,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_10.png"
+  },
+  {
+    "Name": "Piwisher",
+    "ID": "DB_11",
+    "Atk1Dmg": 1450,
+    "Atk2Dmg": 1450,
+    "Health": 4072,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/db_11.png"
+  },
+  {
+    "Name": "Great Tunnelworm",
+    "ID": "DB_12",
+    "Atk1Dmg": 1182,
+    "Atk2Dmg": 1182,
+    "Health": 4021,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/db_12.png"
+  },
+  {
+    "Name": "The Bleaching ",
+    "ID": "DB_13",
+    "Atk1Dmg": 1033,
+    "Atk2Dmg": 1033,
+    "Health": 2413,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_13.png"
+  },
+  {
+    "Name": "The Crawling Madness",
+    "ID": "DB_14",
+    "Atk1Dmg": 954,
+    "Atk2Dmg": 954,
+    "Health": 3987,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "DB_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "DB_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "DB_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/db_99.png"
+  },
+  {
+    "Name": "Rakshasa",
+    "ID": "DC_01",
+    "Atk1Dmg": 275,
+    "Atk2Dmg": 275,
+    "Health": 1444,
+    "Type": "gold",
+    "Price": "432",
+    "Icon": "specimen/dc_01.png"
+  },
+  {
+    "Name": "Leohart",
+    "ID": "DC_02",
+    "Atk1Dmg": 799,
+    "Atk2Dmg": 799,
+    "Health": 2155,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/dc_02.png"
+  },
+  {
+    "Name": "Gargantus",
+    "ID": "DC_03",
+    "Atk1Dmg": 501,
+    "Atk2Dmg": 501,
+    "Health": 1914,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/dc_03.png"
+  },
+  {
+    "Name": "Cézanne",
+    "ID": "DC_04",
+    "Atk1Dmg": 700,
+    "Atk2Dmg": 700,
+    "Health": 1917,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_04.png"
+  },
+  {
+    "Name": "Monkey King",
+    "ID": "DC_05",
+    "Atk1Dmg": 342,
+    "Atk2Dmg": 342,
+    "Health": 1605,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_05.png"
+  },
+  {
+    "Name": "Grannyvore",
+    "ID": "DC_06",
+    "Atk1Dmg": 733,
+    "Atk2Dmg": 733,
+    "Health": 2330,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_06.png"
+  },
+  {
+    "Name": "Noren",
+    "ID": "DC_07",
+    "Atk1Dmg": 1460,
+    "Atk2Dmg": 1460,
+    "Health": 4338,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_07.png"
+  },
+  {
+    "Name": "Sanik",
+    "ID": "DC_08",
+    "Atk1Dmg": 367,
+    "Atk2Dmg": 367,
+    "Health": 2369,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_08.png"
+  },
+  {
+    "Name": "Master Shinzo",
+    "ID": "DC_09",
+    "Atk1Dmg": 269,
+    "Atk2Dmg": 269,
+    "Health": 1563,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_09.png"
+  },
+  {
+    "Name": "Krampus",
+    "ID": "DC_10",
+    "Atk1Dmg": 624,
+    "Atk2Dmg": 624,
+    "Health": 2111,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_10.png"
+  },
+  {
+    "Name": "Spada",
+    "ID": "DC_11",
+    "Atk1Dmg": 422,
+    "Atk2Dmg": 422,
+    "Health": 1690,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_11.png"
+  },
+  {
+    "Name": "Harebrained Underminer",
+    "ID": "DC_12",
+    "Atk1Dmg": 1344,
+    "Atk2Dmg": 1344,
+    "Health": 2453,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/dc_12.png"
+  },
+  {
+    "Name": "Sawmetrodon",
+    "ID": "DC_13",
+    "Atk1Dmg": 1162,
+    "Atk2Dmg": 1162,
+    "Health": 2463,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_13.png"
+  },
+  {
+    "Name": "Jurassic Terror",
+    "ID": "DC_14",
+    "Atk1Dmg": 1527,
+    "Atk2Dmg": 1527,
+    "Health": 3877,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "DC_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "DC_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "DC_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dc_99.png"
+  },
+  {
+    "Name": "Kaiju Kitty",
+    "ID": "DD_01",
+    "Atk1Dmg": 431,
+    "Atk2Dmg": 248,
+    "Health": 1859,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/dd_01.png"
+  },
+  {
+    "Name": "Master Splitter",
+    "ID": "DD_02",
+    "Atk1Dmg": 711,
+    "Atk2Dmg": 409,
+    "Health": 2120,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/dd_02.png"
+  },
+  {
+    "Name": "Psychoboar",
+    "ID": "DD_03",
+    "Atk1Dmg": 283,
+    "Atk2Dmg": 164,
+    "Health": 1803,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_03.png"
+  },
+  {
+    "Name": "Cernunnos",
+    "ID": "DD_04",
+    "Atk1Dmg": 549,
+    "Atk2Dmg": 315,
+    "Health": 1924,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_04.png"
+  },
+  {
+    "Name": "Dilophoraptor",
+    "ID": "DD_05",
+    "Atk1Dmg": 283,
+    "Atk2Dmg": 164,
+    "Health": 1003,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/dd_05.png"
+  },
+  {
+    "Name": "Kangaboo",
+    "ID": "DD_06",
+    "Atk1Dmg": 339,
+    "Atk2Dmg": 214,
+    "Health": 1566,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_06.png"
+  },
+  {
+    "Name": "Baloonies",
+    "ID": "DD_07",
+    "Atk1Dmg": 454,
+    "Atk2Dmg": 260,
+    "Health": 1764,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_07.png"
+  },
+  {
+    "Name": "Rhinotaure",
+    "ID": "DD_08",
+    "Atk1Dmg": 668,
+    "Atk2Dmg": 334,
+    "Health": 3134,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_08.png"
+  },
+  {
+    "Name": "Mister T-Ger",
+    "ID": "DD_09",
+    "Atk1Dmg": 329,
+    "Atk2Dmg": 195,
+    "Health": 1754,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_09.png"
+  },
+  {
+    "Name": "Kameo",
+    "ID": "DD_10",
+    "Atk1Dmg": 416,
+    "Atk2Dmg": 245,
+    "Health": 1710,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_10.png"
+  },
+  {
+    "Name": "Abyssal Terror",
+    "ID": "DD_11",
+    "Atk1Dmg": 561,
+    "Atk2Dmg": 323,
+    "Health": 1973,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_11.png"
+  },
+  {
+    "Name": "Solar Lampyrion",
+    "ID": "DD_12",
+    "Atk1Dmg": 1095,
+    "Atk2Dmg": 548,
+    "Health": 4720,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/dd_12.png"
+  },
+  {
+    "Name": "Lama Sensei",
+    "ID": "DD_13",
+    "Atk1Dmg": 463,
+    "Atk2Dmg": 812,
+    "Health": 1859,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_13.png"
+  },
+  {
+    "Name": "Bestial Overlord",
+    "ID": "DD_14",
+    "Atk1Dmg": 977,
+    "Atk2Dmg": 695,
+    "Health": 2441,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_14.png"
+  },
+  {
+    "Name": "Platypus",
+    "ID": "DD_15",
+    "Atk1Dmg": 1241,
+    "Atk2Dmg": 1011,
+    "Health": 3731,
+    "Type": "gold",
+    "Price": "9999999",
+    "Icon": "specimen/dd_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "DD_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "DD_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/dd_99.png"
+  },
+  {
+    "Name": "Parasite Queen",
+    "ID": "DE_01",
+    "Atk1Dmg": 231,
+    "Atk2Dmg": 231,
+    "Health": 1316,
+    "Type": "gold",
+    "Price": "324",
+    "Icon": "specimen/de_01.png"
+  },
+  {
+    "Name": "Cosmo Kong",
+    "ID": "DE_02",
+    "Atk1Dmg": 491,
+    "Atk2Dmg": 491,
+    "Health": 1762,
+    "Type": "gold",
+    "Price": "300",
+    "Icon": "specimen/de_02.png"
+  },
+  {
+    "Name": "Slashog",
+    "ID": "DE_03",
+    "Atk1Dmg": 182,
+    "Atk2Dmg": 182,
+    "Health": 1204,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/de_03.png"
+  },
+  {
+    "Name": "Genshiryoku",
+    "ID": "DE_04",
+    "Atk1Dmg": 822,
+    "Atk2Dmg": 822,
+    "Health": 1613,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_04.png"
+  },
+  {
+    "Name": "Exo Cookie",
+    "ID": "DE_05",
+    "Atk1Dmg": 696,
+    "Atk2Dmg": 696,
+    "Health": 2230,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_05.png"
+  },
+  {
+    "Name": "Darwin",
+    "ID": "DE_06",
+    "Atk1Dmg": 718,
+    "Atk2Dmg": 718,
+    "Health": 3315,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/de_06.png"
+  },
+  {
+    "Name": "Captain Turk E.",
+    "ID": "DE_07",
+    "Atk1Dmg": 456,
+    "Atk2Dmg": 456,
+    "Health": 1926,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_07.png"
+  },
+  {
+    "Name": "Cosmopandas",
+    "ID": "DE_08",
+    "Atk1Dmg": 199,
+    "Atk2Dmg": 199,
+    "Health": 1023,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_08.png"
+  },
+  {
+    "Name": "Zigmo",
+    "ID": "DE_09",
+    "Atk1Dmg": 219,
+    "Atk2Dmg": 219,
+    "Health": 1467,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_09.png"
+  },
+  {
+    "Name": "Mad Mike",
+    "ID": "DE_10",
+    "Atk1Dmg": 611,
+    "Atk2Dmg": 611,
+    "Health": 1591,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_10.png"
+  },
+  {
+    "Name": "Drei, Space Corgi",
+    "ID": "DE_11",
+    "Atk1Dmg": 584,
+    "Atk2Dmg": 584,
+    "Health": 2124,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_11.png"
+  },
+  {
+    "Name": "Leviathan",
+    "ID": "DE_12",
+    "Atk1Dmg": 955,
+    "Atk2Dmg": 549,
+    "Health": 2357,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_12.png"
+  },
+  {
+    "Name": "Oryctolagus Alienicus",
+    "ID": "DE_13",
+    "Atk1Dmg": 685,
+    "Atk2Dmg": 685,
+    "Health": 2461,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/de_13.png"
+  },
+  {
+    "Name": "Supermassive Infinity",
+    "ID": "DE_14",
+    "Atk1Dmg": 1277,
+    "Atk2Dmg": 1277,
+    "Health": 4666,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/de_14.png"
+  },
+  {
+    "Name": "Telluric Starweaver ",
+    "ID": "DE_15",
+    "Atk1Dmg": 1843,
+    "Atk2Dmg": 1843,
+    "Health": 5011,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "DE_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "DE_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/de_99.png"
+  },
+  {
+    "Name": "Dracus Nobilis",
+    "ID": "DF_01",
+    "Atk1Dmg": 639,
+    "Atk2Dmg": 639,
+    "Health": 1882,
+    "Type": "gold",
+    "Price": "864",
+    "Icon": "specimen/df_01.png"
+  },
+  {
+    "Name": "Satyr Shaman",
+    "ID": "DF_02",
+    "Atk1Dmg": 295,
+    "Atk2Dmg": 295,
+    "Health": 1457,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/df_02.png"
+  },
+  {
+    "Name": "Absolem",
+    "ID": "DF_03",
+    "Atk1Dmg": 481,
+    "Atk2Dmg": 481,
+    "Health": 1772,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_03.png"
+  },
+  {
+    "Name": "Kontiki",
+    "ID": "DF_04",
+    "Atk1Dmg": 595,
+    "Atk2Dmg": 595,
+    "Health": 2287,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_04.png"
+  },
+  {
+    "Name": "Dragons' Mother",
+    "ID": "DF_05",
+    "Atk1Dmg": 584,
+    "Atk2Dmg": 584,
+    "Health": 1050,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_05.png"
+  },
+  {
+    "Name": "Saber",
+    "ID": "DF_06",
+    "Atk1Dmg": 848,
+    "Atk2Dmg": 848,
+    "Health": 3187,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_06.png"
+  },
+  {
+    "Name": "The Chimera",
+    "ID": "DF_07",
+    "Atk1Dmg": 887,
+    "Atk2Dmg": 887,
+    "Health": 1832,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_07.png"
+  },
+  {
+    "Name": "Chantecler",
+    "ID": "DF_08",
+    "Atk1Dmg": 987,
+    "Atk2Dmg": 987,
+    "Health": 1982,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_08.png"
+  },
+  {
+    "Name": "Quetzalcoatl",
+    "ID": "DF_09",
+    "Atk1Dmg": 437,
+    "Atk2Dmg": 437,
+    "Health": 1746,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_09.png"
+  },
+  {
+    "Name": "Gwenn",
+    "ID": "DF_10",
+    "Atk1Dmg": 353,
+    "Atk2Dmg": 353,
+    "Health": 1847,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_10.png"
+  },
+  {
+    "Name": "Chocolem",
+    "ID": "DF_11",
+    "Atk1Dmg": 1309,
+    "Atk2Dmg": 1309,
+    "Health": 3487,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/df_11.png"
+  },
+  {
+    "Name": "Basilisc&Tarragon",
+    "ID": "DF_12",
+    "Atk1Dmg": 921,
+    "Atk2Dmg": 921,
+    "Health": 3333,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/df_12.png"
+  },
+  {
+    "Name": "Frozen Emperor",
+    "ID": "DF_13",
+    "Atk1Dmg": 770,
+    "Atk2Dmg": 770,
+    "Health": 1974,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_13.png"
+  },
+  {
+    "Name": "",
+    "ID": "DF_14",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/df_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "DF_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "DF_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/df_98.png"
+  },
+  {
+    "Name": "Genimal",
+    "ID": "DF_99",
+    "Atk1Dmg": 370,
+    "Atk2Dmg": 370,
+    "Health": 2542,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/df_99.png"
+  },
+  {
+    "Name": "Beast",
+    "ID": "D_01",
+    "Atk1Dmg": 426,
+    "Atk2Dmg": 426,
+    "Health": 1613,
+    "Type": "gold",
+    "Price": "108",
+    "Icon": "specimen/d_01.png"
+  },
+  {
+    "Name": "Easter Gunny",
+    "ID": "D_03",
+    "Atk1Dmg": 1414,
+    "Atk2Dmg": 708,
+    "Health": 4218,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_03.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_04",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_04.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_05",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_05.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_06",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_06.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_07",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_07.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_08",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_08.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_09",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_09.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_10",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_10.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_11",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_11.png"
+  },
+  {
+    "Name": "Howlosaurus",
+    "ID": "D_12",
+    "Atk1Dmg": 585,
+    "Atk2Dmg": 924,
+    "Health": 2158,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/d_12.png"
+  },
+  {
+    "Name": "Sasquatch",
+    "ID": "D_13",
+    "Atk1Dmg": 993,
+    "Atk2Dmg": 633,
+    "Health": 1988,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/d_13.png"
+  },
+  {
+    "Name": "Apiarchia ",
+    "ID": "D_14",
+    "Atk1Dmg": 655,
+    "Atk2Dmg": 524,
+    "Health": 425,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/d_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "D_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/d_99.png"
+  },
+  {
+    "Name": "Planet Cleaner",
+    "ID": "EA_01",
+    "Atk1Dmg": 632,
+    "Atk2Dmg": 632,
+    "Health": 1802,
+    "Type": "gold",
+    "Price": "756",
+    "Icon": "specimen/ea_01.png"
+  },
+  {
+    "Name": "Sentry",
+    "ID": "EA_02",
+    "Atk1Dmg": 342,
+    "Atk2Dmg": 342,
+    "Health": 1445,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_02.png"
+  },
+  {
+    "Name": "Exo Fish",
+    "ID": "EA_03",
+    "Atk1Dmg": 381,
+    "Atk2Dmg": 381,
+    "Health": 1665,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ea_03.png"
+  },
+  {
+    "Name": "Brick McGole",
+    "ID": "EA_04",
+    "Atk1Dmg": 318,
+    "Atk2Dmg": 318,
+    "Health": 1397,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_04.png"
+  },
+  {
+    "Name": "King Steven",
+    "ID": "EA_05",
+    "Atk1Dmg": 435,
+    "Atk2Dmg": 435,
+    "Health": 1695,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_05.png"
+  },
+  {
+    "Name": "Krunk",
+    "ID": "EA_06",
+    "Atk1Dmg": 568,
+    "Atk2Dmg": 568,
+    "Health": 1803,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_06.png"
+  },
+  {
+    "Name": "Captain Patriot",
+    "ID": "EA_07",
+    "Atk1Dmg": 479,
+    "Atk2Dmg": 479,
+    "Health": 2726,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_07.png"
+  },
+  {
+    "Name": "Lady Liberty",
+    "ID": "EA_08",
+    "Atk1Dmg": 1228,
+    "Atk2Dmg": 1228,
+    "Health": 3665,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ea_08.png"
+  },
+  {
+    "Name": "Captain Gorn",
+    "ID": "EA_09",
+    "Atk1Dmg": 400,
+    "Atk2Dmg": 400,
+    "Health": 1836,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_09.png"
+  },
+  {
+    "Name": "Space Surfer",
+    "ID": "EA_10",
+    "Atk1Dmg": 1638,
+    "Atk2Dmg": 1638,
+    "Health": 4455,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_10.png"
+  },
+  {
+    "Name": "Dreadnought",
+    "ID": "EA_11",
+    "Atk1Dmg": 1511,
+    "Atk2Dmg": 1511,
+    "Health": 4488,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ea_11.png"
+  },
+  {
+    "Name": "Fix-o-Drone LLK-215",
+    "ID": "EA_12",
+    "Atk1Dmg": 727,
+    "Atk2Dmg": 727,
+    "Health": 1986,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_12.png"
+  },
+  {
+    "Name": "Space Pilgrim",
+    "ID": "EA_13",
+    "Atk1Dmg": 761,
+    "Atk2Dmg": 761,
+    "Health": 1872,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_13.png"
+  },
+  {
+    "Name": "D.A.B.",
+    "ID": "EA_14",
+    "Atk1Dmg": 828,
+    "Atk2Dmg": 828,
+    "Health": 3148,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ea_14.png"
+  },
+  {
+    "Name": "Kereon of the Abyss",
+    "ID": "EA_15",
+    "Atk1Dmg": 1158,
+    "Atk2Dmg": 1158,
+    "Health": 2611,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "EA_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ea_98.png"
+  },
+  {
+    "Name": "Celsius Thermoid",
+    "ID": "EA_99",
+    "Atk1Dmg": 984,
+    "Atk2Dmg": 984,
+    "Health": 4755,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ea_99.png"
+  },
+  {
+    "Name": "Tutti Gooey",
+    "ID": "EB_01",
+    "Atk1Dmg": 499,
+    "Atk2Dmg": 499,
+    "Health": 1648,
+    "Type": "gold",
+    "Price": "756",
+    "Icon": "specimen/eb_01.png"
+  },
+  {
+    "Name": "Sirenia",
+    "ID": "EB_02",
+    "Atk1Dmg": 269,
+    "Atk2Dmg": 269,
+    "Health": 1295,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/eb_02.png"
+  },
+  {
+    "Name": "The Devourer",
+    "ID": "EB_03",
+    "Atk1Dmg": 637,
+    "Atk2Dmg": 637,
+    "Health": 2073,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/eb_03.png"
+  },
+  {
+    "Name": "Ghost Killer",
+    "ID": "EB_04",
+    "Atk1Dmg": 375,
+    "Atk2Dmg": 375,
+    "Health": 1648,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_04.png"
+  },
+  {
+    "Name": "Undead Soldier",
+    "ID": "EB_05",
+    "Atk1Dmg": 871,
+    "Atk2Dmg": 871,
+    "Health": 1860,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_05.png"
+  },
+  {
+    "Name": "Garlog",
+    "ID": "EB_06",
+    "Atk1Dmg": 861,
+    "Atk2Dmg": 861,
+    "Health": 1963,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_06.png"
+  },
+  {
+    "Name": "Starminator",
+    "ID": "EB_07",
+    "Atk1Dmg": 388,
+    "Atk2Dmg": 388,
+    "Health": 1794,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_07.png"
+  },
+  {
+    "Name": "Dr. Nucleus",
+    "ID": "EB_08",
+    "Atk1Dmg": 1518,
+    "Atk2Dmg": 1518,
+    "Health": 4234,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_08.png"
+  },
+  {
+    "Name": "Queen Sylvidra",
+    "ID": "EB_09",
+    "Atk1Dmg": 699,
+    "Atk2Dmg": 699,
+    "Health": 2302,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_09.png"
+  },
+  {
+    "Name": "Gakarian",
+    "ID": "EB_10",
+    "Atk1Dmg": 458,
+    "Atk2Dmg": 458,
+    "Health": 1939,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_10.png"
+  },
+  {
+    "Name": "Aubraea Mutantula",
+    "ID": "EB_11",
+    "Atk1Dmg": 528,
+    "Atk2Dmg": 528,
+    "Health": 1985,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_11.png"
+  },
+  {
+    "Name": "Starfarer Medic",
+    "ID": "EB_12",
+    "Atk1Dmg": 447,
+    "Atk2Dmg": 447,
+    "Health": 1891,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_12.png"
+  },
+  {
+    "Name": "Xinomas",
+    "ID": "EB_13",
+    "Atk1Dmg": 910,
+    "Atk2Dmg": 910,
+    "Health": 3779,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/eb_13.png"
+  },
+  {
+    "Name": "",
+    "ID": "EB_14",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/eb_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "EB_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "EB_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_98.png"
+  },
+  {
+    "Name": "Diablo",
+    "ID": "EB_99",
+    "Atk1Dmg": 1594,
+    "Atk2Dmg": 1594,
+    "Health": 3874,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/eb_99.png"
+  },
+  {
+    "Name": "Bounty Bug",
+    "ID": "EC_01",
+    "Atk1Dmg": 366,
+    "Atk2Dmg": 366,
+    "Health": 1403,
+    "Type": "gold",
+    "Price": "252",
+    "Icon": "specimen/ec_01.png"
+  },
+  {
+    "Name": "Behemoth",
+    "ID": "EC_02",
+    "Atk1Dmg": 622,
+    "Atk2Dmg": 622,
+    "Health": 1753,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ec_02.png"
+  },
+  {
+    "Name": "Star Trooper",
+    "ID": "EC_03",
+    "Atk1Dmg": 233,
+    "Atk2Dmg": 233,
+    "Health": 1184,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_03.png"
+  },
+  {
+    "Name": "Santactopus",
+    "ID": "EC_04",
+    "Atk1Dmg": 639,
+    "Atk2Dmg": 639,
+    "Health": 2595,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ec_04.png"
+  },
+  {
+    "Name": "Space Hunter",
+    "ID": "EC_05",
+    "Atk1Dmg": 691,
+    "Atk2Dmg": 691,
+    "Health": 1802,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_05.png"
+  },
+  {
+    "Name": "Zeus",
+    "ID": "EC_06",
+    "Atk1Dmg": 471,
+    "Atk2Dmg": 471,
+    "Health": 940,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/ec_06.png"
+  },
+  {
+    "Name": "Starscream",
+    "ID": "EC_07",
+    "Atk1Dmg": 751,
+    "Atk2Dmg": 751,
+    "Health": 1622,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_07.png"
+  },
+  {
+    "Name": "Spectre",
+    "ID": "EC_08",
+    "Atk1Dmg": 533,
+    "Atk2Dmg": 533,
+    "Health": 687,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_08.png"
+  },
+  {
+    "Name": "Shieldcalibur",
+    "ID": "EC_09",
+    "Atk1Dmg": 519,
+    "Atk2Dmg": 519,
+    "Health": 2011,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_09.png"
+  },
+  {
+    "Name": "Gamallia",
+    "ID": "EC_10",
+    "Atk1Dmg": 660,
+    "Atk2Dmg": 660,
+    "Health": 1385,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_10.png"
+  },
+  {
+    "Name": "Veren Kaeesu",
+    "ID": "EC_11",
+    "Atk1Dmg": 1194,
+    "Atk2Dmg": 1194,
+    "Health": 2731,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ec_11.png"
+  },
+  {
+    "Name": "Stellarian Lithominer",
+    "ID": "EC_12",
+    "Atk1Dmg": 959,
+    "Atk2Dmg": 959,
+    "Health": 2134,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_12.png"
+  },
+  {
+    "Name": "Hekatoncheiros",
+    "ID": "EC_13",
+    "Atk1Dmg": 1078,
+    "Atk2Dmg": 1078,
+    "Health": 2425,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_13.png"
+  },
+  {
+    "Name": "",
+    "ID": "EC_14",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ec_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "EC_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "EC_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "EC_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ec_99.png"
+  },
+  {
+    "Name": "Xenos",
+    "ID": "ED_01",
+    "Atk1Dmg": 232,
+    "Atk2Dmg": 232,
+    "Health": 1151,
+    "Type": "gold",
+    "Price": "864",
+    "Icon": "specimen/ed_01.png"
+  },
+  {
+    "Name": "Shell Shock",
+    "ID": "ED_02",
+    "Atk1Dmg": 465,
+    "Atk2Dmg": 465,
+    "Health": 1570,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ed_02.png"
+  },
+  {
+    "Name": "Wampara",
+    "ID": "ED_03",
+    "Atk1Dmg": 557,
+    "Atk2Dmg": 557,
+    "Health": 1714,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_03.png"
+  },
+  {
+    "Name": "Rakk 'n' Ruin",
+    "ID": "ED_04",
+    "Atk1Dmg": 335,
+    "Atk2Dmg": 335,
+    "Health": 1669,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/ed_04.png"
+  },
+  {
+    "Name": "Crawlorax",
+    "ID": "ED_05",
+    "Atk1Dmg": 813,
+    "Atk2Dmg": 813,
+    "Health": 1813,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_05.png"
+  },
+  {
+    "Name": "Kitty Perry",
+    "ID": "ED_06",
+    "Atk1Dmg": 311,
+    "Atk2Dmg": 311,
+    "Health": 1227,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_06.png"
+  },
+  {
+    "Name": "Paramic",
+    "ID": "ED_07",
+    "Atk1Dmg": 220,
+    "Atk2Dmg": 220,
+    "Health": 1634,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_07.png"
+  },
+  {
+    "Name": "Sgt. Pandamonium",
+    "ID": "ED_08",
+    "Atk1Dmg": 425,
+    "Atk2Dmg": 425,
+    "Health": 1526,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_08.png"
+  },
+  {
+    "Name": "Rox McRain",
+    "ID": "ED_09",
+    "Atk1Dmg": 264,
+    "Atk2Dmg": 264,
+    "Health": 1397,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_09.png"
+  },
+  {
+    "Name": "Angry Pork",
+    "ID": "ED_10",
+    "Atk1Dmg": 566,
+    "Atk2Dmg": 566,
+    "Health": 1977,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_10.png"
+  },
+  {
+    "Name": "Owlock",
+    "ID": "ED_11",
+    "Atk1Dmg": 830,
+    "Atk2Dmg": 830,
+    "Health": 1999,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_11.png"
+  },
+  {
+    "Name": "Ammonia Atlantica",
+    "ID": "ED_12",
+    "Atk1Dmg": 947,
+    "Atk2Dmg": 947,
+    "Health": 2105,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_12.png"
+  },
+  {
+    "Name": "Medinosaur",
+    "ID": "ED_13",
+    "Atk1Dmg": 1023,
+    "Atk2Dmg": 1023,
+    "Health": 1675,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_13.png"
+  },
+  {
+    "Name": "Hydrydra",
+    "ID": "ED_14",
+    "Atk1Dmg": 1477,
+    "Atk2Dmg": 966,
+    "Health": 2855,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ed_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "ED_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "ED_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_98.png"
+  },
+  {
+    "Name": "Ctopy",
+    "ID": "ED_99",
+    "Atk1Dmg": 1034,
+    "Atk2Dmg": 525,
+    "Health": 4497,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ed_99.png"
+  },
+  {
+    "Name": "Astro Surfer",
+    "ID": "EE_01",
+    "Atk1Dmg": 671,
+    "Atk2Dmg": 385,
+    "Health": 2025,
+    "Type": "gold",
+    "Price": "432",
+    "Icon": "specimen/ee_01.png"
+  },
+  {
+    "Name": "Supernovus",
+    "ID": "EE_02",
+    "Atk1Dmg": 488,
+    "Atk2Dmg": 280,
+    "Health": 1830,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ee_02.png"
+  },
+  {
+    "Name": "Master Oida",
+    "ID": "EE_03",
+    "Atk1Dmg": 339,
+    "Atk2Dmg": 195,
+    "Health": 1568,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_03.png"
+  },
+  {
+    "Name": "Flying Jordson",
+    "ID": "EE_04",
+    "Atk1Dmg": 581,
+    "Atk2Dmg": 335,
+    "Health": 1963,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_04.png"
+  },
+  {
+    "Name": "Selendis",
+    "ID": "EE_05",
+    "Atk1Dmg": 281,
+    "Atk2Dmg": 161,
+    "Health": 1444,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_05.png"
+  },
+  {
+    "Name": "Rakkti Queen",
+    "ID": "EE_06",
+    "Atk1Dmg": 510,
+    "Atk2Dmg": 294,
+    "Health": 2033,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_06.png"
+  },
+  {
+    "Name": "Marship Mallow",
+    "ID": "EE_07",
+    "Atk1Dmg": 361,
+    "Atk2Dmg": 208,
+    "Health": 1756,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_07.png"
+  },
+  {
+    "Name": "Golemagnus",
+    "ID": "EE_08",
+    "Atk1Dmg": 800,
+    "Atk2Dmg": 459,
+    "Health": 2415,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_08.png"
+  },
+  {
+    "Name": "Megastral",
+    "ID": "EE_09",
+    "Atk1Dmg": 900,
+    "Atk2Dmg": 451,
+    "Health": 2539,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_09.png"
+  },
+  {
+    "Name": "Extra Terrorcycle",
+    "ID": "EE_10",
+    "Atk1Dmg": 469,
+    "Atk2Dmg": 270,
+    "Health": 2125,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_10.png"
+  },
+  {
+    "Name": "Gestalt Asteroid",
+    "ID": "EE_11",
+    "Atk1Dmg": 721,
+    "Atk2Dmg": 721,
+    "Health": 2419,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_11.png"
+  },
+  {
+    "Name": "Polaris",
+    "ID": "EE_12",
+    "Atk1Dmg": 831,
+    "Atk2Dmg": 604,
+    "Health": 3935,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ee_12.png"
+  },
+  {
+    "Name": "Orbital Nexus",
+    "ID": "EE_13",
+    "Atk1Dmg": 1184,
+    "Atk2Dmg": 821,
+    "Health": 2566,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ee_13.png"
+  },
+  {
+    "Name": "",
+    "ID": "EE_14",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ee_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "EE_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "EE_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_98.png"
+  },
+  {
+    "Name": "Irreality Animus",
+    "ID": "EE_99",
+    "Atk1Dmg": 1109,
+    "Atk2Dmg": 554,
+    "Health": 4578,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ee_99.png"
+  },
+  {
+    "Name": "Nebulon",
+    "ID": "EF_01",
+    "Atk1Dmg": 322,
+    "Atk2Dmg": 322,
+    "Health": 1318,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_01.png"
+  },
+  {
+    "Name": "Mr Marvelous",
+    "ID": "EF_02",
+    "Atk1Dmg": 438,
+    "Atk2Dmg": 438,
+    "Health": 2986,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ef_02.png"
+  },
+  {
+    "Name": "Aquapunzel",
+    "ID": "EF_03",
+    "Atk1Dmg": 858,
+    "Atk2Dmg": 858,
+    "Health": 3089,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/ef_03.png"
+  },
+  {
+    "Name": "Mephisto",
+    "ID": "EF_04",
+    "Atk1Dmg": 268,
+    "Atk2Dmg": 268,
+    "Health": 1329,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_04.png"
+  },
+  {
+    "Name": "Kraken",
+    "ID": "EF_05",
+    "Atk1Dmg": 1387,
+    "Atk2Dmg": 1387,
+    "Health": 1405,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_05.png"
+  },
+  {
+    "Name": "Mandor",
+    "ID": "EF_06",
+    "Atk1Dmg": 489,
+    "Atk2Dmg": 489,
+    "Health": 1417,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_06.png"
+  },
+  {
+    "Name": "Kal Wayne",
+    "ID": "EF_07",
+    "Atk1Dmg": 497,
+    "Atk2Dmg": 497,
+    "Health": 1887,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_07.png"
+  },
+  {
+    "Name": "Seiyatsu",
+    "ID": "EF_08",
+    "Atk1Dmg": 381,
+    "Atk2Dmg": 381,
+    "Health": 2183,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_08.png"
+  },
+  {
+    "Name": "Mage Ryzafredd",
+    "ID": "EF_09",
+    "Atk1Dmg": 590,
+    "Atk2Dmg": 590,
+    "Health": 1864,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_09.png"
+  },
+  {
+    "Name": "Divastator",
+    "ID": "EF_10",
+    "Atk1Dmg": 336,
+    "Atk2Dmg": 336,
+    "Health": 1555,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_10.png"
+  },
+  {
+    "Name": "Dimentio",
+    "ID": "EF_11",
+    "Atk1Dmg": 353,
+    "Atk2Dmg": 353,
+    "Health": 1427,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_11.png"
+  },
+  {
+    "Name": "X'astuth",
+    "ID": "EF_12",
+    "Atk1Dmg": 873,
+    "Atk2Dmg": 873,
+    "Health": 2242,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_12.png"
+  },
+  {
+    "Name": "Achernar",
+    "ID": "EF_13",
+    "Atk1Dmg": 411,
+    "Atk2Dmg": 822,
+    "Health": 1873,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_13.png"
+  },
+  {
+    "Name": "K'Yu T'ypaï ",
+    "ID": "EF_14",
+    "Atk1Dmg": 755,
+    "Atk2Dmg": 411,
+    "Health": 2114,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "EF_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "EF_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_98.png"
+  },
+  {
+    "Name": "Singularity Wizard",
+    "ID": "EF_99",
+    "Atk1Dmg": 752,
+    "Atk2Dmg": 1370,
+    "Health": 4101,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ef_99.png"
+  },
+  {
+    "Name": "Alien",
+    "ID": "E_01",
+    "Atk1Dmg": 165,
+    "Atk2Dmg": 165,
+    "Health": 1049,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/e_01.png"
+  },
+  {
+    "Name": "Ceres",
+    "ID": "E_03",
+    "Atk1Dmg": 155,
+    "Atk2Dmg": 90,
+    "Health": 1455,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/e_03.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_04",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_04.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_05",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_05.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_06",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_06.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_07",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_07.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_08",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_08.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_09",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_09.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_10",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_10.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_11",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_11.png"
+  },
+  {
+    "Name": "Sidereal Explorer",
+    "ID": "E_12",
+    "Atk1Dmg": 527,
+    "Atk2Dmg": 542,
+    "Health": 1753,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/e_12.png"
+  },
+  {
+    "Name": "Stargazer",
+    "ID": "E_13",
+    "Atk1Dmg": 833,
+    "Atk2Dmg": 541,
+    "Health": 1585,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/e_13.png"
+  },
+  {
+    "Name": "Spiraxia",
+    "ID": "E_14",
+    "Atk1Dmg": 944,
+    "Atk2Dmg": 654,
+    "Health": 2055,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/e_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "E_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/e_99.png"
+  },
+  {
+    "Name": "Techno Taoïst",
+    "ID": "FA_01",
+    "Atk1Dmg": 512,
+    "Atk2Dmg": 512,
+    "Health": 1590,
+    "Type": "gold",
+    "Price": "360",
+    "Icon": "specimen/fa_01.png"
+  },
+  {
+    "Name": "Mekali",
+    "ID": "FA_02",
+    "Atk1Dmg": 320,
+    "Atk2Dmg": 320,
+    "Health": 1407,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/fa_02.png"
+  },
+  {
+    "Name": "Bazzinger",
+    "ID": "FA_03",
+    "Atk1Dmg": 414,
+    "Atk2Dmg": 414,
+    "Health": 1502,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_03.png"
+  },
+  {
+    "Name": "Banker",
+    "ID": "FA_04",
+    "Atk1Dmg": 728,
+    "Atk2Dmg": 728,
+    "Health": 2635,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fa_04.png"
+  },
+  {
+    "Name": "Shadow Shaman",
+    "ID": "FA_05",
+    "Atk1Dmg": 538,
+    "Atk2Dmg": 538,
+    "Health": 1464,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_05.png"
+  },
+  {
+    "Name": "Lily",
+    "ID": "FA_06",
+    "Atk1Dmg": 536,
+    "Atk2Dmg": 536,
+    "Health": 2247,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fa_06.png"
+  },
+  {
+    "Name": "Dr. Frost",
+    "ID": "FA_07",
+    "Atk1Dmg": 515,
+    "Atk2Dmg": 515,
+    "Health": 2117,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_07.png"
+  },
+  {
+    "Name": "FootBot",
+    "ID": "FA_08",
+    "Atk1Dmg": 311,
+    "Atk2Dmg": 311,
+    "Health": 1453,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_08.png"
+  },
+  {
+    "Name": "Zenguru",
+    "ID": "FA_09",
+    "Atk1Dmg": 484,
+    "Atk2Dmg": 484,
+    "Health": 1785,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_09.png"
+  },
+  {
+    "Name": "Mimi Timebender",
+    "ID": "FA_10",
+    "Atk1Dmg": 398,
+    "Atk2Dmg": 398,
+    "Health": 983,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_10.png"
+  },
+  {
+    "Name": "Orion",
+    "ID": "FA_11",
+    "Atk1Dmg": 666,
+    "Atk2Dmg": 666,
+    "Health": 422,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_11.png"
+  },
+  {
+    "Name": "Ethereal Cybermancer",
+    "ID": "FA_12",
+    "Atk1Dmg": 668,
+    "Atk2Dmg": 668,
+    "Health": 2077,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_12.png"
+  },
+  {
+    "Name": "Boreal Helix",
+    "ID": "FA_13",
+    "Atk1Dmg": 829,
+    "Atk2Dmg": 560,
+    "Health": 2853,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fa_13.png"
+  },
+  {
+    "Name": "",
+    "ID": "FA_14",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/fa_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "FA_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "FA_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_98.png"
+  },
+  {
+    "Name": "Archangel",
+    "ID": "FA_99",
+    "Atk1Dmg": 1241,
+    "Atk2Dmg": 1241,
+    "Health": 4076,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fa_99.png"
+  },
+  {
+    "Name": "Grim Reapress",
+    "ID": "FB_01",
+    "Atk1Dmg": 660,
+    "Atk2Dmg": 660,
+    "Health": 1829,
+    "Type": "gold",
+    "Price": "864",
+    "Icon": "specimen/fb_01.png"
+  },
+  {
+    "Name": "Prince Scorpion",
+    "ID": "FB_02",
+    "Atk1Dmg": 524,
+    "Atk2Dmg": 524,
+    "Health": 2568,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fb_02.png"
+  },
+  {
+    "Name": "Anubis",
+    "ID": "FB_03",
+    "Atk1Dmg": 529,
+    "Atk2Dmg": 529,
+    "Health": 1725,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_03.png"
+  },
+  {
+    "Name": "Wicked Witch",
+    "ID": "FB_04",
+    "Atk1Dmg": 756,
+    "Atk2Dmg": 756,
+    "Health": 1763,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_04.png"
+  },
+  {
+    "Name": "Bones ‘n’ Roses",
+    "ID": "FB_05",
+    "Atk1Dmg": 446,
+    "Atk2Dmg": 446,
+    "Health": 1844,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_05.png"
+  },
+  {
+    "Name": "Sorceress",
+    "ID": "FB_06",
+    "Atk1Dmg": 248,
+    "Atk2Dmg": 248,
+    "Health": 1145,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_06.png"
+  },
+  {
+    "Name": "The Fates",
+    "ID": "FB_07",
+    "Atk1Dmg": 311,
+    "Atk2Dmg": 311,
+    "Health": 1813,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_07.png"
+  },
+  {
+    "Name": "Gozer",
+    "ID": "FB_08",
+    "Atk1Dmg": 403,
+    "Atk2Dmg": 403,
+    "Health": 1879,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_08.png"
+  },
+  {
+    "Name": "Hadeath",
+    "ID": "FB_09",
+    "Atk1Dmg": 689,
+    "Atk2Dmg": 689,
+    "Health": 2297,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_09.png"
+  },
+  {
+    "Name": "Yggdrasil",
+    "ID": "FB_10",
+    "Atk1Dmg": 746,
+    "Atk2Dmg": 746,
+    "Health": 2617,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_10.png"
+  },
+  {
+    "Name": "Nightmare Aberration",
+    "ID": "FB_11",
+    "Atk1Dmg": 168,
+    "Atk2Dmg": 320,
+    "Health": 1482,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_11.png"
+  },
+  {
+    "Name": "Maiden of Twilight",
+    "ID": "FB_12",
+    "Atk1Dmg": 1030,
+    "Atk2Dmg": 1030,
+    "Health": 3580,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_12.png"
+  },
+  {
+    "Name": "Candlelight",
+    "ID": "FB_13",
+    "Atk1Dmg": 741,
+    "Atk2Dmg": 741,
+    "Health": 2043,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_13.png"
+  },
+  {
+    "Name": "Zagam, Great King of Greed",
+    "ID": "FB_14",
+    "Atk1Dmg": 1666,
+    "Atk2Dmg": 1666,
+    "Health": 6666,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/fb_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "FB_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "FB_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "FB_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fb_99.png"
+  },
+  {
+    "Name": "Gandolphus",
+    "ID": "FC_01",
+    "Atk1Dmg": 204,
+    "Atk2Dmg": 204,
+    "Health": 1137,
+    "Type": "gold",
+    "Price": "864",
+    "Icon": "specimen/fc_01.png"
+  },
+  {
+    "Name": "Captain Peace",
+    "ID": "FC_02",
+    "Atk1Dmg": 1074,
+    "Atk2Dmg": 1074,
+    "Health": 3290,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fc_02.png"
+  },
+  {
+    "Name": "Oriax",
+    "ID": "FC_03",
+    "Atk1Dmg": 1187,
+    "Atk2Dmg": 1187,
+    "Health": 3944,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fc_03.png"
+  },
+  {
+    "Name": "Mexihcatl",
+    "ID": "FC_04",
+    "Atk1Dmg": 698,
+    "Atk2Dmg": 698,
+    "Health": 2445,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fc_04.png"
+  },
+  {
+    "Name": "Yelda",
+    "ID": "FC_05",
+    "Atk1Dmg": 641,
+    "Atk2Dmg": 641,
+    "Health": 2605,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/fc_05.png"
+  },
+  {
+    "Name": "Wind Spirit",
+    "ID": "FC_06",
+    "Atk1Dmg": 196,
+    "Atk2Dmg": 196,
+    "Health": 655,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fc_06.png"
+  },
+  {
+    "Name": "Amarok",
+    "ID": "FC_07",
+    "Atk1Dmg": 299,
+    "Atk2Dmg": 299,
+    "Health": 1389,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fc_07.png"
+  },
+  {
+    "Name": "Kudamono",
+    "ID": "FC_08",
+    "Atk1Dmg": 507,
+    "Atk2Dmg": 507,
+    "Health": 1722,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fc_08.png"
+  },
+  {
+    "Name": "Gorthaur the Cruel",
+    "ID": "FC_09",
+    "Atk1Dmg": 1291,
+    "Atk2Dmg": 1291,
+    "Health": 1937,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fc_09.png"
+  },
+  {
+    "Name": "Hephaestus",
+    "ID": "FC_10",
+    "Atk1Dmg": 898,
+    "Atk2Dmg": 898,
+    "Health": 2514,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fc_10.png"
+  },
+  {
+    "Name": "Midas",
+    "ID": "FC_11",
+    "Atk1Dmg": 700,
+    "Atk2Dmg": 700,
+    "Health": 2445,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fc_11.png"
+  },
+  {
+    "Name": "Generalissimo Chocoleon IV",
+    "ID": "FC_12",
+    "Atk1Dmg": 1010,
+    "Atk2Dmg": 1010,
+    "Health": 5099,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fc_12.png"
+  },
+  {
+    "Name": "Avalon King",
+    "ID": "FC_13",
+    "Atk1Dmg": 885,
+    "Atk2Dmg": 885,
+    "Health": 2084,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fc_13.png"
+  },
+  {
+    "Name": "Vulcan",
+    "ID": "FC_14",
+    "Atk1Dmg": 1127,
+    "Atk2Dmg": 1127,
+    "Health": 2488,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/fc_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "FC_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fc_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "FC_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fc_98.png"
+  },
+  {
+    "Name": "Nimrod",
+    "ID": "FC_99",
+    "Atk1Dmg": 864,
+    "Atk2Dmg": 864,
+    "Health": 3000,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fc_99.png"
+  },
+  {
+    "Name": "Medusa",
+    "ID": "FD_01",
+    "Atk1Dmg": 436,
+    "Atk2Dmg": 436,
+    "Health": 1507,
+    "Type": "gold",
+    "Price": "432",
+    "Icon": "specimen/fd_01.png"
+  },
+  {
+    "Name": "Horus",
+    "ID": "FD_02",
+    "Atk1Dmg": 234,
+    "Atk2Dmg": 234,
+    "Health": 1257,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/fd_02.png"
+  },
+  {
+    "Name": "Ivory Hanzo",
+    "ID": "FD_03",
+    "Atk1Dmg": 879,
+    "Atk2Dmg": 879,
+    "Health": 1924,
+    "Type": "gold",
+    "Price": "10000",
+    "Icon": "specimen/fd_03.png"
+  },
+  {
+    "Name": "Buranka",
+    "ID": "FD_04",
+    "Atk1Dmg": 383,
+    "Atk2Dmg": 383,
+    "Health": 1484,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_04.png"
+  },
+  {
+    "Name": "Shinigami Painter",
+    "ID": "FD_05",
+    "Atk1Dmg": 295,
+    "Atk2Dmg": 295,
+    "Health": 1297,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_05.png"
+  },
+  {
+    "Name": "Kung Chow",
+    "ID": "FD_06",
+    "Atk1Dmg": 512,
+    "Atk2Dmg": 512,
+    "Health": 2706,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_06.png"
+  },
+  {
+    "Name": "Phoenix",
+    "ID": "FD_07",
+    "Atk1Dmg": 5,
+    "Atk2Dmg": 5,
+    "Health": 2016,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_07.png"
+  },
+  {
+    "Name": "Omikami",
+    "ID": "FD_08",
+    "Atk1Dmg": 741,
+    "Atk2Dmg": 741,
+    "Health": 1957,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_08.png"
+  },
+  {
+    "Name": "Draco Mage",
+    "ID": "FD_09",
+    "Atk1Dmg": 579,
+    "Atk2Dmg": 579,
+    "Health": 1752,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_09.png"
+  },
+  {
+    "Name": "Master Paw",
+    "ID": "FD_10",
+    "Atk1Dmg": 1342,
+    "Atk2Dmg": 1342,
+    "Health": 3683,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_10.png"
+  },
+  {
+    "Name": "Ishi no Ōkami",
+    "ID": "FD_11",
+    "Atk1Dmg": 330,
+    "Atk2Dmg": 330,
+    "Health": 1744,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_11.png"
+  },
+  {
+    "Name": "Simurgh",
+    "ID": "FD_12",
+    "Atk1Dmg": 687,
+    "Atk2Dmg": 515,
+    "Health": 1399,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_12.png"
+  },
+  {
+    "Name": "Tezcatlipoca",
+    "ID": "FD_13",
+    "Atk1Dmg": 773,
+    "Atk2Dmg": 1531,
+    "Health": 2599,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fd_13.png"
+  },
+  {
+    "Name": "Vanir Queen Freyja",
+    "ID": "FD_14",
+    "Atk1Dmg": 1241,
+    "Atk2Dmg": 1241,
+    "Health": 4088,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/fd_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "FD_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "FD_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "FD_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fd_99.png"
+  },
+  {
+    "Name": "C'thlig",
+    "ID": "FE_01",
+    "Atk1Dmg": 563,
+    "Atk2Dmg": 563,
+    "Health": 1645,
+    "Type": "gold",
+    "Price": "864",
+    "Icon": "specimen/fe_01.png"
+  },
+  {
+    "Name": "Azuria",
+    "ID": "FE_02",
+    "Atk1Dmg": 342,
+    "Atk2Dmg": 342,
+    "Health": 1386,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/fe_02.png"
+  },
+  {
+    "Name": "Astro Magician",
+    "ID": "FE_03",
+    "Atk1Dmg": 491,
+    "Atk2Dmg": 491,
+    "Health": 1602,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_03.png"
+  },
+  {
+    "Name": "Space Princess",
+    "ID": "FE_04",
+    "Atk1Dmg": 271,
+    "Atk2Dmg": 271,
+    "Health": 1254,
+    "Type": "gold",
+    "Price": "300",
+    "Icon": "specimen/fe_04.png"
+  },
+  {
+    "Name": "Nebulus",
+    "ID": "FE_05",
+    "Atk1Dmg": 616,
+    "Atk2Dmg": 616,
+    "Health": 3354,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fe_05.png"
+  },
+  {
+    "Name": "Puppetron",
+    "ID": "FE_06",
+    "Atk1Dmg": 734,
+    "Atk2Dmg": 734,
+    "Health": 1685,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_06.png"
+  },
+  {
+    "Name": "Bug's King",
+    "ID": "FE_07",
+    "Atk1Dmg": 496,
+    "Atk2Dmg": 496,
+    "Health": 1802,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_07.png"
+  },
+  {
+    "Name": "Majin Zam",
+    "ID": "FE_08",
+    "Atk1Dmg": 971,
+    "Atk2Dmg": 971,
+    "Health": 1982,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_08.png"
+  },
+  {
+    "Name": "Xeleroth",
+    "ID": "FE_09",
+    "Atk1Dmg": 949,
+    "Atk2Dmg": 949,
+    "Health": 2345,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_09.png"
+  },
+  {
+    "Name": "Bahamut",
+    "ID": "FE_10",
+    "Atk1Dmg": 361,
+    "Atk2Dmg": 361,
+    "Health": 1707,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_10.png"
+  },
+  {
+    "Name": "Pierrot",
+    "ID": "FE_11",
+    "Atk1Dmg": 829,
+    "Atk2Dmg": 415,
+    "Health": 1997,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_11.png"
+  },
+  {
+    "Name": "Algid Exocelestial",
+    "ID": "FE_12",
+    "Atk1Dmg": 724,
+    "Atk2Dmg": 1448,
+    "Health": 3130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fe_12.png"
+  },
+  {
+    "Name": "Vivaldi",
+    "ID": "FE_13",
+    "Atk1Dmg": 643,
+    "Atk2Dmg": 643,
+    "Health": 2955,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/fe_13.png"
+  },
+  {
+    "Name": "Seraphic Core",
+    "ID": "FE_14",
+    "Atk1Dmg": 580,
+    "Atk2Dmg": 948,
+    "Health": 2074,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "FE_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "FE_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 312,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_98.png"
+  },
+  {
+    "Name": "Engineer",
+    "ID": "FE_99",
+    "Atk1Dmg": 718,
+    "Atk2Dmg": 718,
+    "Health": 2012,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/fe_99.png"
+  },
+  {
+    "Name": "Pit Lord",
+    "ID": "FF_01",
+    "Atk1Dmg": 949,
+    "Atk2Dmg": 545,
+    "Health": 2583,
+    "Type": "gold",
+    "Price": "648",
+    "Icon": "specimen/ff_01.png"
+  },
+  {
+    "Name": "Retribution",
+    "ID": "FF_02",
+    "Atk1Dmg": 456,
+    "Atk2Dmg": 263,
+    "Health": 1781,
+    "Type": "gold",
+    "Price": "216",
+    "Icon": "specimen/ff_02.png"
+  },
+  {
+    "Name": "Blood Berry",
+    "ID": "FF_03",
+    "Atk1Dmg": 313,
+    "Atk2Dmg": 180,
+    "Health": 1922,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_03.png"
+  },
+  {
+    "Name": "Monolith",
+    "ID": "FF_04",
+    "Atk1Dmg": 600,
+    "Atk2Dmg": 346,
+    "Health": 2126,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_04.png"
+  },
+  {
+    "Name": "Glubber",
+    "ID": "FF_05",
+    "Atk1Dmg": 568,
+    "Atk2Dmg": 399,
+    "Health": 1831,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_05.png"
+  },
+  {
+    "Name": "Namaste",
+    "ID": "FF_06",
+    "Atk1Dmg": 416,
+    "Atk2Dmg": 284,
+    "Health": 1716,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_06.png"
+  },
+  {
+    "Name": "Geomega",
+    "ID": "FF_07",
+    "Atk1Dmg": 1493,
+    "Atk2Dmg": 746,
+    "Health": 4093,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_07.png"
+  },
+  {
+    "Name": "Firestorm",
+    "ID": "FF_08",
+    "Atk1Dmg": 425,
+    "Atk2Dmg": 245,
+    "Health": 1640,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_08.png"
+  },
+  {
+    "Name": "Liquidator",
+    "ID": "FF_09",
+    "Atk1Dmg": 669,
+    "Atk2Dmg": 384,
+    "Health": 2279,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_09.png"
+  },
+  {
+    "Name": "Bregbeam",
+    "ID": "FF_10",
+    "Atk1Dmg": 1139,
+    "Atk2Dmg": 575,
+    "Health": 3250,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_10.png"
+  },
+  {
+    "Name": "Gerard Steelgarden",
+    "ID": "FF_11",
+    "Atk1Dmg": 975,
+    "Atk2Dmg": 488,
+    "Health": 2901,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_11.png"
+  },
+  {
+    "Name": "Timeless Archivist",
+    "ID": "FF_12",
+    "Atk1Dmg": 861,
+    "Atk2Dmg": 516,
+    "Health": 3046,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_12.png"
+  },
+  {
+    "Name": "Sakuraboshi",
+    "ID": "FF_13",
+    "Atk1Dmg": 814,
+    "Atk2Dmg": 581,
+    "Health": 1948,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_13.png"
+  },
+  {
+    "Name": "Twilight Prophet",
+    "ID": "FF_14",
+    "Atk1Dmg": 814,
+    "Atk2Dmg": 1331,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ff_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "FF_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ff_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "FF_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 156,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/ff_98.png"
+  },
+  {
+    "Name": "Emotional Maskerade",
+    "ID": "FF_99",
+    "Atk1Dmg": 1441,
+    "Atk2Dmg": 1032,
+    "Health": 5330,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/ff_99.png"
+  },
+  {
+    "Name": "Demon",
+    "ID": "F_01",
+    "Atk1Dmg": 461,
+    "Atk2Dmg": 461,
+    "Health": 1627,
+    "Type": "gold",
+    "Price": "324",
+    "Icon": "specimen/f_01.png"
+  },
+  {
+    "Name": "Snowmage",
+    "ID": "F_03",
+    "Atk1Dmg": 615,
+    "Atk2Dmg": 354,
+    "Health": 2591,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_03.png"
+  },
+  {
+    "Name": "Leprechaun",
+    "ID": "F_04",
+    "Atk1Dmg": 584,
+    "Atk2Dmg": 643,
+    "Health": 3512,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_04.png"
+  },
+  {
+    "Name": "",
+    "ID": "F_05",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_05.png"
+  },
+  {
+    "Name": "",
+    "ID": "F_06",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_06.png"
+  },
+  {
+    "Name": "",
+    "ID": "F_07",
+    "Atk1Dmg": 684,
+    "Atk2Dmg": 342,
+    "Health": 1824,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_07.png"
+  },
+  {
+    "Name": "",
+    "ID": "F_08",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_08.png"
+  },
+  {
+    "Name": "",
+    "ID": "F_09",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_09.png"
+  },
+  {
+    "Name": "",
+    "ID": "F_10",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_10.png"
+  },
+  {
+    "Name": "",
+    "ID": "F_11",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_11.png"
+  },
+  {
+    "Name": "Summoner",
+    "ID": "F_12",
+    "Atk1Dmg": 477,
+    "Atk2Dmg": 488,
+    "Health": 1590,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/f_12.png"
+  },
+  {
+    "Name": "Väinämöinen",
+    "ID": "F_13",
+    "Atk1Dmg": 533,
+    "Atk2Dmg": 266,
+    "Health": 1713,
+    "Type": "gold",
+    "Price": "540",
+    "Icon": "specimen/f_13.png"
+  },
+  {
+    "Name": "Magician",
+    "ID": "F_14",
+    "Atk1Dmg": 784,
+    "Atk2Dmg": 531,
+    "Health": 1691,
+    "Type": "gold",
+    "Price": "99999999",
+    "Icon": "specimen/f_14.png"
+  },
+  {
+    "Name": "",
+    "ID": "F_15",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_15.png"
+  },
+  {
+    "Name": "",
+    "ID": "F_98",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_98.png"
+  },
+  {
+    "Name": "",
+    "ID": "F_99",
+    "Atk1Dmg": 312,
+    "Atk2Dmg": 342,
+    "Health": 1130,
+    "Type": "gold",
+    "Price": "100000",
+    "Icon": "specimen/f_99.png"
+  }
+]
