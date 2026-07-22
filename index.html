@@ -2,19 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Mutopedia</title>
 <style>
   :root{
-    --bg:#0b0e14; --card:#141926; --card2:#171d2c;
+    --bg:#0b0e14; --card:#141926; --card2:#171d2c; --panel:#10151f;
     --line:#232c40; --text:#e6ecf7; --dim:#8a97b0; --faint:#5b6883;
     --accent:#4da3ff; --accent2:#6ee7ff;
     --bronze:#c98a4b; --silver:#b8c4d6; --gold:#f2c14e; --plat:#8fe3d0;
-    --atk:#ff8a6b; --hp:#4da3ff;
+    --atk:#ff8a6b; --hp:#4da3ff; --credit:#f2c14e;
     --r:16px;
   }
-  *{box-sizing:border-box;margin:0;padding:0}
-  html{scroll-behavior:smooth}
+  *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+  html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
   body{
     background:
       radial-gradient(900px 500px at 12% -10%, #16203a 0%, transparent 60%),
@@ -22,167 +22,202 @@
       var(--bg);
     color:var(--text);
     font:15px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
-    -webkit-font-smoothing:antialiased;
-    min-height:100vh;
+    -webkit-font-smoothing:antialiased;min-height:100vh;
   }
-
-  header{
-    position:sticky; top:0; z-index:20;
-    backdrop-filter:blur(14px);
-    background:linear-gradient(180deg, rgba(11,14,20,.92), rgba(11,14,20,.72));
-    border-bottom:1px solid var(--line);
-  }
-  .wrap{max-width:1400px;margin:0 auto;padding:0 22px}
-  .bar{display:flex;align-items:center;gap:18px;flex-wrap:wrap;padding:18px 0}
+  header{position:sticky;top:0;z-index:20;backdrop-filter:blur(14px);
+    background:linear-gradient(180deg,rgba(11,14,20,.94),rgba(11,14,20,.76));border-bottom:1px solid var(--line)}
+  .wrap{max-width:1400px;margin:0 auto;padding:0 20px}
+  .bar{display:flex;align-items:center;gap:14px;flex-wrap:wrap;padding:14px 0}
   .brand{display:flex;align-items:baseline;gap:10px;margin-right:auto}
-  .brand h1{
-    font-size:20px;font-weight:650;letter-spacing:-.02em;
-    background:linear-gradient(92deg,var(--text),var(--accent2));
-    -webkit-background-clip:text;background-clip:text;color:transparent;
-  }
+  .brand h1{font-size:20px;font-weight:650;letter-spacing:-.02em;
+    background:linear-gradient(92deg,var(--text),var(--accent2));-webkit-background-clip:text;background-clip:text;color:transparent}
   .count{font-size:12.5px;color:var(--faint);font-variant-numeric:tabular-nums}
-
-  .search{position:relative;flex:1 1 320px;max-width:460px}
+  .search{position:relative;flex:1 1 280px;max-width:460px}
   .search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);opacity:.5}
-  .search input{
-    width:100%;padding:11px 14px 11px 40px;
-    background:var(--card);border:1px solid var(--line);border-radius:12px;
-    color:var(--text);font:inherit;outline:none;
-    transition:border-color .18s, box-shadow .18s, background .18s;
-  }
+  .search input{width:100%;padding:11px 14px 11px 40px;background:var(--card);border:1px solid var(--line);
+    border-radius:12px;color:var(--text);font:inherit;font-size:16px;outline:none;
+    transition:border-color .18s,box-shadow .18s,background .18s}
   .search input::placeholder{color:var(--faint)}
-  .search input:focus{
-    border-color:var(--accent);
-    box-shadow:0 0 0 4px rgba(77,163,255,.13);
-    background:var(--card2);
-  }
+  .search input:focus{border-color:var(--accent);box-shadow:0 0 0 4px rgba(77,163,255,.13);background:var(--card2)}
 
-  main.wrap{padding:38px 22px 80px}
-  .grid{
-    display:grid;gap:18px;
-    grid-template-columns:repeat(auto-fill,minmax(232px,1fr));
-  }
-
-  .card{
-    background:linear-gradient(168deg,var(--card2),var(--card));
-    border:1px solid var(--line);border-radius:var(--r);
-    padding:16px 15px 14px;
-    display:flex;flex-direction:column;
-    contain:content;
+  main.wrap{padding:30px 20px 70px}
+  .grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
+  .card{background:linear-gradient(168deg,var(--card2),var(--card));border:1px solid var(--line);border-radius:var(--r);
+    padding:15px 14px 13px;display:flex;flex-direction:column;cursor:pointer;contain:content;
     opacity:0;transform:translateY(14px);
-    transition:transform .5s cubic-bezier(.2,.7,.3,1), opacity .5s, border-color .22s, box-shadow .22s;
-  }
+    transition:transform .45s cubic-bezier(.2,.7,.3,1),opacity .45s,border-color .22s,box-shadow .22s}
   .card.in{opacity:1;transform:none}
-  .card:hover{
-    border-color:#33507d;
-    box-shadow:0 14px 34px -14px rgba(0,0,0,.75), 0 0 0 1px rgba(77,163,255,.12) inset;
-    transform:translateY(-3px);
-  }
-
-  .thumb{height:118px;display:grid;place-items:center;margin-bottom:8px;position:relative}
-  .thumb::after{
-    content:"";position:absolute;bottom:6px;left:50%;transform:translateX(-50%);
-    width:74%;height:14px;border-radius:50%;
-    background:radial-gradient(ellipse,rgba(77,163,255,.24),transparent 70%);
-  }
-  .thumb img{
-    max-height:112px;max-width:100%;object-fit:contain;
-    filter:drop-shadow(0 8px 14px rgba(0,0,0,.55));
-    transition:transform .3s cubic-bezier(.2,.7,.3,1);
-  }
+  .card:hover{border-color:#33507d;box-shadow:0 14px 34px -14px rgba(0,0,0,.75),0 0 0 1px rgba(77,163,255,.12) inset;transform:translateY(-3px)}
+  .thumb{height:116px;display:grid;place-items:center;margin-bottom:8px;position:relative}
+  .thumb::after{content:"";position:absolute;bottom:6px;left:50%;transform:translateX(-50%);width:74%;height:14px;
+    border-radius:50%;background:radial-gradient(ellipse,rgba(77,163,255,.24),transparent 70%)}
+  .thumb img{max-height:110px;max-width:100%;object-fit:contain;filter:drop-shadow(0 8px 14px rgba(0,0,0,.55));
+    transition:transform .3s cubic-bezier(.2,.7,.3,1)}
   .card:hover .thumb img{transform:translateY(-4px) scale(1.045)}
-
   .name{font-size:15px;font-weight:620;letter-spacing:-.01em;text-align:center}
-  .idline{
-    text-align:center;font-size:11px;color:var(--faint);
-    font-family:ui-monospace,SFMono-Regular,Menlo,monospace;margin-top:2px;
-  }
-
-  .rule{height:1px;background:var(--line);margin:12px 0 10px}
-
-  .atks{display:grid;grid-template-columns:1fr 1fr;gap:8px;text-align:center}
-  .atk .lbl{font-size:10px;letter-spacing:.09em;color:var(--faint);text-transform:uppercase}
-  .atk .val{font-size:17px;font-weight:660;color:var(--atk);font-variant-numeric:tabular-nums;margin-top:1px}
-
-  .hp{margin-top:11px}
-  .hp .top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:5px}
-  .hp .lbl{font-size:10px;letter-spacing:.09em;color:var(--faint);text-transform:uppercase}
-  .hp .val{font-size:13.5px;font-weight:640;color:var(--hp);font-variant-numeric:tabular-nums}
-  .track{height:6px;border-radius:99px;background:#1c2334;overflow:hidden}
-  .fill{
-    height:100%;width:0;border-radius:99px;
-    background:linear-gradient(90deg,var(--hp),var(--accent2));
-    box-shadow:0 0 12px rgba(77,163,255,.5);
-    transition:width .9s cubic-bezier(.2,.7,.3,1);
-  }
-
-  .orig{
-    margin-top:12px;padding:9px 11px;border-radius:11px;
-    background:rgba(242,193,78,.07);border:1px solid rgba(242,193,78,.2);
-    display:flex;justify-content:space-between;align-items:center;gap:8px;
-  }
-  .orig .k{font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint)}
-  .orig .v{font-size:15px;font-weight:660;color:var(--gold);font-variant-numeric:tabular-nums}
-
-  .tiers{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin-top:9px}
-  .tier{
-    padding:7px 9px;border-radius:10px;
-    background:#101724;border:1px solid var(--line);
-    transition:border-color .2s, background .2s;
-  }
-  .card:hover .tier{background:#121a29}
-  .tier .k{font-size:9.5px;letter-spacing:.07em;text-transform:uppercase;color:var(--faint);display:flex;align-items:center;gap:5px}
-  .tier .k i{width:7px;height:7px;border-radius:50%;display:inline-block}
-  .tier .v{font-size:14px;font-weight:640;font-variant-numeric:tabular-nums;margin-top:2px}
-  .t-bronze i{background:var(--bronze)} .t-bronze .v{color:var(--bronze)}
-  .t-silver i{background:var(--silver)} .t-silver .v{color:var(--silver)}
-  .t-gold   i{background:var(--gold)}   .t-gold   .v{color:var(--gold)}
-  .t-plat   i{background:var(--plat)}   .t-plat   .v{color:var(--plat)}
-
-  .copy{
-    margin-top:12px;width:100%;padding:9px;border-radius:11px;cursor:pointer;
-    background:#111a2b;border:1px solid var(--line);color:var(--dim);
-    font:inherit;font-size:12.5px;font-weight:560;
-    display:flex;align-items:center;justify-content:center;gap:7px;
-    transition:background .18s,color .18s,border-color .18s,transform .12s;
-  }
-  .copy:hover{background:#16233a;color:var(--text);border-color:#33507d}
-  .copy:active{transform:scale(.975)}
-  .copy.ok{background:rgba(77,163,255,.16);color:var(--accent2);border-color:var(--accent)}
-
-  .empty{text-align:center;padding:90px 20px;color:var(--faint)}
+  .idline{text-align:center;font-size:11px;color:var(--faint);font-family:ui-monospace,Menlo,monospace;margin-top:2px}
+  .gcopy{margin-top:11px;width:100%;padding:10px;border-radius:11px;cursor:pointer;background:#111a2b;
+    border:1px solid var(--line);color:var(--dim);font:inherit;font-size:12.5px;font-weight:560;
+    display:flex;align-items:center;justify-content:center;gap:7px;transition:background .18s,color .18s,border-color .18s,transform .12s}
+  .gcopy:hover{background:#16233a;color:var(--text);border-color:#33507d}
+  .gcopy:active{transform:scale(.975)}
+  .gcopy.ok{background:rgba(77,163,255,.16);color:var(--accent2);border-color:var(--accent)}
+  .empty{text-align:center;padding:80px 20px;color:var(--faint)}
   .empty b{display:block;color:var(--text);font-size:17px;margin-bottom:7px;font-weight:600}
+  .err{max-width:660px;margin:60px auto;padding:22px 24px;background:var(--card);border:1px solid #4a2230;border-radius:var(--r)}
+  .err h2{font-size:16px;margin-bottom:9px} .err p{color:var(--dim);font-size:13.5px;margin-bottom:12px}
+  .err code{display:block;background:#0a0e16;border:1px solid var(--line);border-radius:9px;padding:11px 13px;
+    font-family:ui-monospace,Menlo,monospace;font-size:12.5px;color:var(--accent2)}
 
-  .err{
-    max-width:660px;margin:70px auto;padding:22px 24px;
-    background:var(--card);border:1px solid #4a2230;border-radius:var(--r);
-  }
-  .err h2{font-size:16px;margin-bottom:9px}
-  .err p{color:var(--dim);font-size:13.5px;margin-bottom:12px}
-  .err code{
-    display:block;background:#0a0e16;border:1px solid var(--line);border-radius:9px;
-    padding:11px 13px;font-family:ui-monospace,Menlo,monospace;font-size:12.5px;color:var(--accent2);
-  }
+  .backdrop{position:fixed;inset:0;z-index:60;background:rgba(4,7,12,.74);backdrop-filter:blur(6px);
+    display:flex;align-items:center;justify-content:center;padding:24px 14px;overflow:auto;
+    opacity:0;transition:opacity .2s;overscroll-behavior:contain}
+  .backdrop.show{opacity:1}
+  .detail{width:100%;max-width:880px;margin:auto;background:linear-gradient(180deg,var(--card2),var(--card));
+    border:1px solid var(--line);border-radius:20px;overflow:hidden;transform:translateY(16px) scale(.985);
+    transition:transform .26s cubic-bezier(.2,.7,.3,1);box-shadow:0 30px 80px -30px #000}
+  .backdrop.show .detail{transform:none}
+  .dhead{display:flex;align-items:center;gap:12px;padding:15px 18px;border-bottom:1px solid var(--line);
+    background:linear-gradient(90deg,rgba(77,163,255,.08),transparent);flex-wrap:wrap}
+  .dhead h2{font-size:19px;font-weight:650;letter-spacing:-.01em}
+  .badge{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;padding:3px 9px;border-radius:20px;
+    background:rgba(110,231,255,.12);color:var(--accent2);border:1px solid rgba(110,231,255,.25);font-weight:600}
+  .dhead .id{font-size:12px;color:var(--faint);font-family:ui-monospace,Menlo,monospace}
+  .close{margin-left:auto;width:36px;height:36px;flex:none;border-radius:10px;background:var(--panel);
+    border:1px solid var(--line);color:var(--dim);cursor:pointer;font-size:20px;line-height:1;transition:.16s}
+  .close:hover{background:#1a2740;color:var(--text)}
+  .dbody{display:grid;grid-template-columns:300px 1fr}
+  .dleft{padding:16px;border-right:1px solid var(--line);display:flex;flex-direction:column;gap:12px;min-width:0}
+  .dright{padding:16px 18px;display:flex;flex-direction:column;gap:11px;min-width:0}
 
-  @media (prefers-reduced-motion:reduce){
-    *{transition:none!important;animation:none!important}
-    .card{opacity:1;transform:none}
+  .model{background:radial-gradient(circle at 50% 35%,#1b2433,transparent 70%),var(--panel);
+    border:1px solid var(--line);border-radius:14px;height:200px;display:grid;place-items:center;overflow:hidden}
+  .model img{max-height:184px;max-width:92%;object-fit:contain;filter:drop-shadow(0 10px 18px rgba(0,0,0,.6))}
+  .credits{display:flex;align-items:center;justify-content:center;gap:8px;font-size:14px;color:var(--credit);font-weight:600}
+  .ctrl{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px 12px}
+  .ctrl .lab{font-size:11px;letter-spacing:.07em;text-transform:uppercase;color:var(--faint);
+    display:flex;justify-content:space-between;align-items:center;gap:10px}
+  .ctrl .lab input[type=number]{width:96px;padding:7px 10px;background:#0e1420;border:1px solid var(--line);
+    border-radius:9px;color:var(--text);font:inherit;font-size:16px;font-weight:640;text-align:center;
+    font-variant-numeric:tabular-nums;outline:none;direction:ltr}
+  .ctrl .lab input[type=number]:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(77,163,255,.13)}
+  .ctrl .lab input::-webkit-outer-spin-button,.ctrl .lab input::-webkit-inner-spin-button{opacity:.35}
+  .stars{display:flex;gap:6px;margin-top:9px}
+  .star{flex:1;padding:9px 0;border-radius:9px;background:#0e1420;border:1px solid var(--line);cursor:pointer;
+    display:grid;place-items:center;transition:.15s}
+  .star img{width:22px;height:22px;object-fit:contain;opacity:.5;transition:.15s}
+  .star.none{font-size:11px;color:var(--faint)}
+  .star:hover{border-color:#33507d} .star.sel{background:#16233a;border-color:var(--accent)}
+  .star.sel img{opacity:1}
+
+  .sect{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin:3px 0 -2px}
+  .stat{display:flex;align-items:center;gap:12px;background:var(--panel);border:1px solid var(--line);
+    border-radius:12px;padding:10px 12px}
+  .stat .ic{width:40px;height:40px;flex:none;display:grid;place-items:center}
+  .stat .ic img{max-width:40px;max-height:40px;object-fit:contain}
+  .stat .info{flex:1;min-width:0}
+  .stat .t{font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--faint)}
+  .stat .t .nm{color:var(--dim);text-transform:none;letter-spacing:0;font-size:12px}
+  .stat .lk{font-size:10px;color:var(--faint);margin-left:7px;text-transform:none;letter-spacing:0}
+  .stat .v{font-size:19px;font-weight:660;font-variant-numeric:tabular-nums}
+  .stat.atk .v{color:var(--atk)} .stat.spd .v{color:var(--accent2)} .stat.pending{opacity:.72}
+  .aoe{font-size:9.5px;font-weight:700;letter-spacing:.05em;color:#ffd06b;background:rgba(255,180,60,.14);
+    border:1px solid rgba(255,180,60,.3);padding:1px 6px;border-radius:6px;margin-left:7px;vertical-align:1px}
+  .pw{font-size:9.5px;color:var(--accent2);margin-left:6px}
+
+  .hpwrap{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px 13px}
+  .hprow{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:7px}
+  .hprow .t{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--faint)}
+  .hprow .v{font-size:16px;font-weight:660;color:var(--hp);font-variant-numeric:tabular-nums}
+  .track{height:8px;border-radius:99px;background:#1c2334;overflow:hidden}
+  .fill{height:100%;border-radius:99px;background:linear-gradient(90deg,var(--hp),var(--accent2));
+    box-shadow:0 0 12px rgba(77,163,255,.5);transition:width .45s cubic-bezier(.2,.7,.3,1)}
+
+  .prices{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .ptier{padding:8px 11px;border-radius:10px;background:#101724;border:1px solid var(--line)}
+  .ptier .k{font-size:9.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--faint);display:flex;align-items:center;gap:5px}
+  .ptier .k i{width:7px;height:7px;border-radius:50%;display:inline-block}
+  .ptier .val{font-size:15px;font-weight:640;font-variant-numeric:tabular-nums;margin-top:2px}
+  .p-orig i{background:var(--dim)} .p-orig .val{color:var(--text)}
+  .p-bronze i{background:var(--bronze)} .p-bronze .val{color:var(--bronze)}
+  .p-silver i{background:var(--silver)} .p-silver .val{color:var(--silver)}
+  .p-gold i{background:var(--gold)} .p-gold .val{color:var(--gold)}
+
+  .abils{display:flex;flex-direction:column;gap:7px}
+  .abil{display:flex;align-items:center;gap:10px;background:#101724;border:1px solid var(--line);
+    border-radius:11px;padding:8px 10px}
+  .abil img{width:28px;height:28px;object-fit:contain;flex:none}
+  .abil .an{font-size:13px;font-weight:560;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .abil .ap{margin-left:auto;font-size:15px;font-weight:660;color:var(--accent2);
+    font-variant-numeric:tabular-nums;display:flex;align-items:baseline;gap:6px;flex:none}
+  .abil .apu{font-size:11px;font-weight:500;color:var(--faint)}
+  .abil.added{border-color:rgba(110,231,255,.3);background:rgba(110,231,255,.05)}
+  .abil .src{font-size:10px;color:var(--faint);flex:none}
+
+  .slots{display:flex;gap:10px;flex-wrap:wrap}
+  .slot{width:62px;height:62px;border-radius:12px;background:#0e1420;border:1px solid var(--line);
+    position:relative;cursor:pointer;display:grid;place-items:center;transition:.15s}
+  .slot:hover{border-color:var(--accent);background:#16233a}
+  .slot>img.bg{width:48px;height:48px;object-fit:contain;opacity:.55}
+  .slot>img.orb{position:absolute;width:46px;height:46px;object-fit:contain;filter:drop-shadow(0 3px 6px rgba(0,0,0,.5))}
+  .slot .rm{position:absolute;top:-7px;right:-7px;width:22px;height:22px;border-radius:50%;background:#e24b4a;
+    color:#fff;border:2px solid var(--card);font-size:12px;line-height:1;display:none;place-items:center;cursor:pointer}
+  .slot.filled .rm{display:grid} .slot.spe{box-shadow:0 0 0 1px rgba(242,193,78,.25) inset}
+  .slothint{font-size:11.5px;color:var(--faint)}
+
+  .picker{width:100%;max-width:560px;margin:auto;background:var(--card2);border:1px solid var(--line);
+    border-radius:18px;overflow:hidden;display:flex;flex-direction:column;max-height:82vh;
+    transform:translateY(14px);transition:transform .24s}
+  .backdrop.show .picker{transform:none}
+  .picker .ph{padding:13px 16px;border-bottom:1px solid var(--line);display:flex;gap:11px;align-items:center}
+  .picker .ph input{flex:1;min-width:0;padding:10px 12px;background:var(--panel);border:1px solid var(--line);
+    border-radius:10px;color:var(--text);font:inherit;font-size:16px;outline:none}
+  .picker .ph input:focus{border-color:var(--accent)}
+  .plist{overflow:auto;padding:10px;-webkit-overflow-scrolling:touch}
+  .pgroup{font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);padding:10px 8px 5px}
+  .orow{display:flex;align-items:center;gap:11px;padding:10px;border-radius:10px;cursor:pointer;transition:background .12s}
+  .orow:hover{background:#16233a}
+  .orow img{width:32px;height:32px;object-fit:contain;flex:none}
+  .orow .on{font-size:13.5px;font-weight:540}
+  .orow .od{font-size:11px;color:var(--faint)}
+  .orow .op{margin-left:auto;font-size:13px;font-weight:640;color:var(--accent2);flex:none}
+
+  @media(max-width:860px){
+    .dbody{grid-template-columns:1fr}
+    .dleft{border-right:0;border-bottom:1px solid var(--line)}
+    .detail{max-width:560px}
   }
+  @media(max-width:600px){
+    .wrap{padding:0 14px}
+    main.wrap{padding:20px 14px 56px}
+    .bar{padding:12px 0;gap:10px}
+    .brand{width:100%;margin-right:0}
+    .search{flex:1 1 100%;max-width:none}
+    .grid{gap:12px;grid-template-columns:repeat(auto-fill,minmax(148px,1fr))}
+    .thumb{height:96px} .thumb img{max-height:92px}
+    .name{font-size:14px}
+    .backdrop{padding:12px 10px}
+    .detail{border-radius:16px}
+    .dhead{padding:13px 14px;gap:9px}
+    .dhead h2{font-size:17px}
+    .dleft,.dright{padding:14px}
+    .model{height:170px} .model img{max-height:156px}
+    .prices{grid-template-columns:1fr 1fr;gap:7px}
+    .stat .v{font-size:18px}
+    .slot{width:58px;height:58px}
+    .picker{max-height:88vh}
+  }
+  @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}.card{opacity:1;transform:none}}
 </style>
 </head>
 <body>
 
 <header>
   <div class="wrap bar">
-    <div class="brand">
-      <h1>Mutopedia</h1>
-      <span class="count" id="count">loading…</span>
-    </div>
-
+    <div class="brand"><h1>Mutopedia</h1><span class="count" id="count">loading…</span></div>
     <label class="search">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>
-      </svg>
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
       <input id="q" type="search" placeholder="Search by name, ID or price…" autocomplete="off" spellcheck="false">
     </label>
   </div>
@@ -194,127 +229,310 @@
 </main>
 
 <script>
-const grid=document.getElementById('grid'), empty=document.getElementById('empty'),
-      countEl=document.getElementById('count'), q=document.getElementById('q');
-let DATA=[], maxHP=1;
+const grid=document.getElementById('grid'),empty=document.getElementById('empty'),
+      countEl=document.getElementById('count'),q=document.getElementById('q');
+let DATA=[],ORBS=[],ORB_BY_ID={},GLOBAL_MAX=1;
+
+const STAR_ORDER=['none','bronze','silver','gold','platinum'];
+const STAR_BONUS={none:0,bronze:10,silver:30,gold:75,platinum:100};
+const ABILITY_NAME={ability_regen:'Life drain',ability_retaliate:'Retaliate',ability_shield:'Shield',
+  ability_slash:'Poison',ability_strengthen:'Strengthen',ability_weaken:'Weaken'};
+const ORB_TYPE_LABEL={attack_bonus:'Attack',life_bonus:'Life',speed_bonus:'Speed',
+  critical_bonus:'Critical',xp_bonus:'XP'};
+const ORB_GROUP_ORDER=['attack_bonus','life_bonus','speed_bonus','critical_bonus','xp_bonus','ability','ability_bonus'];
+const ORB_GROUP_LABEL={attack_bonus:'Attack orbs',life_bonus:'Life orbs',speed_bonus:'Speed orbs',
+  critical_bonus:'Critical orbs',xp_bonus:'XP orbs',ability:'Ability orbs (add)',ability_bonus:'Ability orbs (boost)'};
+const isEphemeral=o=>/ephemeral/i.test(o.ID||'');
+const isSpecialOrb=o=>/^orb_special_/i.test(o.ID||'');
 
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const num=v=>{const n=Number(v); return Number.isFinite(n)?n.toLocaleString():'—';};
+const num=v=>{const n=Number(v);return Number.isFinite(n)?n.toLocaleString():'—';};
+const levelMult=L=>(10*L+90)/100;
+const starMult=t=>(100+(STAR_BONUS[t]||0))/100;
 
-const io=new IntersectionObserver(es=>{
-  for(const e of es){
-    if(!e.isIntersecting) continue;
-    e.target.classList.add('in');
-    const f=e.target.querySelector('.fill');
-    if(f) requestAnimationFrame(()=>{ f.style.width=f.dataset.w+'%'; });
-    io.unobserve(e.target);
+function orbLabel(o){
+  const lv=o.Level?` ${o.Level}`:'';
+  if(o.Ability)return (ABILITY_NAME[o.Ability.replace('_plus','')]||o.Ability.replace('ability_',''))+lv;
+  return (ORB_TYPE_LABEL[o.Type]||o.Type)+lv;
+}
+function geneKey(g){g=(g||'').toLowerCase();return(g==='neutre'||g==='neutral'||g==='n'||g==='')?'n':g;}
+function geneIcon(g,aoe){return`ui/genes/attack_${geneKey(g)}${aoe?'_aoe':''}.png`;}
+function abilityIcon(id){return`ui/abilities/${id}.png`;}
+function parseAtkVal(s){if(s==null)return null;const p=String(s).split(':');return{val:parseInt(p[0],10)||0,aoe:(p[1]||'').toUpperCase()==='AOE'};}
+function parseUnlock(m){const o={},t=(m.Tags||{}).unlockAttack||'';for(const part of t.split(';')){const p=part.split(':');if(p.length===3)o[p[0]]={lv:parseInt(p[1],10)||1,gene:p[2]};}return o;}
+function slotTypes(m){return((m.Tags||{}).orbSlots||'').split(';').map(t=>t.split(':')[0].trim()).filter(Boolean);}
+function starEntry(m,star){const S=m.Stars;return S&&S[star]?S[star]:null;}
+function starBase(m,star,key,rawTag){
+  const e=starEntry(m,star),v=e?Number(e[key]):NaN;
+  if(Number.isFinite(v)&&v>0)return v;
+  const t=parseAtkVal(rawTag);
+  return t?Math.floor(t.val*starMult(star)):0;
+}
+function attackFor(m,slot,level,star,atkPct){
+  const T=m.Tags||{},u=parseUnlock(m),base=u[String(slot)],pow=u[slot+'p'];
+  let raw,gene,powered,unlockLv=0,key;
+  if(pow&&level>=pow.lv){raw=T['atk'+slot+'p'];gene=pow.gene;powered=true;key='Atk'+slot+'p';}
+  else{raw=T['atk'+slot];gene=base?base.gene:'n';powered=false;key='Atk'+slot;
+       if(base&&level<base.lv)unlockLv=base.lv;}
+  const src=parseAtkVal(raw);
+  if(!src)return null;
+  const dmg=Math.floor(starBase(m,star,key,raw)*levelMult(level)*(100+atkPct)/100);
+  return{dmg,gene,aoe:src.aoe,powered,unlockLv};
+}
+function equipped(state){return state.slots.map(id=>id?ORB_BY_ID[id]:null).filter(Boolean);}
+function orbSum(orbs,type){return orbs.filter(o=>o.Type===type).reduce((s,o)=>s+(+o.Pct||0),0);}
+
+function computeStats(m,state){
+  const T=m.Tags||{},orbs=equipped(state);
+  const atkPct=orbSum(orbs,'attack_bonus'),lifePct=orbSum(orbs,'life_bonus'),spdPct=orbSum(orbs,'speed_bonus');
+  const lm=levelMult(state.level),sm=starMult(state.star);
+  const se=starEntry(m,state.star),seHp=se?Number(se.Health):NaN;
+  const baseHp=(Number.isFinite(seHp)&&seHp>0)?seHp:Math.floor((parseInt(T.lifePoint,10)||0)*sm);
+  const health=Math.floor(baseHp*lm*(100+lifePct)/100);
+  const spx=parseInt(T.spX100,10)||0;
+  const effSpx=spx>0?spx*100/(100+spdPct):0;
+  const speed=effSpx>0?Math.round(100000/effSpx)/100:null;
+  const a1=attackFor(m,1,state.level,state.star,atkPct),a2=attackFor(m,2,state.level,state.star,atkPct);
+
+  const map={};
+  const abTag=(T.abilities||'').split(';')[0]||'';
+  const innate=(abTag.split(':')[1]||'').replace('_plus','');
+  if(innate){
+    const powered=(a1&&a1.powered)||(a2&&a2.powered);
+    const pct=parseInt(powered?T.abilityPct2:T.abilityPct1,10)||parseInt(T.abilityPct1,10)||0;
+    map[innate]={pct,added:false};
   }
-},{rootMargin:'120px'});
-
-function tier(cls,label,val){
-  return `<div class="tier ${cls}"><div class="k"><i></i>${label}</div><div class="v">${num(val)}</div></div>`;
+  for(const o of orbs){
+    if((o.Type==='ability'||o.Type==='ability_bonus')&&o.Ability){
+      const id=o.Ability.replace('_plus','');
+      if(!map[id])map[id]={pct:0,added:true};
+      map[id].pct+=(+o.Pct||0);
+    }
+  }
+  const abilities=Object.entries(map).map(([id,v])=>({id,pct:v.pct,added:v.added})).sort((a,b)=>b.pct-a.pct);
+  return{a1,a2,health,speed,abilities,credits:parseInt(T.bank,10)||0};
 }
 
-function card(m,i){
-  const t=m.Tags||{};
-  const hp=Number(m.Health)||0;
-  const pct=Math.max(2,Math.min(100,Math.round(hp/maxHP*100)));
-  const el=document.createElement('article');
-  el.className='card';
-  el.style.transitionDelay=Math.min(i,12)*26+'ms';
+const io=new IntersectionObserver(es=>{for(const e of es){if(!e.isIntersecting)continue;e.target.classList.add('in');io.unobserve(e.target);}},{rootMargin:'120px'});
+
+function gcard(m,i){
+  const el=document.createElement('article');el.className='card';
+  el.style.transitionDelay=Math.min(i,12)*24+'ms';
   el.innerHTML=`
-    <div class="thumb">
-      ${m.Icon?`<img src="${esc(m.Icon)}" alt="${esc(m.Name||m.ID)}" loading="lazy" decoding="async">`:''}
-    </div>
+    <div class="thumb">${m.Icon?`<img src="${esc(m.Icon)}" alt="" loading="lazy" decoding="async">`:''}</div>
     <div class="name">${esc(m.Name||m.ID)}</div>
     <div class="idline">${esc(m.ID)}</div>
-    <div class="rule"></div>
-
-    <div class="atks">
-      <div class="atk"><div class="lbl">ATK 1</div><div class="val">${num(m.Atk1Dmg)}</div></div>
-      <div class="atk"><div class="lbl">ATK 2</div><div class="val">${num(m.Atk2Dmg)}</div></div>
-    </div>
-
-    <div class="hp">
-      <div class="top"><span class="lbl">Health</span><span class="val">${num(m.Health)}</span></div>
-      <div class="track"><div class="fill" data-w="${pct}"></div></div>
-    </div>
-
-    <div class="orig">
-      <span class="k">${esc(m.Type==='credits'?'Credits':'Gold')} · Original</span>
-      <span class="v">${num(m.Price)}</span>
-    </div>
-
-    <div class="tiers">
-      ${tier('t-bronze','Bronze',t.changePrice00)}
-      ${tier('t-silver','Silver',t.changePrice01)}
-      ${tier('t-gold','Gold',t.changePrice02)}
-      ${tier('t-plat','Platinum',t.changePrice03)}
-    </div>
-
-    <button class="copy" data-id="${esc(m.ID)}">
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-        <rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/>
-      </svg>Copy code</button>`;
-  io.observe(el);
-  return el;
+    <button class="gcopy" data-id="${esc(m.ID)}">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg>Copy ID</button>`;
+  el.addEventListener('click',e=>{if(!e.target.closest('.gcopy'))openDetail(m);});
+  io.observe(el);return el;
 }
-
 function render(list){
-  grid.replaceChildren();
-  empty.hidden=list.length>0;
-  const frag=document.createDocumentFragment();
-  list.forEach((m,i)=>frag.appendChild(card(m,i)));
-  grid.appendChild(frag);
-  countEl.textContent=`${list.length} of ${DATA.length} mutants`;
+  grid.replaceChildren();empty.hidden=list.length>0;
+  const f=document.createDocumentFragment();list.forEach((m,i)=>f.appendChild(gcard(m,i)));
+  grid.appendChild(f);countEl.textContent=`${list.length} of ${DATA.length} mutants`;
 }
-
-function apply(){
-  const s=q.value.trim().toLowerCase();
-  if(!s) return render(DATA);
-  render(DATA.filter(m=>m._hay.includes(s)));
-}
-
-let t; q.addEventListener('input',()=>{clearTimeout(t);t=setTimeout(apply,110);});
-
+function apply(){const s=q.value.trim().toLowerCase();render(s?DATA.filter(m=>m._hay.includes(s)):DATA);}
+let t;q.addEventListener('input',()=>{clearTimeout(t);t=setTimeout(apply,110);});
 grid.addEventListener('click',async e=>{
-  const b=e.target.closest('.copy'); if(!b) return;
+  const b=e.target.closest('.gcopy');if(!b)return;e.stopPropagation();
   const id=b.dataset.id;
-  try{ await navigator.clipboard.writeText(id); }
-  catch{ const ta=document.createElement('textarea'); ta.value=id; document.body.appendChild(ta);
-         ta.select(); document.execCommand('copy'); ta.remove(); }
-  const html=b.innerHTML;
-  b.classList.add('ok'); b.textContent='Copied '+id;
-  setTimeout(()=>{ b.classList.remove('ok'); b.innerHTML=html; },1300);
+  try{await navigator.clipboard.writeText(id);}
+  catch{const ta=document.createElement('textarea');ta.value=id;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();}
+  const h=b.innerHTML;b.classList.add('ok');b.textContent='Copied '+id;
+  setTimeout(()=>{b.classList.remove('ok');b.innerHTML=h;},1300);
 });
 
+let state=null,curM=null;
+const orbFallback=o=>{
+  const chain=[o.Icon,`ui/orbs/${o.ID}.png`];
+  if(o.Ability)chain.push(abilityIcon(o.Ability.replace('_plus','')));
+  chain.push(isSpecialOrb(o)?'ui/orbs/orb_slot_spe.png':'ui/orbs/orb_slot.png');
+  return chain;
+};
+function imgChain(src,chain,cls){
+  return`<img class="${cls||''}" src="${esc(src)}" onerror="this.onerror=null;window._fb(this,${esc(JSON.stringify(chain.slice()))})">`;
+}
+window._fb=(img,chain)=>{const n=chain.shift();if(n===undefined){img.style.visibility='hidden';return;}img.src=n;img.onerror=()=>window._fb(img,chain);};
+
+function openDetail(m){
+  curM=m;
+  const slots=slotTypes(m);
+  state={level:1,star:'none',slots:new Array(slots.length).fill(null),slotTypes:slots};
+  const bd=document.createElement('div');bd.className='backdrop';bd.id='detailBd';
+  bd.addEventListener('click',e=>{if(e.target===bd)closeDetail();});
+  bd.innerHTML=`<div class="detail"></div>`;
+  document.body.appendChild(bd);document.body.style.overflow='hidden';
+  buildShell();refresh();
+  requestAnimationFrame(()=>bd.classList.add('show'));
+}
+function closeDetail(){const bd=document.getElementById('detailBd');if(!bd)return;bd.classList.remove('show');
+  document.body.style.overflow='';setTimeout(()=>bd.remove(),200);}
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeOrb();closeDetail();}});
+
+function buildShell(){
+  const m=curM,T=m.Tags||{};
+  const d=document.querySelector('#detailBd .detail');
+  const starImg=t=>t==='none'?'':`ui/stars/star_${t}.png`;
+  d.innerHTML=`
+    <div class="dhead">
+      <h2>${esc(m.Name||m.ID)}</h2>
+      ${T.type?`<span class="badge">${esc(T.type)}</span>`:''}
+      <span class="id">${esc(m.ID)}</span>
+      <button class="close" aria-label="Close">×</button>
+    </div>
+    <div class="dbody">
+      <div class="dleft">
+        <div class="model">${m.Icon?`<img src="${esc(m.Icon)}" alt="">`:''}</div>
+        <div class="credits">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8"/><path d="M12 8v8M9 10h4a2 2 0 0 1 0 4H9"/></svg>
+          <span id="creditsVal"></span></div>
+        <div class="ctrl">
+          <div class="lab"><span>Level</span>
+            <input type="number" id="lvNum" min="1" step="1" inputmode="numeric" value="${state.level}"></div>
+        </div>
+        <div class="ctrl">
+          <div class="lab"><span>Stars</span></div>
+          <div class="stars" id="stars">
+            ${STAR_ORDER.map(t=>`<div class="star ${t==='none'?'none':''} ${state.star===t?'sel':''}" data-star="${t}">
+              ${t==='none'?'—':`<img src="${starImg(t)}" alt="${t}">`}</div>`).join('')}
+          </div>
+        </div>
+        <div class="sect">Abilities</div>
+        <div class="abils" id="abilsBox"></div>
+        <div class="sect">Orb slots</div>
+        <div class="slots" id="slotsBox"></div>
+      </div>
+      <div class="dright" id="statsBox"></div>
+    </div>`;
+
+  d.querySelector('.close').addEventListener('click',closeDetail);
+  const lvNum=d.querySelector('#lvNum');
+  lvNum.addEventListener('input',()=>{
+    const v=parseInt(lvNum.value,10);
+    if(!Number.isFinite(v)||v<1)return;
+    state.level=v;refresh();
+  });
+  d.querySelectorAll('.star').forEach(el=>el.addEventListener('click',()=>{
+    state.star=el.dataset.star;
+    d.querySelectorAll('.star').forEach(x=>x.classList.toggle('sel',x.dataset.star===state.star));
+    refresh();
+  }));
+}
+
+function refresh(){
+  const m=curM,T=m.Tags||{},s=computeStats(m,state);
+  const d=document.querySelector('#detailBd .detail');if(!d)return;
+
+  d.querySelector('#creditsVal').textContent=`${num(s.credits)} credits / hour`;
+
+  const atkBlock=(a,idx)=>{
+    if(!a)return'';
+    const nm=(idx===1?m.Atk1Name:m.Atk2Name)||`Attack ${idx}`;
+    return`<div class="stat atk${a.unlockLv?' pending':''}"><div class="ic">${imgChain(geneIcon(a.gene,a.aoe),[geneIcon(a.gene,false),'ui/genes/attack_n.png'])}</div>
+      <div class="info"><div class="t">Attack ${idx} <span class="nm">${esc(nm)}</span>${a.unlockLv?`<span class="lk">unlocks lv ${a.unlockLv}</span>`:''}</div>
+      <div class="v">${num(a.dmg)}${a.aoe?'<span class="aoe">AOE</span>':''}${a.powered?'<span class="pw">powered</span>':''}</div></div></div>`;
+  };
+  const pTier=(cls,label,key)=>`<div class="ptier ${cls}"><div class="k"><i></i>${label}</div>
+    <div class="val">${T[key]?num(T[key]):'—'}</div></div>`;
+  const hpPct=Math.max(3,Math.min(100,Math.round(s.health/GLOBAL_MAX*100)));
+
+  d.querySelector('#statsBox').innerHTML=`
+    ${atkBlock(s.a1,1)}
+    ${atkBlock(s.a2,2)}
+    <div class="stat spd"><div class="ic"><svg width="26" height="26" viewBox="0 0 24 24" fill="var(--accent2)"><path d="M13 2L4.5 13.5H11l-1 8.5L19 10h-6.5z"/></svg></div>
+      <div class="info"><div class="t">Speed</div><div class="v">${s.speed!=null?s.speed:'—'}</div></div></div>
+    <div class="hpwrap">
+      <div class="hprow"><span class="t">Health points</span><span class="v">${num(s.health)}</span></div>
+      <div class="track"><div class="fill" style="width:${hpPct}%"></div></div>
+    </div>
+    <div class="sect">Breeding price</div>
+    <div class="prices">
+      ${pTier('p-orig','Original','changePrice00')}
+      ${pTier('p-bronze','Bronze','changePrice01')}
+      ${pTier('p-silver','Silver','changePrice02')}
+      ${pTier('p-gold','Gold','changePrice03')}
+    </div>`;
+
+  const refAtk=(s.a1?s.a1.dmg:0)||(s.a2?s.a2.dmg:0);
+  d.querySelector('#abilsBox').innerHTML=s.abilities.length?s.abilities.map(a=>`
+    <div class="abil${a.added?' added':''}">
+      ${imgChain(abilityIcon(a.id),['ui/orbs/orb_slot_spe.png'])}
+      <span class="an">${esc(ABILITY_NAME[a.id]||a.id.replace('ability_',''))}</span>
+      ${a.added?'<span class="src">orb</span>':''}
+      <span class="ap">${num(Math.round(refAtk*a.pct/100))}<span class="apu">${a.pct}%</span></span></div>`).join('')
+    :`<div class="slothint">No abilities.</div>`;
+
+  const slotsBox=d.querySelector('#slotsBox');
+  slotsBox.innerHTML=state.slotTypes.length?state.slotTypes.map((st,i)=>{
+    const id=state.slots[i],orb=id?ORB_BY_ID[id]:null;
+    const bg=st==='s'?'ui/orbs/orb_slot_spe.png':'ui/orbs/orb_slot.png';
+    return`<div class="slot ${st==='s'?'spe':''} ${orb?'filled':''}" data-slot="${i}">
+      <img class="bg" src="${bg}">
+      ${orb?imgChain(orb.Icon,orbFallback(orb).slice(1),'orb'):''}
+      <span class="rm" data-rm="${i}">×</span></div>`;
+  }).join(''):'<span class="slothint">No orb slots.</span>';
+  slotsBox.querySelectorAll('.slot').forEach(el=>el.addEventListener('click',e=>{
+    if(e.target.dataset.rm!==undefined){state.slots[+e.target.dataset.rm]=null;refresh();return;}
+    openOrb(+el.dataset.slot);
+  }));
+}
+
+function openOrb(slotIdx){
+  const bd=document.createElement('div');bd.className='backdrop';bd.id='orbBd';bd.style.zIndex=70;
+  bd.addEventListener('click',e=>{if(e.target===bd)closeOrb();});
+  const wantSpecial=(state.slotTypes[slotIdx]||'n')==='s';
+  const pool=ORBS.filter(o=>!isEphemeral(o)&&isSpecialOrb(o)===wantSpecial);
+  const rowHtml=o=>`<div class="orow" data-orb="${esc(o.ID)}">
+    ${imgChain(o.Icon,orbFallback(o).slice(1))}
+    <div><div class="on">${esc(orbLabel(o))}</div><div class="od">${esc(o.Ability?(ABILITY_NAME[o.Ability.replace('_plus','')]||o.Ability):(ORB_TYPE_LABEL[o.Type]||o.Type))}</div></div>
+    <span class="op">${o.Pct!=null?'+'+o.Pct+'%':''}</span></div>`;
+  const body=ORB_GROUP_ORDER.map(type=>{
+    const list=pool.filter(o=>o.Type===type).sort((a,b)=>(a.Level||0)-(b.Level||0)||(a.Pct||0)-(b.Pct||0));
+    if(!list.length)return'';
+    return`<div class="pgroup">${ORB_GROUP_LABEL[type]||type}</div>`+list.map(rowHtml).join('');
+  }).join('');
+  bd.innerHTML=`<div class="picker">
+    <div class="ph"><input id="orbq" placeholder="${wantSpecial?'Search special orbs…':'Search normal orbs…'}" autocomplete="off">
+      <button class="close" aria-label="Close">×</button></div>
+    <div class="plist">${body||'<div class="slothint" style="padding:16px">No orbs for this slot.</div>'}</div></div>`;
+  document.body.appendChild(bd);requestAnimationFrame(()=>bd.classList.add('show'));
+  bd.querySelector('.close').addEventListener('click',closeOrb);
+  const qq=bd.querySelector('#orbq');
+  qq.addEventListener('input',()=>{
+    const s=qq.value.trim().toLowerCase();
+    bd.querySelectorAll('.orow').forEach(r=>{
+      const o=ORB_BY_ID[r.dataset.orb];
+      r.style.display=(!s||orbLabel(o).toLowerCase().includes(s)||o.ID.toLowerCase().includes(s))?'':'none';
+    });
+  });
+  bd.querySelectorAll('.orow').forEach(r=>r.addEventListener('click',()=>{
+    state.slots[slotIdx]=r.dataset.orb;closeOrb();refresh();
+  }));
+}
+function closeOrb(){const bd=document.getElementById('orbBd');if(!bd)return;bd.classList.remove('show');setTimeout(()=>bd.remove(),200);}
+
 (async()=>{
-  let d=null;
-  for(const f of ['mutants_full.json','mutants.json']){
-    try{ const r=await fetch(f); if(r.ok){ d=await r.json(); break; } }catch{}
-  }
-  if(!d){
-    document.querySelector('main').innerHTML=
-      `<div class="err"><h2>Couldn't load mutants_full.json</h2>
-       <p>Browsers block reading local files straight from <code>file://</code>.
-          Serve this folder over HTTP — run this in the website folder, then open
-          <b>http://localhost:8000</b>:</p>
-       <code>python -m http.server 8000</code></div>`;
-    return;
-  }
+  let d=null,orbs=[];
+  for(const f of['mutants_full.json','mutants.json']){try{const r=await fetch(f);if(r.ok){d=await r.json();break;}}catch{}}
+  if(!d){document.querySelector('main').innerHTML=
+    `<div class="err"><h2>Couldn't load mutants_full.json</h2>
+     <p>Browsers block reading local files over <code>file://</code>. Serve this folder over HTTP:</p>
+     <code>python -m http.server 8080</code></div>`;return;}
+  try{const r=await fetch('orbs.json');if(r.ok)orbs=await r.json();}catch{}
+
   const has=(m,k)=>String(m[k]||'').trim()!=='';
-  DATA=d.filter(m=>has(m,'Name') && (has(m,'Atk1Name')||has(m,'Atk2Name')) && has(m,'Description'));
+  DATA=d.filter(m=>has(m,'Name')&&(has(m,'Atk1Name')||has(m,'Atk2Name'))&&has(m,'Description'));
+  ORBS=orbs;ORB_BY_ID={};for(const o of orbs)ORB_BY_ID[o.ID]=o;
 
   for(const m of DATA){
-    const t=m.Tags||{};
-    m._hay=[m.Name,m.ID,m.Price,t.changePrice00,t.changePrice01,t.changePrice02,t.changePrice03]
+    const T=m.Tags||{};
+    m._hay=[m.Name,m.ID,m.Price,T.changePrice00,T.changePrice01,T.changePrice02,T.changePrice03]
       .filter(v=>v!=null&&v!=='').join(' ').toLowerCase();
     const p=/^([A-Za-z]+)_?(\d+)$/.exec(m.ID||'');
-    m._pre=p?p[1].toUpperCase():String(m.ID||'');
-    m._num=p?parseInt(p[2],10):0;
+    m._pre=p?p[1].toUpperCase():String(m.ID||'');m._num=p?parseInt(p[2],10):0;
   }
-
-  maxHP=Math.max(1,...DATA.map(m=>Number(m.Health)||0));
+  GLOBAL_MAX=Math.max(1,...DATA.map(m=>(parseInt((m.Tags||{}).lifePoint,10)||0)*levelMult(30)*starMult('platinum')));
   DATA.sort((a,b)=>a._pre.localeCompare(b._pre)||a._num-b._num||String(a.ID).localeCompare(String(b.ID)));
   apply();
 })();

@@ -5,6 +5,7 @@
     "Atk1Dmg": 345,
     "Atk2Dmg": 199,
     "Health": 1550,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "36",
     "Icon": "specimen/aa_01.png"
@@ -15,6 +16,7 @@
     "Atk1Dmg": 1199,
     "Atk2Dmg": 689,
     "Health": 3676,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/aa_02.png"
@@ -25,6 +27,7 @@
     "Atk1Dmg": 518,
     "Atk2Dmg": 298,
     "Health": 1878,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_03.png"
@@ -35,6 +38,7 @@
     "Atk1Dmg": 283,
     "Atk2Dmg": 164,
     "Health": 1543,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_04.png"
@@ -45,6 +49,7 @@
     "Atk1Dmg": 741,
     "Atk2Dmg": 428,
     "Health": 1875,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/aa_05.png"
@@ -55,6 +60,7 @@
     "Atk1Dmg": 945,
     "Atk2Dmg": 635,
     "Health": 2258,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_06.png"
@@ -65,6 +71,7 @@
     "Atk1Dmg": 274,
     "Atk2Dmg": 156,
     "Health": 1235,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_07.png"
@@ -75,6 +82,7 @@
     "Atk1Dmg": 604,
     "Atk2Dmg": 409,
     "Health": 1909,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_08.png"
@@ -85,6 +93,7 @@
     "Atk1Dmg": 453,
     "Atk2Dmg": 260,
     "Health": 1938,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_09.png"
@@ -95,6 +104,7 @@
     "Atk1Dmg": 950,
     "Atk2Dmg": 554,
     "Health": 2888,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_10.png"
@@ -105,6 +115,7 @@
     "Atk1Dmg": 275,
     "Atk2Dmg": 145,
     "Health": 1191,
+    "Speed": 10,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_11.png"
@@ -115,6 +126,7 @@
     "Atk1Dmg": 870,
     "Atk2Dmg": 435,
     "Health": 3400,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_12.png"
@@ -125,6 +137,7 @@
     "Atk1Dmg": 755,
     "Atk2Dmg": 544,
     "Health": 2054,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_13.png"
@@ -135,6 +148,7 @@
     "Atk1Dmg": 1033,
     "Atk2Dmg": 624,
     "Health": 2026,
+    "Speed": 5.41,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_14.png"
@@ -145,6 +159,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_15.png"
@@ -155,6 +170,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/aa_98.png"
@@ -165,6 +181,7 @@
     "Atk1Dmg": 1240,
     "Atk2Dmg": 752,
     "Health": 4621,
+    "Speed": 5,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/aa_99.png"
@@ -175,6 +192,7 @@
     "Atk1Dmg": 254,
     "Atk2Dmg": 254,
     "Health": 1197,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "36",
     "Icon": "specimen/ab_01.png"
@@ -185,6 +203,7 @@
     "Atk1Dmg": 490,
     "Atk2Dmg": 490,
     "Health": 1554,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ab_02.png"
@@ -195,6 +214,7 @@
     "Atk1Dmg": 390,
     "Atk2Dmg": 390,
     "Health": 1464,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ab_03.png"
@@ -205,6 +225,7 @@
     "Atk1Dmg": 869,
     "Atk2Dmg": 869,
     "Health": 1846,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ab_04.png"
@@ -215,6 +236,7 @@
     "Atk1Dmg": 558,
     "Atk2Dmg": 558,
     "Health": 2552,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/ab_05.png"
@@ -225,6 +247,7 @@
     "Atk1Dmg": 264,
     "Atk2Dmg": 264,
     "Health": 1422,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ab_06.png"
@@ -235,6 +258,7 @@
     "Atk1Dmg": 979,
     "Atk2Dmg": 979,
     "Health": 3210,
+    "Speed": 4,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/ab_07.png"
@@ -245,6 +269,7 @@
     "Atk1Dmg": 332,
     "Atk2Dmg": 332,
     "Health": 1533,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ab_08.png"
@@ -255,6 +280,7 @@
     "Atk1Dmg": 1119,
     "Atk2Dmg": 1119,
     "Health": 3760,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ab_09.png"
@@ -265,6 +291,7 @@
     "Atk1Dmg": 1141,
     "Atk2Dmg": 1141,
     "Health": 1925,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ab_10.png"
@@ -275,6 +302,7 @@
     "Atk1Dmg": 516,
     "Atk2Dmg": 339,
     "Health": 2026,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ab_11.png"
@@ -285,6 +313,7 @@
     "Atk1Dmg": 844,
     "Atk2Dmg": 422,
     "Health": 2351,
+    "Speed": 4.08,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ab_12.png"
@@ -295,6 +324,7 @@
     "Atk1Dmg": 1132,
     "Atk2Dmg": 1132,
     "Health": 1911,
+    "Speed": 4.44,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ab_13.png"
@@ -305,6 +335,7 @@
     "Atk1Dmg": 1047,
     "Atk2Dmg": 1047,
     "Health": 4557,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ab_14.png"
@@ -315,6 +346,7 @@
     "Atk1Dmg": 1541,
     "Atk2Dmg": 1541,
     "Health": 3865,
+    "Speed": 5.41,
     "Type": "gold",
     "Price": "99999",
     "Icon": "specimen/ab_15.png"
@@ -325,6 +357,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ab_98.png"
@@ -335,6 +368,7 @@
     "Atk1Dmg": 1000,
     "Atk2Dmg": 635,
     "Health": 5864,
+    "Speed": 3.51,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ab_99.png"
@@ -345,6 +379,7 @@
     "Atk1Dmg": 391,
     "Atk2Dmg": 391,
     "Health": 1431,
+    "Speed": 5,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ac_01.png"
@@ -355,6 +390,7 @@
     "Atk1Dmg": 474,
     "Atk2Dmg": 474,
     "Health": 2342,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ac_02.png"
@@ -365,6 +401,7 @@
     "Atk1Dmg": 696,
     "Atk2Dmg": 696,
     "Health": 2394,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_03.png"
@@ -375,6 +412,7 @@
     "Atk1Dmg": 595,
     "Atk2Dmg": 595,
     "Health": 2419,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/ac_04.png"
@@ -385,6 +423,7 @@
     "Atk1Dmg": 250,
     "Atk2Dmg": 250,
     "Health": 1362,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_05.png"
@@ -395,6 +434,7 @@
     "Atk1Dmg": 631,
     "Atk2Dmg": 631,
     "Health": 1788,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_06.png"
@@ -405,6 +445,7 @@
     "Atk1Dmg": 856,
     "Atk2Dmg": 856,
     "Health": 2181,
+    "Speed": 4,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/ac_07.png"
@@ -415,6 +456,7 @@
     "Atk1Dmg": 291,
     "Atk2Dmg": 291,
     "Health": 1225,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_08.png"
@@ -425,6 +467,7 @@
     "Atk1Dmg": 310,
     "Atk2Dmg": 310,
     "Health": 1761,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_09.png"
@@ -435,6 +478,7 @@
     "Atk1Dmg": 786,
     "Atk2Dmg": 786,
     "Health": 1814,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_10.png"
@@ -445,6 +489,7 @@
     "Atk1Dmg": 378,
     "Atk2Dmg": 378,
     "Health": 855,
+    "Speed": 10.53,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_11.png"
@@ -455,6 +500,7 @@
     "Atk1Dmg": 881,
     "Atk2Dmg": 881,
     "Health": 2402,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_12.png"
@@ -465,6 +511,7 @@
     "Atk1Dmg": 1345,
     "Atk2Dmg": 1345,
     "Health": 4356,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ac_13.png"
@@ -475,6 +522,7 @@
     "Atk1Dmg": 1041,
     "Atk2Dmg": 1041,
     "Health": 2541,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_14.png"
@@ -485,6 +533,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_15.png"
@@ -495,6 +544,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_98.png"
@@ -505,6 +555,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ac_99.png"
@@ -515,6 +566,7 @@
     "Atk1Dmg": 657,
     "Atk2Dmg": 657,
     "Health": 1838,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "144",
     "Icon": "specimen/ad_01.png"
@@ -525,6 +577,7 @@
     "Atk1Dmg": 420,
     "Atk2Dmg": 420,
     "Health": 1577,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_02.png"
@@ -535,6 +588,7 @@
     "Atk1Dmg": 395,
     "Atk2Dmg": 395,
     "Health": 1712,
+    "Speed": 10,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ad_03.png"
@@ -545,6 +599,7 @@
     "Atk1Dmg": 336,
     "Atk2Dmg": 336,
     "Health": 1553,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_04.png"
@@ -555,6 +610,7 @@
     "Atk1Dmg": 546,
     "Atk2Dmg": 546,
     "Health": 1932,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_05.png"
@@ -565,6 +621,7 @@
     "Atk1Dmg": 796,
     "Atk2Dmg": 796,
     "Health": 2646,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_06.png"
@@ -575,6 +632,7 @@
     "Atk1Dmg": 266,
     "Atk2Dmg": 266,
     "Health": 2211,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_07.png"
@@ -585,6 +643,7 @@
     "Atk1Dmg": 314,
     "Atk2Dmg": 314,
     "Health": 1616,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_08.png"
@@ -595,6 +654,7 @@
     "Atk1Dmg": 583,
     "Atk2Dmg": 583,
     "Health": 2569,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_09.png"
@@ -605,6 +665,7 @@
     "Atk1Dmg": 943,
     "Atk2Dmg": 943,
     "Health": 2477,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_10.png"
@@ -615,6 +676,7 @@
     "Atk1Dmg": 605,
     "Atk2Dmg": 701,
     "Health": 2951,
+    "Speed": 8,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ad_11.png"
@@ -625,6 +687,7 @@
     "Atk1Dmg": 664,
     "Atk2Dmg": 664,
     "Health": 1671,
+    "Speed": 7.41,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_12.png"
@@ -635,6 +698,7 @@
     "Atk1Dmg": 876,
     "Atk2Dmg": 876,
     "Health": 2323,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_13.png"
@@ -645,6 +709,7 @@
     "Atk1Dmg": 584,
     "Atk2Dmg": 584,
     "Health": 354,
+    "Speed": 11.11,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_14.png"
@@ -655,6 +720,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_15.png"
@@ -665,6 +731,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_98.png"
@@ -675,6 +742,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ad_99.png"
@@ -685,6 +753,7 @@
     "Atk1Dmg": 495,
     "Atk2Dmg": 495,
     "Health": 1656,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "252",
     "Icon": "specimen/ae_01.png"
@@ -695,6 +764,7 @@
     "Atk1Dmg": 308,
     "Atk2Dmg": 308,
     "Health": 2546,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ae_02.png"
@@ -705,6 +775,7 @@
     "Atk1Dmg": 670,
     "Atk2Dmg": 670,
     "Health": 1888,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_03.png"
@@ -715,6 +786,7 @@
     "Atk1Dmg": 551,
     "Atk2Dmg": 551,
     "Health": 2423,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/ae_04.png"
@@ -725,6 +797,7 @@
     "Atk1Dmg": 423,
     "Atk2Dmg": 423,
     "Health": 1877,
+    "Speed": 5,
     "Type": "gold",
     "Price": "732",
     "Icon": "specimen/ae_05.png"
@@ -735,6 +808,7 @@
     "Atk1Dmg": 271,
     "Atk2Dmg": 271,
     "Health": 1423,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_06.png"
@@ -745,6 +819,7 @@
     "Atk1Dmg": 887,
     "Atk2Dmg": 887,
     "Health": 1722,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_07.png"
@@ -755,6 +830,7 @@
     "Atk1Dmg": 455,
     "Atk2Dmg": 455,
     "Health": 1065,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_08.png"
@@ -765,6 +841,7 @@
     "Atk1Dmg": 443,
     "Atk2Dmg": 443,
     "Health": 2383,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_09.png"
@@ -775,6 +852,7 @@
     "Atk1Dmg": 1041,
     "Atk2Dmg": 1041,
     "Health": 4200,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_10.png"
@@ -785,6 +863,7 @@
     "Atk1Dmg": 735,
     "Atk2Dmg": 735,
     "Health": 2172,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_11.png"
@@ -795,6 +874,7 @@
     "Atk1Dmg": 949,
     "Atk2Dmg": 949,
     "Health": 2341,
+    "Speed": 3.92,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_12.png"
@@ -805,6 +885,7 @@
     "Atk1Dmg": 585,
     "Atk2Dmg": 511,
     "Health": 681,
+    "Speed": 9.52,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_13.png"
@@ -815,6 +896,7 @@
     "Atk1Dmg": 1011,
     "Atk2Dmg": 594,
     "Health": 4212,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_14.png"
@@ -825,6 +907,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_15.png"
@@ -835,6 +918,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_98.png"
@@ -845,6 +929,7 @@
     "Atk1Dmg": 1248,
     "Atk2Dmg": 1248,
     "Health": 3566,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ae_99.png"
@@ -855,6 +940,7 @@
     "Atk1Dmg": 368,
     "Atk2Dmg": 368,
     "Health": 1395,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "864",
     "Icon": "specimen/af_01.png"
@@ -865,6 +951,7 @@
     "Atk1Dmg": 255,
     "Atk2Dmg": 255,
     "Health": 1931,
+    "Speed": 10.53,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/af_02.png"
@@ -875,6 +962,7 @@
     "Atk1Dmg": 778,
     "Atk2Dmg": 778,
     "Health": 1966,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_03.png"
@@ -885,6 +973,7 @@
     "Atk1Dmg": 162,
     "Atk2Dmg": 162,
     "Health": 1655,
+    "Speed": 11.11,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_04.png"
@@ -895,6 +984,7 @@
     "Atk1Dmg": 1518,
     "Atk2Dmg": 1518,
     "Health": 3733,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/af_05.png"
@@ -905,6 +995,7 @@
     "Atk1Dmg": 439,
     "Atk2Dmg": 439,
     "Health": 2633,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/af_06.png"
@@ -915,6 +1006,7 @@
     "Atk1Dmg": 824,
     "Atk2Dmg": 824,
     "Health": 2155,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_07.png"
@@ -925,6 +1017,7 @@
     "Atk1Dmg": 402,
     "Atk2Dmg": 402,
     "Health": 1693,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_08.png"
@@ -935,6 +1028,7 @@
     "Atk1Dmg": 606,
     "Atk2Dmg": 606,
     "Health": 2415,
+    "Speed": 4.44,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_09.png"
@@ -945,6 +1039,7 @@
     "Atk1Dmg": 399,
     "Atk2Dmg": 399,
     "Health": 1733,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_10.png"
@@ -955,6 +1050,7 @@
     "Atk1Dmg": 900,
     "Atk2Dmg": 900,
     "Health": 3321,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/af_11.png"
@@ -965,6 +1061,7 @@
     "Atk1Dmg": 1025,
     "Atk2Dmg": 1025,
     "Health": 2746,
+    "Speed": 6.06,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/af_12.png"
@@ -975,6 +1072,7 @@
     "Atk1Dmg": 843,
     "Atk2Dmg": 843,
     "Health": 3480,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_13.png"
@@ -985,6 +1083,7 @@
     "Atk1Dmg": 687,
     "Atk2Dmg": 687,
     "Health": 1351,
+    "Speed": 10,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_14.png"
@@ -995,6 +1094,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_15.png"
@@ -1005,6 +1105,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_98.png"
@@ -1015,6 +1116,7 @@
     "Atk1Dmg": 780,
     "Atk2Dmg": 780,
     "Health": 2950,
+    "Speed": 3.23,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/af_99.png"
@@ -1025,6 +1127,7 @@
     "Atk1Dmg": 274,
     "Atk2Dmg": 549,
     "Health": 1819,
+    "Speed": 4,
     "Type": "gold",
     "Price": "36",
     "Icon": "specimen/a_01.png"
@@ -1035,6 +1138,7 @@
     "Atk1Dmg": 60,
     "Atk2Dmg": 276,
     "Health": 500,
+    "Speed": 2.83,
     "Type": "unknown",
     "Price": "",
     "Icon": "specimen/a_02.png"
@@ -1045,6 +1149,7 @@
     "Atk1Dmg": 432,
     "Atk2Dmg": 248,
     "Health": 3196,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_03.png"
@@ -1055,6 +1160,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_04.png"
@@ -1065,6 +1171,7 @@
     "Atk1Dmg": 515,
     "Atk2Dmg": 303,
     "Health": 1922,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/a_05.png"
@@ -1075,6 +1182,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_06.png"
@@ -1085,6 +1193,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_07.png"
@@ -1095,6 +1204,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_08.png"
@@ -1105,6 +1215,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_09.png"
@@ -1115,6 +1226,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_10.png"
@@ -1125,6 +1237,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_11.png"
@@ -1135,6 +1248,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_12.png"
@@ -1145,6 +1259,7 @@
     "Atk1Dmg": 510,
     "Atk2Dmg": 442,
     "Health": 967,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/a_13.png"
@@ -1155,6 +1270,7 @@
     "Atk1Dmg": 744,
     "Atk2Dmg": 531,
     "Health": 1688,
+    "Speed": 6.06,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/a_14.png"
@@ -1165,6 +1281,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_15.png"
@@ -1175,6 +1292,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_98.png"
@@ -1185,6 +1303,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/a_99.png"
@@ -1195,6 +1314,7 @@
     "Atk1Dmg": 439,
     "Atk2Dmg": 439,
     "Health": 1846,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ba_01.png"
@@ -1205,6 +1325,7 @@
     "Atk1Dmg": 236,
     "Atk2Dmg": 236,
     "Health": 1739,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ba_02.png"
@@ -1215,6 +1336,7 @@
     "Atk1Dmg": 639,
     "Atk2Dmg": 639,
     "Health": 1982,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_03.png"
@@ -1225,6 +1347,7 @@
     "Atk1Dmg": 365,
     "Atk2Dmg": 365,
     "Health": 1595,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_04.png"
@@ -1235,6 +1358,7 @@
     "Atk1Dmg": 542,
     "Atk2Dmg": 542,
     "Health": 1834,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_05.png"
@@ -1245,6 +1369,7 @@
     "Atk1Dmg": 947,
     "Atk2Dmg": 947,
     "Health": 2041,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_06.png"
@@ -1255,6 +1380,7 @@
     "Atk1Dmg": 374,
     "Atk2Dmg": 374,
     "Health": 2042,
+    "Speed": 6.06,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_07.png"
@@ -1265,6 +1391,7 @@
     "Atk1Dmg": 335,
     "Atk2Dmg": 335,
     "Health": 1848,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_08.png"
@@ -1275,6 +1402,7 @@
     "Atk1Dmg": 814,
     "Atk2Dmg": 814,
     "Health": 2312,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_09.png"
@@ -1285,6 +1413,7 @@
     "Atk1Dmg": 732,
     "Atk2Dmg": 732,
     "Health": 2585,
+    "Speed": 4.08,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_10.png"
@@ -1295,6 +1424,7 @@
     "Atk1Dmg": 225,
     "Atk2Dmg": 392,
     "Health": 2689,
+    "Speed": 6.06,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_11.png"
@@ -1305,6 +1435,7 @@
     "Atk1Dmg": 607,
     "Atk2Dmg": 1077,
     "Health": 2499,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_12.png"
@@ -1315,6 +1446,7 @@
     "Atk1Dmg": 445,
     "Atk2Dmg": 445,
     "Health": 1488,
+    "Speed": 5.71,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_13.png"
@@ -1325,6 +1457,7 @@
     "Atk1Dmg": 1224,
     "Atk2Dmg": 1224,
     "Health": 2221,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ba_14.png"
@@ -1335,6 +1468,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_15.png"
@@ -1345,6 +1479,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_98.png"
@@ -1355,6 +1490,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ba_99.png"
@@ -1365,6 +1501,7 @@
     "Atk1Dmg": 609,
     "Atk2Dmg": 349,
     "Health": 2151,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "36",
     "Icon": "specimen/bb_01.png"
@@ -1375,6 +1512,7 @@
     "Atk1Dmg": 339,
     "Atk2Dmg": 195,
     "Health": 1758,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/bb_02.png"
@@ -1385,6 +1523,7 @@
     "Atk1Dmg": 228,
     "Atk2Dmg": 133,
     "Health": 2080,
+    "Speed": 10,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_03.png"
@@ -1395,6 +1534,7 @@
     "Atk1Dmg": 255,
     "Atk2Dmg": 146,
     "Health": 1538,
+    "Speed": 10,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_04.png"
@@ -1405,6 +1545,7 @@
     "Atk1Dmg": 813,
     "Atk2Dmg": 468,
     "Health": 2375,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_05.png"
@@ -1415,6 +1556,7 @@
     "Atk1Dmg": 611,
     "Atk2Dmg": 351,
     "Health": 2164,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_06.png"
@@ -1425,6 +1567,7 @@
     "Atk1Dmg": 308,
     "Atk2Dmg": 175,
     "Health": 2219,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_07.png"
@@ -1435,6 +1578,7 @@
     "Atk1Dmg": 389,
     "Atk2Dmg": 228,
     "Health": 1798,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_08.png"
@@ -1445,6 +1589,7 @@
     "Atk1Dmg": 344,
     "Atk2Dmg": 148,
     "Health": 1571,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_09.png"
@@ -1455,6 +1600,7 @@
     "Atk1Dmg": 440,
     "Atk2Dmg": 253,
     "Health": 2840,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_10.png"
@@ -1465,6 +1611,7 @@
     "Atk1Dmg": 1036,
     "Atk2Dmg": 613,
     "Health": 5480,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/bb_11.png"
@@ -1475,6 +1622,7 @@
     "Atk1Dmg": 1211,
     "Atk2Dmg": 606,
     "Health": 4119,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/bb_12.png"
@@ -1485,6 +1633,7 @@
     "Atk1Dmg": 1011,
     "Atk2Dmg": 586,
     "Health": 2833,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_13.png"
@@ -1495,6 +1644,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/bb_14.png"
@@ -1505,6 +1655,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_15.png"
@@ -1515,6 +1666,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_98.png"
@@ -1525,6 +1677,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bb_99.png"
@@ -1535,6 +1688,7 @@
     "Atk1Dmg": 559,
     "Atk2Dmg": 559,
     "Health": 1919,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "36",
     "Icon": "specimen/bc_01.png"
@@ -1545,6 +1699,7 @@
     "Atk1Dmg": 347,
     "Atk2Dmg": 347,
     "Health": 1351,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/bc_02.png"
@@ -1555,6 +1710,7 @@
     "Atk1Dmg": 331,
     "Atk2Dmg": 331,
     "Health": 1414,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_03.png"
@@ -1565,6 +1721,7 @@
     "Atk1Dmg": 1284,
     "Atk2Dmg": 1284,
     "Health": 3926,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/bc_04.png"
@@ -1575,6 +1732,7 @@
     "Atk1Dmg": 465,
     "Atk2Dmg": 465,
     "Health": 1727,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_05.png"
@@ -1585,6 +1743,7 @@
     "Atk1Dmg": 543,
     "Atk2Dmg": 543,
     "Health": 1831,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_06.png"
@@ -1595,6 +1754,7 @@
     "Atk1Dmg": 694,
     "Atk2Dmg": 694,
     "Health": 1752,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_07.png"
@@ -1605,6 +1765,7 @@
     "Atk1Dmg": 862,
     "Atk2Dmg": 862,
     "Health": 1482,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_08.png"
@@ -1615,6 +1776,7 @@
     "Atk1Dmg": 675,
     "Atk2Dmg": 675,
     "Health": 2138,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_09.png"
@@ -1625,6 +1787,7 @@
     "Atk1Dmg": 1113,
     "Atk2Dmg": 1113,
     "Health": 1981,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_10.png"
@@ -1635,6 +1798,7 @@
     "Atk1Dmg": 202,
     "Atk2Dmg": 202,
     "Health": 2367,
+    "Speed": 12.5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_11.png"
@@ -1645,6 +1809,7 @@
     "Atk1Dmg": 1432,
     "Atk2Dmg": 1432,
     "Health": 4851,
+    "Speed": 3.64,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/bc_12.png"
@@ -1655,6 +1820,7 @@
     "Atk1Dmg": 730,
     "Atk2Dmg": 730,
     "Health": 2020,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_13.png"
@@ -1665,6 +1831,7 @@
     "Atk1Dmg": 834,
     "Atk2Dmg": 834,
     "Health": 1432,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_14.png"
@@ -1675,6 +1842,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_15.png"
@@ -1685,6 +1853,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_98.png"
@@ -1695,6 +1864,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bc_99.png"
@@ -1705,6 +1875,7 @@
     "Atk1Dmg": 584,
     "Atk2Dmg": 584,
     "Health": 1950,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "432",
     "Icon": "specimen/bd_01.png"
@@ -1715,6 +1886,7 @@
     "Atk1Dmg": 636,
     "Atk2Dmg": 636,
     "Health": 2449,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/bd_02.png"
@@ -1725,6 +1897,7 @@
     "Atk1Dmg": 328,
     "Atk2Dmg": 328,
     "Health": 1501,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_03.png"
@@ -1735,6 +1908,7 @@
     "Atk1Dmg": 226,
     "Atk2Dmg": 226,
     "Health": 1154,
+    "Speed": 10,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_04.png"
@@ -1745,6 +1919,7 @@
     "Atk1Dmg": 516,
     "Atk2Dmg": 516,
     "Health": 1800,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_05.png"
@@ -1755,6 +1930,7 @@
     "Atk1Dmg": 428,
     "Atk2Dmg": 428,
     "Health": 1912,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_06.png"
@@ -1765,6 +1941,7 @@
     "Atk1Dmg": 516,
     "Atk2Dmg": 516,
     "Health": 2622,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/bd_07.png"
@@ -1775,6 +1952,7 @@
     "Atk1Dmg": 471,
     "Atk2Dmg": 471,
     "Health": 1657,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_08.png"
@@ -1785,6 +1963,7 @@
     "Atk1Dmg": 282,
     "Atk2Dmg": 282,
     "Health": 1499,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_09.png"
@@ -1795,6 +1974,7 @@
     "Atk1Dmg": 806,
     "Atk2Dmg": 806,
     "Health": 2222,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_10.png"
@@ -1805,6 +1985,7 @@
     "Atk1Dmg": 720,
     "Atk2Dmg": 720,
     "Health": 1920,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_11.png"
@@ -1815,6 +1996,7 @@
     "Atk1Dmg": 841,
     "Atk2Dmg": 841,
     "Health": 2093,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_12.png"
@@ -1825,6 +2007,7 @@
     "Atk1Dmg": 594,
     "Atk2Dmg": 594,
     "Health": 860,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/bd_13.png"
@@ -1835,6 +2018,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 684,
     "Health": 2386,
+    "Speed": 4.65,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_14.png"
@@ -1845,6 +2029,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_15.png"
@@ -1855,6 +2040,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_98.png"
@@ -1865,6 +2051,7 @@
     "Atk1Dmg": 491,
     "Atk2Dmg": 491,
     "Health": 1977,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bd_99.png"
@@ -1875,6 +2062,7 @@
     "Atk1Dmg": 576,
     "Atk2Dmg": 576,
     "Health": 1981,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "252",
     "Icon": "specimen/be_01.png"
@@ -1885,6 +2073,7 @@
     "Atk1Dmg": 531,
     "Atk2Dmg": 531,
     "Health": 1837,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/be_02.png"
@@ -1895,6 +2084,7 @@
     "Atk1Dmg": 473,
     "Atk2Dmg": 473,
     "Health": 1838,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/be_03.png"
@@ -1905,6 +2095,7 @@
     "Atk1Dmg": 982,
     "Atk2Dmg": 982,
     "Health": 2495,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/be_04.png"
@@ -1915,6 +2106,7 @@
     "Atk1Dmg": 420,
     "Atk2Dmg": 420,
     "Health": 1810,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_05.png"
@@ -1925,6 +2117,7 @@
     "Atk1Dmg": 264,
     "Atk2Dmg": 264,
     "Health": 1541,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_06.png"
@@ -1935,6 +2128,7 @@
     "Atk1Dmg": 590,
     "Atk2Dmg": 590,
     "Health": 1746,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_07.png"
@@ -1945,6 +2139,7 @@
     "Atk1Dmg": 500,
     "Atk2Dmg": 500,
     "Health": 1929,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_08.png"
@@ -1955,6 +2150,7 @@
     "Atk1Dmg": 529,
     "Atk2Dmg": 529,
     "Health": 1924,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_09.png"
@@ -1965,6 +2161,7 @@
     "Atk1Dmg": 924,
     "Atk2Dmg": 924,
     "Health": 2208,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_10.png"
@@ -1975,6 +2172,7 @@
     "Atk1Dmg": 1113,
     "Atk2Dmg": 1113,
     "Health": 2171,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_11.png"
@@ -1985,6 +2183,7 @@
     "Atk1Dmg": 708,
     "Atk2Dmg": 708,
     "Health": 3246,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_12.png"
@@ -1995,6 +2194,7 @@
     "Atk1Dmg": 1776,
     "Atk2Dmg": 1776,
     "Health": 1503,
+    "Speed": 3.64,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/be_13.png"
@@ -2005,6 +2205,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/be_14.png"
@@ -2015,6 +2216,7 @@
     "Atk1Dmg": 2430,
     "Atk2Dmg": 2430,
     "Health": 3120,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_15.png"
@@ -2025,6 +2227,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_98.png"
@@ -2035,6 +2238,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/be_99.png"
@@ -2045,6 +2249,7 @@
     "Atk1Dmg": 419,
     "Atk2Dmg": 419,
     "Health": 1750,
+    "Speed": 5,
     "Type": "gold",
     "Price": "360",
     "Icon": "specimen/bf_01.png"
@@ -2055,6 +2260,7 @@
     "Atk1Dmg": 220,
     "Atk2Dmg": 220,
     "Health": 2111,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/bf_02.png"
@@ -2065,6 +2271,7 @@
     "Atk1Dmg": 883,
     "Atk2Dmg": 883,
     "Health": 2987,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/bf_03.png"
@@ -2075,6 +2282,7 @@
     "Atk1Dmg": 361,
     "Atk2Dmg": 361,
     "Health": 2094,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/bf_04.png"
@@ -2085,6 +2293,7 @@
     "Atk1Dmg": 585,
     "Atk2Dmg": 585,
     "Health": 1952,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bf_05.png"
@@ -2095,6 +2304,7 @@
     "Atk1Dmg": 510,
     "Atk2Dmg": 510,
     "Health": 1680,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bf_06.png"
@@ -2105,6 +2315,7 @@
     "Atk1Dmg": 575,
     "Atk2Dmg": 575,
     "Health": 1738,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bf_07.png"
@@ -2115,6 +2326,7 @@
     "Atk1Dmg": 519,
     "Atk2Dmg": 519,
     "Health": 1913,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bf_08.png"
@@ -2125,6 +2337,7 @@
     "Atk1Dmg": 1469,
     "Atk2Dmg": 1469,
     "Health": 4348,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/bf_09.png"
@@ -2135,6 +2348,7 @@
     "Atk1Dmg": 951,
     "Atk2Dmg": 951,
     "Health": 2657,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bf_10.png"
@@ -2145,6 +2359,7 @@
     "Atk1Dmg": 1480,
     "Atk2Dmg": 740,
     "Health": 2926,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/bf_11.png"
@@ -2155,6 +2370,7 @@
     "Atk1Dmg": 685,
     "Atk2Dmg": 382,
     "Health": 2951,
+    "Speed": 4.65,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bf_12.png"
@@ -2165,6 +2381,7 @@
     "Atk1Dmg": 917,
     "Atk2Dmg": 917,
     "Health": 4547,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/bf_13.png"
@@ -2175,6 +2392,7 @@
     "Atk1Dmg": 1514,
     "Atk2Dmg": 1514,
     "Health": 1861,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/bf_14.png"
@@ -2185,6 +2403,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bf_15.png"
@@ -2195,6 +2414,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bf_98.png"
@@ -2205,6 +2425,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/bf_99.png"
@@ -2215,6 +2436,7 @@
     "Atk1Dmg": 331,
     "Atk2Dmg": 331,
     "Health": 1425,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "36",
     "Icon": "specimen/b_01.png"
@@ -2225,6 +2447,7 @@
     "Atk1Dmg": 150,
     "Atk2Dmg": 252,
     "Health": 400,
+    "Speed": 3.73,
     "Type": "unknown",
     "Price": "",
     "Icon": "specimen/b_02.png"
@@ -2235,6 +2458,7 @@
     "Atk1Dmg": 519,
     "Atk2Dmg": 300,
     "Health": 2851,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_03.png"
@@ -2245,6 +2469,7 @@
     "Atk1Dmg": 865,
     "Atk2Dmg": 496,
     "Health": 3531,
+    "Speed": 5,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_04.png"
@@ -2255,6 +2480,7 @@
     "Atk1Dmg": 507,
     "Atk2Dmg": 507,
     "Health": 2230,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/b_05.png"
@@ -2265,6 +2491,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_06.png"
@@ -2275,6 +2502,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_07.png"
@@ -2285,6 +2513,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_08.png"
@@ -2295,6 +2524,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_09.png"
@@ -2305,6 +2535,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_10.png"
@@ -2315,6 +2546,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_11.png"
@@ -2325,6 +2557,7 @@
     "Atk1Dmg": 719,
     "Atk2Dmg": 719,
     "Health": 1680,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/b_12.png"
@@ -2335,6 +2568,7 @@
     "Atk1Dmg": 807,
     "Atk2Dmg": 574,
     "Health": 3625,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/b_13.png"
@@ -2345,6 +2579,7 @@
     "Atk1Dmg": 721,
     "Atk2Dmg": 561,
     "Health": 1951,
+    "Speed": 5.41,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/b_14.png"
@@ -2355,6 +2590,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_15.png"
@@ -2365,6 +2601,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_98.png"
@@ -2375,6 +2612,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/b_99.png"
@@ -2385,6 +2623,7 @@
     "Atk1Dmg": 485,
     "Atk2Dmg": 485,
     "Health": 1567,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "36",
     "Icon": "specimen/ca_01.png"
@@ -2395,6 +2634,7 @@
     "Atk1Dmg": 257,
     "Atk2Dmg": 257,
     "Health": 1189,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ca_02.png"
@@ -2405,6 +2645,7 @@
     "Atk1Dmg": 390,
     "Atk2Dmg": 390,
     "Health": 1464,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ca_03.png"
@@ -2415,6 +2656,7 @@
     "Atk1Dmg": 157,
     "Atk2Dmg": 157,
     "Health": 960,
+    "Speed": 12.5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_04.png"
@@ -2425,6 +2667,7 @@
     "Atk1Dmg": 595,
     "Atk2Dmg": 595,
     "Health": 1297,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_05.png"
@@ -2435,6 +2678,7 @@
     "Atk1Dmg": 830,
     "Atk2Dmg": 830,
     "Health": 2321,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_06.png"
@@ -2445,6 +2689,7 @@
     "Atk1Dmg": 732,
     "Atk2Dmg": 732,
     "Health": 2931,
+    "Speed": 3.23,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_07.png"
@@ -2455,6 +2700,7 @@
     "Atk1Dmg": 243,
     "Atk2Dmg": 243,
     "Health": 931,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_08.png"
@@ -2465,6 +2711,7 @@
     "Atk1Dmg": 1515,
     "Atk2Dmg": 1515,
     "Health": 4157,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ca_09.png"
@@ -2475,6 +2722,7 @@
     "Atk1Dmg": 1238,
     "Atk2Dmg": 1238,
     "Health": 2315,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_10.png"
@@ -2485,6 +2733,7 @@
     "Atk1Dmg": 577,
     "Atk2Dmg": 577,
     "Health": 1277,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ca_11.png"
@@ -2495,6 +2744,7 @@
     "Atk1Dmg": 845,
     "Atk2Dmg": 464,
     "Health": 2234,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_12.png"
@@ -2505,6 +2755,7 @@
     "Atk1Dmg": 976,
     "Atk2Dmg": 976,
     "Health": 3434,
+    "Speed": 4.26,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ca_13.png"
@@ -2515,6 +2766,7 @@
     "Atk1Dmg": 1233,
     "Atk2Dmg": 870,
     "Health": 2166,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_14.png"
@@ -2525,6 +2777,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_15.png"
@@ -2535,6 +2788,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_98.png"
@@ -2545,6 +2799,7 @@
     "Atk1Dmg": 1200,
     "Atk2Dmg": 1200,
     "Health": 2512,
+    "Speed": 5.13,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ca_99.png"
@@ -2555,6 +2810,7 @@
     "Atk1Dmg": 299,
     "Atk2Dmg": 299,
     "Health": 1280,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/cb_01.png"
@@ -2565,6 +2821,7 @@
     "Atk1Dmg": 540,
     "Atk2Dmg": 540,
     "Health": 1770,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/cb_02.png"
@@ -2575,6 +2832,7 @@
     "Atk1Dmg": 455,
     "Atk2Dmg": 455,
     "Health": 1577,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_03.png"
@@ -2585,6 +2843,7 @@
     "Atk1Dmg": 516,
     "Atk2Dmg": 516,
     "Health": 1777,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_04.png"
@@ -2595,6 +2854,7 @@
     "Atk1Dmg": 926,
     "Atk2Dmg": 926,
     "Health": 3472,
+    "Speed": 5,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/cb_05.png"
@@ -2605,6 +2865,7 @@
     "Atk1Dmg": 720,
     "Atk2Dmg": 720,
     "Health": 2813,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/cb_06.png"
@@ -2615,6 +2876,7 @@
     "Atk1Dmg": 621,
     "Atk2Dmg": 621,
     "Health": 1670,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_07.png"
@@ -2625,6 +2887,7 @@
     "Atk1Dmg": 1120,
     "Atk2Dmg": 1120,
     "Health": 1463,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_08.png"
@@ -2635,6 +2898,7 @@
     "Atk1Dmg": 617,
     "Atk2Dmg": 617,
     "Health": 2174,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_09.png"
@@ -2645,6 +2909,7 @@
     "Atk1Dmg": 720,
     "Atk2Dmg": 720,
     "Health": 2169,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_10.png"
@@ -2655,6 +2920,7 @@
     "Atk1Dmg": 827,
     "Atk2Dmg": 575,
     "Health": 2081,
+    "Speed": 3.77,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_11.png"
@@ -2665,6 +2931,7 @@
     "Atk1Dmg": 826,
     "Atk2Dmg": 826,
     "Health": 1740,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_12.png"
@@ -2675,6 +2942,7 @@
     "Atk1Dmg": 815,
     "Atk2Dmg": 815,
     "Health": 2587,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_13.png"
@@ -2685,6 +2953,7 @@
     "Atk1Dmg": 748,
     "Atk2Dmg": 748,
     "Health": 2511,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_14.png"
@@ -2695,6 +2964,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_15.png"
@@ -2705,6 +2975,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_98.png"
@@ -2715,6 +2986,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cb_99.png"
@@ -2725,6 +2997,7 @@
     "Atk1Dmg": 515,
     "Atk2Dmg": 296,
     "Health": 1843,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "36",
     "Icon": "specimen/cc_01.png"
@@ -2735,6 +3008,7 @@
     "Atk1Dmg": 996,
     "Atk2Dmg": 593,
     "Health": 2920,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_02.png"
@@ -2745,6 +3019,7 @@
     "Atk1Dmg": 352,
     "Atk2Dmg": 177,
     "Health": 846,
+    "Speed": 11.11,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_03.png"
@@ -2755,6 +3030,7 @@
     "Atk1Dmg": 435,
     "Atk2Dmg": 251,
     "Health": 2851,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/cc_04.png"
@@ -2765,6 +3041,7 @@
     "Atk1Dmg": 744,
     "Atk2Dmg": 428,
     "Health": 2309,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_05.png"
@@ -2775,6 +3052,7 @@
     "Atk1Dmg": 238,
     "Atk2Dmg": 134,
     "Health": 1395,
+    "Speed": 10,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_06.png"
@@ -2785,6 +3063,7 @@
     "Atk1Dmg": 1800,
     "Atk2Dmg": 899,
     "Health": 4630,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_07.png"
@@ -2795,6 +3074,7 @@
     "Atk1Dmg": 329,
     "Atk2Dmg": 189,
     "Health": 1594,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_08.png"
@@ -2805,6 +3085,7 @@
     "Atk1Dmg": 954,
     "Atk2Dmg": 358,
     "Health": 1650,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_09.png"
@@ -2815,6 +3096,7 @@
     "Atk1Dmg": 1126,
     "Atk2Dmg": 569,
     "Health": 2406,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_10.png"
@@ -2825,6 +3107,7 @@
     "Atk1Dmg": 1400,
     "Atk2Dmg": 700,
     "Health": 4675,
+    "Speed": 5,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/cc_11.png"
@@ -2835,6 +3118,7 @@
     "Atk1Dmg": 590,
     "Atk2Dmg": 386,
     "Health": 915,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_12.png"
@@ -2845,6 +3129,7 @@
     "Atk1Dmg": 897,
     "Atk2Dmg": 677,
     "Health": 1983,
+    "Speed": 5.13,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_13.png"
@@ -2855,6 +3140,7 @@
     "Atk1Dmg": 944,
     "Atk2Dmg": 633,
     "Health": 2882,
+    "Speed": 3.13,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/cc_14.png"
@@ -2865,6 +3151,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_15.png"
@@ -2875,6 +3162,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_98.png"
@@ -2885,6 +3173,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cc_99.png"
@@ -2895,6 +3184,7 @@
     "Atk1Dmg": 181,
     "Atk2Dmg": 181,
     "Health": 1085,
+    "Speed": 11.11,
     "Type": "gold",
     "Price": "144",
     "Icon": "specimen/cd_01.png"
@@ -2905,6 +3195,7 @@
     "Atk1Dmg": 740,
     "Atk2Dmg": 740,
     "Health": 1855,
+    "Speed": 5,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/cd_02.png"
@@ -2915,6 +3206,7 @@
     "Atk1Dmg": 641,
     "Atk2Dmg": 641,
     "Health": 1860,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/cd_03.png"
@@ -2925,6 +3217,7 @@
     "Atk1Dmg": 177,
     "Atk2Dmg": 177,
     "Health": 1713,
+    "Speed": 11.11,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_04.png"
@@ -2935,6 +3228,7 @@
     "Atk1Dmg": 1633,
     "Atk2Dmg": 1633,
     "Health": 4580,
+    "Speed": 3.23,
     "Type": "unknown",
     "Price": "",
     "Icon": "specimen/cd_05.png"
@@ -2945,6 +3239,7 @@
     "Atk1Dmg": 699,
     "Atk2Dmg": 699,
     "Health": 3268,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_06.png"
@@ -2955,6 +3250,7 @@
     "Atk1Dmg": 1188,
     "Atk2Dmg": 1188,
     "Health": 4154,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_07.png"
@@ -2965,6 +3261,7 @@
     "Atk1Dmg": 668,
     "Atk2Dmg": 668,
     "Health": 2752,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_08.png"
@@ -2975,6 +3272,7 @@
     "Atk1Dmg": 341,
     "Atk2Dmg": 341,
     "Health": 1471,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_09.png"
@@ -2985,6 +3283,7 @@
     "Atk1Dmg": 405,
     "Atk2Dmg": 405,
     "Health": 1350,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_10.png"
@@ -2995,6 +3294,7 @@
     "Atk1Dmg": 679,
     "Atk2Dmg": 679,
     "Health": 2127,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_11.png"
@@ -3005,6 +3305,7 @@
     "Atk1Dmg": 1012,
     "Atk2Dmg": 1012,
     "Health": 3494,
+    "Speed": 6.9,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/cd_12.png"
@@ -3015,6 +3316,7 @@
     "Atk1Dmg": 815,
     "Atk2Dmg": 815,
     "Health": 2544,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_13.png"
@@ -3025,6 +3327,7 @@
     "Atk1Dmg": 1277,
     "Atk2Dmg": 1277,
     "Health": 1972,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/cd_14.png"
@@ -3035,6 +3338,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_15.png"
@@ -3045,6 +3349,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_98.png"
@@ -3055,6 +3360,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cd_99.png"
@@ -3065,6 +3371,7 @@
     "Atk1Dmg": 210,
     "Atk2Dmg": 210,
     "Health": 1109,
+    "Speed": 8.7,
     "Type": "gold",
     "Price": "756",
     "Icon": "specimen/ce_01.png"
@@ -3075,6 +3382,7 @@
     "Atk1Dmg": 706,
     "Atk2Dmg": 706,
     "Health": 2503,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ce_02.png"
@@ -3085,6 +3393,7 @@
     "Atk1Dmg": 650,
     "Atk2Dmg": 650,
     "Health": 1780,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_03.png"
@@ -3095,6 +3404,7 @@
     "Atk1Dmg": 201,
     "Atk2Dmg": 201,
     "Health": 1610,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_04.png"
@@ -3105,6 +3415,7 @@
     "Atk1Dmg": 531,
     "Atk2Dmg": 531,
     "Health": 1405,
+    "Speed": 6.33,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/ce_05.png"
@@ -3115,6 +3426,7 @@
     "Atk1Dmg": 328,
     "Atk2Dmg": 328,
     "Health": 1337,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_06.png"
@@ -3125,6 +3437,7 @@
     "Atk1Dmg": 895,
     "Atk2Dmg": 895,
     "Health": 1423,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_07.png"
@@ -3135,6 +3448,7 @@
     "Atk1Dmg": 622,
     "Atk2Dmg": 622,
     "Health": 1551,
+    "Speed": 4.65,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_08.png"
@@ -3145,6 +3459,7 @@
     "Atk1Dmg": 608,
     "Atk2Dmg": 608,
     "Health": 1867,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_09.png"
@@ -3155,6 +3470,7 @@
     "Atk1Dmg": 667,
     "Atk2Dmg": 667,
     "Health": 3550,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_10.png"
@@ -3165,6 +3481,7 @@
     "Atk1Dmg": 280,
     "Atk2Dmg": 280,
     "Health": 875,
+    "Speed": 10,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_11.png"
@@ -3175,6 +3492,7 @@
     "Atk1Dmg": 1240,
     "Atk2Dmg": 1240,
     "Health": 2560,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ce_12.png"
@@ -3185,6 +3503,7 @@
     "Atk1Dmg": 1033,
     "Atk2Dmg": 1033,
     "Health": 2331,
+    "Speed": 4.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_13.png"
@@ -3195,6 +3514,7 @@
     "Atk1Dmg": 1232,
     "Atk2Dmg": 1232,
     "Health": 1144,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ce_14.png"
@@ -3205,6 +3525,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_15.png"
@@ -3215,6 +3536,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_98.png"
@@ -3225,6 +3547,7 @@
     "Atk1Dmg": 1672,
     "Atk2Dmg": 1672,
     "Health": 5780,
+    "Speed": 3.51,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ce_99.png"
@@ -3235,6 +3558,7 @@
     "Atk1Dmg": 417,
     "Atk2Dmg": 417,
     "Health": 1556,
+    "Speed": 5,
     "Type": "gold",
     "Price": "360",
     "Icon": "specimen/cf_01.png"
@@ -3245,6 +3569,7 @@
     "Atk1Dmg": 700,
     "Atk2Dmg": 700,
     "Health": 1917,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_02.png"
@@ -3255,6 +3580,7 @@
     "Atk1Dmg": 220,
     "Atk2Dmg": 220,
     "Health": 746,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_03.png"
@@ -3265,6 +3591,7 @@
     "Atk1Dmg": 948,
     "Atk2Dmg": 948,
     "Health": 1976,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_04.png"
@@ -3275,6 +3602,7 @@
     "Atk1Dmg": 292,
     "Atk2Dmg": 292,
     "Health": 1511,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_05.png"
@@ -3285,6 +3613,7 @@
     "Atk1Dmg": 1197,
     "Atk2Dmg": 1197,
     "Health": 3469,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/cf_06.png"
@@ -3295,6 +3624,7 @@
     "Atk1Dmg": 946,
     "Atk2Dmg": 946,
     "Health": 3306,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/cf_07.png"
@@ -3305,6 +3635,7 @@
     "Atk1Dmg": 723,
     "Atk2Dmg": 723,
     "Health": 2095,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_08.png"
@@ -3315,6 +3646,7 @@
     "Atk1Dmg": 898,
     "Atk2Dmg": 898,
     "Health": 1860,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_09.png"
@@ -3325,6 +3657,7 @@
     "Atk1Dmg": 305,
     "Atk2Dmg": 305,
     "Health": 1977,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_10.png"
@@ -3335,6 +3668,7 @@
     "Atk1Dmg": 1645,
     "Atk2Dmg": 1645,
     "Health": 4724,
+    "Speed": 4.26,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/cf_11.png"
@@ -3345,6 +3679,7 @@
     "Atk1Dmg": 989,
     "Atk2Dmg": 989,
     "Health": 2996,
+    "Speed": 4.08,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_12.png"
@@ -3355,6 +3690,7 @@
     "Atk1Dmg": 797,
     "Atk2Dmg": 797,
     "Health": 2032,
+    "Speed": 6.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_13.png"
@@ -3365,6 +3701,7 @@
     "Atk1Dmg": 451,
     "Atk2Dmg": 451,
     "Health": 760,
+    "Speed": 10.53,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/cf_14.png"
@@ -3375,6 +3712,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_15.png"
@@ -3385,6 +3723,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_98.png"
@@ -3395,6 +3734,7 @@
     "Atk1Dmg": 855,
     "Atk2Dmg": 855,
     "Health": 3597,
+    "Speed": 4.08,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/cf_99.png"
@@ -3405,6 +3745,7 @@
     "Atk1Dmg": 380,
     "Atk2Dmg": 380,
     "Health": 1516,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "36",
     "Icon": "specimen/c_01.png"
@@ -3415,6 +3756,7 @@
     "Atk1Dmg": 150,
     "Atk2Dmg": 300,
     "Health": 300,
+    "Speed": 3.64,
     "Type": "unknown",
     "Price": "",
     "Icon": "specimen/c_02.png"
@@ -3425,6 +3767,7 @@
     "Atk1Dmg": 1064,
     "Atk2Dmg": 612,
     "Health": 3265,
+    "Speed": 4,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_03.png"
@@ -3435,6 +3778,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_04.png"
@@ -3445,6 +3789,7 @@
     "Atk1Dmg": 877,
     "Atk2Dmg": 877,
     "Health": 2382,
+    "Speed": 4.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/c_05.png"
@@ -3455,6 +3800,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_06.png"
@@ -3465,6 +3811,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_07.png"
@@ -3475,6 +3822,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_08.png"
@@ -3485,6 +3833,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_09.png"
@@ -3495,6 +3844,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_10.png"
@@ -3505,6 +3855,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_11.png"
@@ -3515,6 +3866,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_12.png"
@@ -3525,6 +3877,7 @@
     "Atk1Dmg": 752,
     "Atk2Dmg": 836,
     "Health": 1794,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/c_13.png"
@@ -3535,6 +3888,7 @@
     "Atk1Dmg": 1124,
     "Atk2Dmg": 833,
     "Health": 2244,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/c_14.png"
@@ -3545,6 +3899,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_15.png"
@@ -3555,6 +3910,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_98.png"
@@ -3565,6 +3921,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/c_99.png"
@@ -3575,6 +3932,7 @@
     "Atk1Dmg": 298,
     "Atk2Dmg": 298,
     "Health": 1492,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "432",
     "Icon": "specimen/da_01.png"
@@ -3585,6 +3943,7 @@
     "Atk1Dmg": 641,
     "Atk2Dmg": 641,
     "Health": 2208,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/da_02.png"
@@ -3595,6 +3954,7 @@
     "Atk1Dmg": 475,
     "Atk2Dmg": 475,
     "Health": 1755,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/da_03.png"
@@ -3605,6 +3965,7 @@
     "Atk1Dmg": 585,
     "Atk2Dmg": 585,
     "Health": 1953,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_04.png"
@@ -3615,6 +3976,7 @@
     "Atk1Dmg": 368,
     "Atk2Dmg": 368,
     "Health": 1777,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_05.png"
@@ -3625,6 +3987,7 @@
     "Atk1Dmg": 758,
     "Atk2Dmg": 758,
     "Health": 1973,
+    "Speed": 3.23,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_06.png"
@@ -3635,6 +3998,7 @@
     "Atk1Dmg": 185,
     "Atk2Dmg": 185,
     "Health": 1384,
+    "Speed": 12.66,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_07.png"
@@ -3645,6 +4009,7 @@
     "Atk1Dmg": 805,
     "Atk2Dmg": 805,
     "Health": 1266,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_08.png"
@@ -3655,6 +4020,7 @@
     "Atk1Dmg": 1358,
     "Atk2Dmg": 1358,
     "Health": 2136,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_09.png"
@@ -3665,6 +4031,7 @@
     "Atk1Dmg": 334,
     "Atk2Dmg": 334,
     "Health": 1408,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_10.png"
@@ -3675,6 +4042,7 @@
     "Atk1Dmg": 264,
     "Atk2Dmg": 325,
     "Health": 1672,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_11.png"
@@ -3685,6 +4053,7 @@
     "Atk1Dmg": 1085,
     "Atk2Dmg": 1085,
     "Health": 2995,
+    "Speed": 3.64,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_12.png"
@@ -3695,6 +4064,7 @@
     "Atk1Dmg": 634,
     "Atk2Dmg": 634,
     "Health": 2642,
+    "Speed": 3.92,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_13.png"
@@ -3705,6 +4075,7 @@
     "Atk1Dmg": 930,
     "Atk2Dmg": 930,
     "Health": 2999,
+    "Speed": 7.41,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/da_14.png"
@@ -3715,6 +4086,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 12.66,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_15.png"
@@ -3725,6 +4097,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 12.66,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_98.png"
@@ -3735,6 +4108,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 12.66,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/da_99.png"
@@ -3745,6 +4119,7 @@
     "Atk1Dmg": 320,
     "Atk2Dmg": 320,
     "Health": 1485,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "144",
     "Icon": "specimen/db_01.png"
@@ -3755,6 +4130,7 @@
     "Atk1Dmg": 162,
     "Atk2Dmg": 162,
     "Health": 1145,
+    "Speed": 11.76,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/db_02.png"
@@ -3765,6 +4141,7 @@
     "Atk1Dmg": 569,
     "Atk2Dmg": 569,
     "Health": 1856,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_03.png"
@@ -3775,6 +4152,7 @@
     "Atk1Dmg": 979,
     "Atk2Dmg": 979,
     "Health": 3210,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/db_04.png"
@@ -3785,6 +4163,7 @@
     "Atk1Dmg": 1150,
     "Atk2Dmg": 1150,
     "Health": 3152,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/db_05.png"
@@ -3795,6 +4174,7 @@
     "Atk1Dmg": 271,
     "Atk2Dmg": 271,
     "Health": 1253,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_06.png"
@@ -3805,6 +4185,7 @@
     "Atk1Dmg": 207,
     "Atk2Dmg": 207,
     "Health": 995,
+    "Speed": 10.53,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_07.png"
@@ -3815,6 +4196,7 @@
     "Atk1Dmg": 715,
     "Atk2Dmg": 715,
     "Health": 2032,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_08.png"
@@ -3825,6 +4207,7 @@
     "Atk1Dmg": 673,
     "Atk2Dmg": 673,
     "Health": 2028,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_09.png"
@@ -3835,6 +4218,7 @@
     "Atk1Dmg": 923,
     "Atk2Dmg": 923,
     "Health": 2030,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_10.png"
@@ -3845,6 +4229,7 @@
     "Atk1Dmg": 1450,
     "Atk2Dmg": 1450,
     "Health": 4072,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/db_11.png"
@@ -3855,6 +4240,7 @@
     "Atk1Dmg": 1182,
     "Atk2Dmg": 1182,
     "Health": 4021,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/db_12.png"
@@ -3865,6 +4251,7 @@
     "Atk1Dmg": 1033,
     "Atk2Dmg": 1033,
     "Health": 2413,
+    "Speed": 4.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_13.png"
@@ -3875,6 +4262,7 @@
     "Atk1Dmg": 954,
     "Atk2Dmg": 954,
     "Health": 3987,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_14.png"
@@ -3885,6 +4273,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_15.png"
@@ -3895,6 +4284,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_98.png"
@@ -3905,6 +4295,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/db_99.png"
@@ -3915,6 +4306,7 @@
     "Atk1Dmg": 275,
     "Atk2Dmg": 275,
     "Health": 1444,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "432",
     "Icon": "specimen/dc_01.png"
@@ -3925,6 +4317,7 @@
     "Atk1Dmg": 799,
     "Atk2Dmg": 799,
     "Health": 2155,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/dc_02.png"
@@ -3935,6 +4328,7 @@
     "Atk1Dmg": 501,
     "Atk2Dmg": 501,
     "Health": 1914,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/dc_03.png"
@@ -3945,6 +4339,7 @@
     "Atk1Dmg": 700,
     "Atk2Dmg": 700,
     "Health": 1917,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_04.png"
@@ -3955,6 +4350,7 @@
     "Atk1Dmg": 342,
     "Atk2Dmg": 342,
     "Health": 1605,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_05.png"
@@ -3965,6 +4361,7 @@
     "Atk1Dmg": 733,
     "Atk2Dmg": 733,
     "Health": 2330,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_06.png"
@@ -3975,6 +4372,7 @@
     "Atk1Dmg": 1460,
     "Atk2Dmg": 1460,
     "Health": 4338,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_07.png"
@@ -3985,6 +4383,7 @@
     "Atk1Dmg": 367,
     "Atk2Dmg": 367,
     "Health": 2369,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_08.png"
@@ -3995,6 +4394,7 @@
     "Atk1Dmg": 269,
     "Atk2Dmg": 269,
     "Health": 1563,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_09.png"
@@ -4005,6 +4405,7 @@
     "Atk1Dmg": 624,
     "Atk2Dmg": 624,
     "Health": 2111,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_10.png"
@@ -4015,6 +4416,7 @@
     "Atk1Dmg": 422,
     "Atk2Dmg": 422,
     "Health": 1690,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_11.png"
@@ -4025,6 +4427,7 @@
     "Atk1Dmg": 1344,
     "Atk2Dmg": 1344,
     "Health": 2453,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/dc_12.png"
@@ -4035,6 +4438,7 @@
     "Atk1Dmg": 1162,
     "Atk2Dmg": 1162,
     "Health": 2463,
+    "Speed": 3.51,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_13.png"
@@ -4045,6 +4449,7 @@
     "Atk1Dmg": 1527,
     "Atk2Dmg": 1527,
     "Health": 3877,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_14.png"
@@ -4055,6 +4460,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_15.png"
@@ -4065,6 +4471,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_98.png"
@@ -4075,6 +4482,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dc_99.png"
@@ -4085,6 +4493,7 @@
     "Atk1Dmg": 431,
     "Atk2Dmg": 248,
     "Health": 1859,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/dd_01.png"
@@ -4095,6 +4504,7 @@
     "Atk1Dmg": 711,
     "Atk2Dmg": 409,
     "Health": 2120,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/dd_02.png"
@@ -4105,6 +4515,7 @@
     "Atk1Dmg": 283,
     "Atk2Dmg": 164,
     "Health": 1803,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_03.png"
@@ -4115,6 +4526,7 @@
     "Atk1Dmg": 549,
     "Atk2Dmg": 315,
     "Health": 1924,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_04.png"
@@ -4125,6 +4537,7 @@
     "Atk1Dmg": 283,
     "Atk2Dmg": 164,
     "Health": 1003,
+    "Speed": 8.7,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/dd_05.png"
@@ -4135,6 +4548,7 @@
     "Atk1Dmg": 339,
     "Atk2Dmg": 214,
     "Health": 1566,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_06.png"
@@ -4145,6 +4559,7 @@
     "Atk1Dmg": 454,
     "Atk2Dmg": 260,
     "Health": 1764,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_07.png"
@@ -4155,6 +4570,7 @@
     "Atk1Dmg": 668,
     "Atk2Dmg": 334,
     "Health": 3134,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_08.png"
@@ -4165,6 +4581,7 @@
     "Atk1Dmg": 329,
     "Atk2Dmg": 195,
     "Health": 1754,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_09.png"
@@ -4175,6 +4592,7 @@
     "Atk1Dmg": 416,
     "Atk2Dmg": 245,
     "Health": 1710,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_10.png"
@@ -4185,6 +4603,7 @@
     "Atk1Dmg": 561,
     "Atk2Dmg": 323,
     "Health": 1973,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_11.png"
@@ -4195,6 +4614,7 @@
     "Atk1Dmg": 1095,
     "Atk2Dmg": 548,
     "Health": 4720,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/dd_12.png"
@@ -4205,6 +4625,7 @@
     "Atk1Dmg": 463,
     "Atk2Dmg": 812,
     "Health": 1859,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_13.png"
@@ -4215,6 +4636,7 @@
     "Atk1Dmg": 977,
     "Atk2Dmg": 695,
     "Health": 2441,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_14.png"
@@ -4225,6 +4647,7 @@
     "Atk1Dmg": 1241,
     "Atk2Dmg": 1011,
     "Health": 3731,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "9999999",
     "Icon": "specimen/dd_15.png"
@@ -4235,6 +4658,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_98.png"
@@ -4245,6 +4669,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/dd_99.png"
@@ -4255,6 +4680,7 @@
     "Atk1Dmg": 231,
     "Atk2Dmg": 231,
     "Health": 1316,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "324",
     "Icon": "specimen/de_01.png"
@@ -4265,6 +4691,7 @@
     "Atk1Dmg": 491,
     "Atk2Dmg": 491,
     "Health": 1762,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "300",
     "Icon": "specimen/de_02.png"
@@ -4275,6 +4702,7 @@
     "Atk1Dmg": 182,
     "Atk2Dmg": 182,
     "Health": 1204,
+    "Speed": 10,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/de_03.png"
@@ -4285,6 +4713,7 @@
     "Atk1Dmg": 822,
     "Atk2Dmg": 822,
     "Health": 1613,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_04.png"
@@ -4295,6 +4724,7 @@
     "Atk1Dmg": 696,
     "Atk2Dmg": 696,
     "Health": 2230,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_05.png"
@@ -4305,6 +4735,7 @@
     "Atk1Dmg": 718,
     "Atk2Dmg": 718,
     "Health": 3315,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/de_06.png"
@@ -4315,6 +4746,7 @@
     "Atk1Dmg": 456,
     "Atk2Dmg": 456,
     "Health": 1926,
+    "Speed": 5.41,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_07.png"
@@ -4325,6 +4757,7 @@
     "Atk1Dmg": 199,
     "Atk2Dmg": 199,
     "Health": 1023,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_08.png"
@@ -4335,6 +4768,7 @@
     "Atk1Dmg": 219,
     "Atk2Dmg": 219,
     "Health": 1467,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_09.png"
@@ -4345,6 +4779,7 @@
     "Atk1Dmg": 611,
     "Atk2Dmg": 611,
     "Health": 1591,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_10.png"
@@ -4355,6 +4790,7 @@
     "Atk1Dmg": 584,
     "Atk2Dmg": 584,
     "Health": 2124,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_11.png"
@@ -4365,6 +4801,7 @@
     "Atk1Dmg": 955,
     "Atk2Dmg": 549,
     "Health": 2357,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_12.png"
@@ -4375,6 +4812,7 @@
     "Atk1Dmg": 685,
     "Atk2Dmg": 685,
     "Health": 2461,
+    "Speed": 8,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/de_13.png"
@@ -4385,6 +4823,7 @@
     "Atk1Dmg": 1277,
     "Atk2Dmg": 1277,
     "Health": 4666,
+    "Speed": 3.77,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/de_14.png"
@@ -4395,6 +4834,7 @@
     "Atk1Dmg": 1843,
     "Atk2Dmg": 1843,
     "Health": 5011,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_15.png"
@@ -4405,6 +4845,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_98.png"
@@ -4415,6 +4856,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/de_99.png"
@@ -4425,6 +4867,7 @@
     "Atk1Dmg": 639,
     "Atk2Dmg": 639,
     "Health": 1882,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "864",
     "Icon": "specimen/df_01.png"
@@ -4435,6 +4878,7 @@
     "Atk1Dmg": 295,
     "Atk2Dmg": 295,
     "Health": 1457,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/df_02.png"
@@ -4445,6 +4889,7 @@
     "Atk1Dmg": 481,
     "Atk2Dmg": 481,
     "Health": 1772,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_03.png"
@@ -4455,6 +4900,7 @@
     "Atk1Dmg": 595,
     "Atk2Dmg": 595,
     "Health": 2287,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_04.png"
@@ -4465,6 +4911,7 @@
     "Atk1Dmg": 584,
     "Atk2Dmg": 584,
     "Health": 1050,
+    "Speed": 8,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_05.png"
@@ -4475,6 +4922,7 @@
     "Atk1Dmg": 848,
     "Atk2Dmg": 848,
     "Health": 3187,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_06.png"
@@ -4485,6 +4933,7 @@
     "Atk1Dmg": 887,
     "Atk2Dmg": 887,
     "Health": 1832,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_07.png"
@@ -4495,6 +4944,7 @@
     "Atk1Dmg": 987,
     "Atk2Dmg": 987,
     "Health": 1982,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_08.png"
@@ -4505,6 +4955,7 @@
     "Atk1Dmg": 437,
     "Atk2Dmg": 437,
     "Health": 1746,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_09.png"
@@ -4515,6 +4966,7 @@
     "Atk1Dmg": 353,
     "Atk2Dmg": 353,
     "Health": 1847,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_10.png"
@@ -4525,6 +4977,7 @@
     "Atk1Dmg": 1309,
     "Atk2Dmg": 1309,
     "Health": 3487,
+    "Speed": 4,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/df_11.png"
@@ -4535,6 +4988,7 @@
     "Atk1Dmg": 921,
     "Atk2Dmg": 921,
     "Health": 3333,
+    "Speed": 3.23,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/df_12.png"
@@ -4545,6 +4999,7 @@
     "Atk1Dmg": 770,
     "Atk2Dmg": 770,
     "Health": 1974,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_13.png"
@@ -4555,6 +5010,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/df_14.png"
@@ -4565,6 +5021,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_15.png"
@@ -4575,6 +5032,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/df_98.png"
@@ -4585,6 +5043,7 @@
     "Atk1Dmg": 370,
     "Atk2Dmg": 370,
     "Health": 2542,
+    "Speed": 10,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/df_99.png"
@@ -4595,6 +5054,7 @@
     "Atk1Dmg": 426,
     "Atk2Dmg": 426,
     "Health": 1613,
+    "Speed": 5,
     "Type": "gold",
     "Price": "108",
     "Icon": "specimen/d_01.png"
@@ -4605,6 +5065,7 @@
     "Atk1Dmg": 1414,
     "Atk2Dmg": 708,
     "Health": 4218,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_03.png"
@@ -4615,6 +5076,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_04.png"
@@ -4625,6 +5087,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_05.png"
@@ -4635,6 +5098,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_06.png"
@@ -4645,6 +5109,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_07.png"
@@ -4655,6 +5120,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_08.png"
@@ -4665,6 +5131,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_09.png"
@@ -4675,6 +5142,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_10.png"
@@ -4685,6 +5153,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_11.png"
@@ -4695,6 +5164,7 @@
     "Atk1Dmg": 585,
     "Atk2Dmg": 924,
     "Health": 2158,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/d_12.png"
@@ -4705,6 +5175,7 @@
     "Atk1Dmg": 993,
     "Atk2Dmg": 633,
     "Health": 1988,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/d_13.png"
@@ -4715,6 +5186,7 @@
     "Atk1Dmg": 655,
     "Atk2Dmg": 524,
     "Health": 425,
+    "Speed": 11.11,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/d_14.png"
@@ -4725,6 +5197,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_15.png"
@@ -4735,6 +5208,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_98.png"
@@ -4745,6 +5219,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/d_99.png"
@@ -4755,6 +5230,7 @@
     "Atk1Dmg": 632,
     "Atk2Dmg": 632,
     "Health": 1802,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "756",
     "Icon": "specimen/ea_01.png"
@@ -4765,6 +5241,7 @@
     "Atk1Dmg": 342,
     "Atk2Dmg": 342,
     "Health": 1445,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_02.png"
@@ -4775,6 +5252,7 @@
     "Atk1Dmg": 381,
     "Atk2Dmg": 381,
     "Health": 1665,
+    "Speed": 8.7,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ea_03.png"
@@ -4785,6 +5263,7 @@
     "Atk1Dmg": 318,
     "Atk2Dmg": 318,
     "Health": 1397,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_04.png"
@@ -4795,6 +5274,7 @@
     "Atk1Dmg": 435,
     "Atk2Dmg": 435,
     "Health": 1695,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_05.png"
@@ -4805,6 +5285,7 @@
     "Atk1Dmg": 568,
     "Atk2Dmg": 568,
     "Health": 1803,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_06.png"
@@ -4815,6 +5296,7 @@
     "Atk1Dmg": 479,
     "Atk2Dmg": 479,
     "Health": 2726,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_07.png"
@@ -4825,6 +5307,7 @@
     "Atk1Dmg": 1228,
     "Atk2Dmg": 1228,
     "Health": 3665,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ea_08.png"
@@ -4835,6 +5318,7 @@
     "Atk1Dmg": 400,
     "Atk2Dmg": 400,
     "Health": 1836,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_09.png"
@@ -4845,6 +5329,7 @@
     "Atk1Dmg": 1638,
     "Atk2Dmg": 1638,
     "Health": 4455,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_10.png"
@@ -4855,6 +5340,7 @@
     "Atk1Dmg": 1511,
     "Atk2Dmg": 1511,
     "Health": 4488,
+    "Speed": 3.64,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ea_11.png"
@@ -4865,6 +5351,7 @@
     "Atk1Dmg": 727,
     "Atk2Dmg": 727,
     "Health": 1986,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_12.png"
@@ -4875,6 +5362,7 @@
     "Atk1Dmg": 761,
     "Atk2Dmg": 761,
     "Health": 1872,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_13.png"
@@ -4885,6 +5373,7 @@
     "Atk1Dmg": 828,
     "Atk2Dmg": 828,
     "Health": 3148,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ea_14.png"
@@ -4895,6 +5384,7 @@
     "Atk1Dmg": 1158,
     "Atk2Dmg": 1158,
     "Health": 2611,
+    "Speed": 3.77,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_15.png"
@@ -4905,6 +5395,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ea_98.png"
@@ -4915,6 +5406,7 @@
     "Atk1Dmg": 984,
     "Atk2Dmg": 984,
     "Health": 4755,
+    "Speed": 4.26,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ea_99.png"
@@ -4925,6 +5417,7 @@
     "Atk1Dmg": 499,
     "Atk2Dmg": 499,
     "Health": 1648,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "756",
     "Icon": "specimen/eb_01.png"
@@ -4935,6 +5428,7 @@
     "Atk1Dmg": 269,
     "Atk2Dmg": 269,
     "Health": 1295,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/eb_02.png"
@@ -4945,6 +5439,7 @@
     "Atk1Dmg": 637,
     "Atk2Dmg": 637,
     "Health": 2073,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/eb_03.png"
@@ -4955,6 +5450,7 @@
     "Atk1Dmg": 375,
     "Atk2Dmg": 375,
     "Health": 1648,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_04.png"
@@ -4965,6 +5461,7 @@
     "Atk1Dmg": 871,
     "Atk2Dmg": 871,
     "Health": 1860,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_05.png"
@@ -4975,6 +5472,7 @@
     "Atk1Dmg": 861,
     "Atk2Dmg": 861,
     "Health": 1963,
+    "Speed": 4.44,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_06.png"
@@ -4985,6 +5483,7 @@
     "Atk1Dmg": 388,
     "Atk2Dmg": 388,
     "Health": 1794,
+    "Speed": 5.71,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_07.png"
@@ -4995,6 +5494,7 @@
     "Atk1Dmg": 1518,
     "Atk2Dmg": 1518,
     "Health": 4234,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_08.png"
@@ -5005,6 +5505,7 @@
     "Atk1Dmg": 699,
     "Atk2Dmg": 699,
     "Health": 2302,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_09.png"
@@ -5015,6 +5516,7 @@
     "Atk1Dmg": 458,
     "Atk2Dmg": 458,
     "Health": 1939,
+    "Speed": 6.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_10.png"
@@ -5025,6 +5527,7 @@
     "Atk1Dmg": 528,
     "Atk2Dmg": 528,
     "Health": 1985,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_11.png"
@@ -5035,6 +5538,7 @@
     "Atk1Dmg": 447,
     "Atk2Dmg": 447,
     "Health": 1891,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_12.png"
@@ -5045,6 +5549,7 @@
     "Atk1Dmg": 910,
     "Atk2Dmg": 910,
     "Health": 3779,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/eb_13.png"
@@ -5055,6 +5560,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/eb_14.png"
@@ -5065,6 +5571,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_15.png"
@@ -5075,6 +5582,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_98.png"
@@ -5085,6 +5593,7 @@
     "Atk1Dmg": 1594,
     "Atk2Dmg": 1594,
     "Health": 3874,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/eb_99.png"
@@ -5095,6 +5604,7 @@
     "Atk1Dmg": 366,
     "Atk2Dmg": 366,
     "Health": 1403,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "252",
     "Icon": "specimen/ec_01.png"
@@ -5105,6 +5615,7 @@
     "Atk1Dmg": 622,
     "Atk2Dmg": 622,
     "Health": 1753,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ec_02.png"
@@ -5115,6 +5626,7 @@
     "Atk1Dmg": 233,
     "Atk2Dmg": 233,
     "Health": 1184,
+    "Speed": 11.11,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_03.png"
@@ -5125,6 +5637,7 @@
     "Atk1Dmg": 639,
     "Atk2Dmg": 639,
     "Health": 2595,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ec_04.png"
@@ -5135,6 +5648,7 @@
     "Atk1Dmg": 691,
     "Atk2Dmg": 691,
     "Health": 1802,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_05.png"
@@ -5145,6 +5659,7 @@
     "Atk1Dmg": 471,
     "Atk2Dmg": 471,
     "Health": 940,
+    "Speed": 11.11,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/ec_06.png"
@@ -5155,6 +5670,7 @@
     "Atk1Dmg": 751,
     "Atk2Dmg": 751,
     "Health": 1622,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_07.png"
@@ -5165,6 +5681,7 @@
     "Atk1Dmg": 533,
     "Atk2Dmg": 533,
     "Health": 687,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_08.png"
@@ -5175,6 +5692,7 @@
     "Atk1Dmg": 519,
     "Atk2Dmg": 519,
     "Health": 2011,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_09.png"
@@ -5185,6 +5703,7 @@
     "Atk1Dmg": 660,
     "Atk2Dmg": 660,
     "Health": 1385,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_10.png"
@@ -5195,6 +5714,7 @@
     "Atk1Dmg": 1194,
     "Atk2Dmg": 1194,
     "Health": 2731,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ec_11.png"
@@ -5205,6 +5725,7 @@
     "Atk1Dmg": 959,
     "Atk2Dmg": 959,
     "Health": 2134,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_12.png"
@@ -5215,6 +5736,7 @@
     "Atk1Dmg": 1078,
     "Atk2Dmg": 1078,
     "Health": 2425,
+    "Speed": 3.39,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_13.png"
@@ -5225,6 +5747,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ec_14.png"
@@ -5235,6 +5758,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_15.png"
@@ -5245,6 +5769,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_98.png"
@@ -5255,6 +5780,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ec_99.png"
@@ -5265,6 +5791,7 @@
     "Atk1Dmg": 232,
     "Atk2Dmg": 232,
     "Health": 1151,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "864",
     "Icon": "specimen/ed_01.png"
@@ -5275,6 +5802,7 @@
     "Atk1Dmg": 465,
     "Atk2Dmg": 465,
     "Health": 1570,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ed_02.png"
@@ -5285,6 +5813,7 @@
     "Atk1Dmg": 557,
     "Atk2Dmg": 557,
     "Health": 1714,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_03.png"
@@ -5295,6 +5824,7 @@
     "Atk1Dmg": 335,
     "Atk2Dmg": 335,
     "Health": 1669,
+    "Speed": 12.5,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/ed_04.png"
@@ -5305,6 +5835,7 @@
     "Atk1Dmg": 813,
     "Atk2Dmg": 813,
     "Health": 1813,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_05.png"
@@ -5315,6 +5846,7 @@
     "Atk1Dmg": 311,
     "Atk2Dmg": 311,
     "Health": 1227,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_06.png"
@@ -5325,6 +5857,7 @@
     "Atk1Dmg": 220,
     "Atk2Dmg": 220,
     "Health": 1634,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_07.png"
@@ -5335,6 +5868,7 @@
     "Atk1Dmg": 425,
     "Atk2Dmg": 425,
     "Health": 1526,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_08.png"
@@ -5345,6 +5879,7 @@
     "Atk1Dmg": 264,
     "Atk2Dmg": 264,
     "Health": 1397,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_09.png"
@@ -5355,6 +5890,7 @@
     "Atk1Dmg": 566,
     "Atk2Dmg": 566,
     "Health": 1977,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_10.png"
@@ -5365,6 +5901,7 @@
     "Atk1Dmg": 830,
     "Atk2Dmg": 830,
     "Health": 1999,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_11.png"
@@ -5375,6 +5912,7 @@
     "Atk1Dmg": 947,
     "Atk2Dmg": 947,
     "Health": 2105,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_12.png"
@@ -5385,6 +5923,7 @@
     "Atk1Dmg": 1023,
     "Atk2Dmg": 1023,
     "Health": 1675,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_13.png"
@@ -5395,6 +5934,7 @@
     "Atk1Dmg": 1477,
     "Atk2Dmg": 966,
     "Health": 2855,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ed_14.png"
@@ -5405,6 +5945,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_15.png"
@@ -5415,6 +5956,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_98.png"
@@ -5425,6 +5967,7 @@
     "Atk1Dmg": 1034,
     "Atk2Dmg": 525,
     "Health": 4497,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ed_99.png"
@@ -5435,6 +5978,7 @@
     "Atk1Dmg": 671,
     "Atk2Dmg": 385,
     "Health": 2025,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "432",
     "Icon": "specimen/ee_01.png"
@@ -5445,6 +5989,7 @@
     "Atk1Dmg": 488,
     "Atk2Dmg": 280,
     "Health": 1830,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ee_02.png"
@@ -5455,6 +6000,7 @@
     "Atk1Dmg": 339,
     "Atk2Dmg": 195,
     "Health": 1568,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_03.png"
@@ -5465,6 +6011,7 @@
     "Atk1Dmg": 581,
     "Atk2Dmg": 335,
     "Health": 1963,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_04.png"
@@ -5475,6 +6022,7 @@
     "Atk1Dmg": 281,
     "Atk2Dmg": 161,
     "Health": 1444,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_05.png"
@@ -5485,6 +6033,7 @@
     "Atk1Dmg": 510,
     "Atk2Dmg": 294,
     "Health": 2033,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_06.png"
@@ -5495,6 +6044,7 @@
     "Atk1Dmg": 361,
     "Atk2Dmg": 208,
     "Health": 1756,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_07.png"
@@ -5505,6 +6055,7 @@
     "Atk1Dmg": 800,
     "Atk2Dmg": 459,
     "Health": 2415,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_08.png"
@@ -5515,6 +6066,7 @@
     "Atk1Dmg": 900,
     "Atk2Dmg": 451,
     "Health": 2539,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_09.png"
@@ -5525,6 +6077,7 @@
     "Atk1Dmg": 469,
     "Atk2Dmg": 270,
     "Health": 2125,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_10.png"
@@ -5535,6 +6088,7 @@
     "Atk1Dmg": 721,
     "Atk2Dmg": 721,
     "Health": 2419,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_11.png"
@@ -5545,6 +6099,7 @@
     "Atk1Dmg": 831,
     "Atk2Dmg": 604,
     "Health": 3935,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ee_12.png"
@@ -5555,6 +6110,7 @@
     "Atk1Dmg": 1184,
     "Atk2Dmg": 821,
     "Health": 2566,
+    "Speed": 3.92,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ee_13.png"
@@ -5565,6 +6121,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ee_14.png"
@@ -5575,6 +6132,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_15.png"
@@ -5585,6 +6143,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_98.png"
@@ -5595,6 +6154,7 @@
     "Atk1Dmg": 1109,
     "Atk2Dmg": 554,
     "Health": 4578,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ee_99.png"
@@ -5605,6 +6165,7 @@
     "Atk1Dmg": 322,
     "Atk2Dmg": 322,
     "Health": 1318,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_01.png"
@@ -5615,6 +6176,7 @@
     "Atk1Dmg": 438,
     "Atk2Dmg": 438,
     "Health": 2986,
+    "Speed": 5,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ef_02.png"
@@ -5625,6 +6187,7 @@
     "Atk1Dmg": 858,
     "Atk2Dmg": 858,
     "Health": 3089,
+    "Speed": 3.64,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/ef_03.png"
@@ -5635,6 +6198,7 @@
     "Atk1Dmg": 268,
     "Atk2Dmg": 268,
     "Health": 1329,
+    "Speed": 7.41,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_04.png"
@@ -5645,6 +6209,7 @@
     "Atk1Dmg": 1387,
     "Atk2Dmg": 1387,
     "Health": 1405,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_05.png"
@@ -5655,6 +6220,7 @@
     "Atk1Dmg": 489,
     "Atk2Dmg": 489,
     "Health": 1417,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_06.png"
@@ -5665,6 +6231,7 @@
     "Atk1Dmg": 497,
     "Atk2Dmg": 497,
     "Health": 1887,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_07.png"
@@ -5675,6 +6242,7 @@
     "Atk1Dmg": 381,
     "Atk2Dmg": 381,
     "Health": 2183,
+    "Speed": 10,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_08.png"
@@ -5685,6 +6253,7 @@
     "Atk1Dmg": 590,
     "Atk2Dmg": 590,
     "Health": 1864,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_09.png"
@@ -5695,6 +6264,7 @@
     "Atk1Dmg": 336,
     "Atk2Dmg": 336,
     "Health": 1555,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_10.png"
@@ -5705,6 +6275,7 @@
     "Atk1Dmg": 353,
     "Atk2Dmg": 353,
     "Health": 1427,
+    "Speed": 8.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_11.png"
@@ -5715,6 +6286,7 @@
     "Atk1Dmg": 873,
     "Atk2Dmg": 873,
     "Health": 2242,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_12.png"
@@ -5725,6 +6297,7 @@
     "Atk1Dmg": 411,
     "Atk2Dmg": 822,
     "Health": 1873,
+    "Speed": 6.06,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_13.png"
@@ -5735,6 +6308,7 @@
     "Atk1Dmg": 755,
     "Atk2Dmg": 411,
     "Health": 2114,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_14.png"
@@ -5745,6 +6319,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_15.png"
@@ -5755,6 +6330,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_98.png"
@@ -5765,6 +6341,7 @@
     "Atk1Dmg": 752,
     "Atk2Dmg": 1370,
     "Health": 4101,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ef_99.png"
@@ -5775,6 +6352,7 @@
     "Atk1Dmg": 165,
     "Atk2Dmg": 165,
     "Health": 1049,
+    "Speed": 11.11,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/e_01.png"
@@ -5785,6 +6363,7 @@
     "Atk1Dmg": 155,
     "Atk2Dmg": 90,
     "Health": 1455,
+    "Speed": 12.66,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/e_03.png"
@@ -5795,6 +6374,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_04.png"
@@ -5805,6 +6385,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_05.png"
@@ -5815,6 +6396,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_06.png"
@@ -5825,6 +6407,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_07.png"
@@ -5835,6 +6418,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_08.png"
@@ -5845,6 +6429,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_09.png"
@@ -5855,6 +6440,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_10.png"
@@ -5865,6 +6451,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_11.png"
@@ -5875,6 +6462,7 @@
     "Atk1Dmg": 527,
     "Atk2Dmg": 542,
     "Health": 1753,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/e_12.png"
@@ -5885,6 +6473,7 @@
     "Atk1Dmg": 833,
     "Atk2Dmg": 541,
     "Health": 1585,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/e_13.png"
@@ -5895,6 +6484,7 @@
     "Atk1Dmg": 944,
     "Atk2Dmg": 654,
     "Health": 2055,
+    "Speed": 4.08,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/e_14.png"
@@ -5905,6 +6495,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_15.png"
@@ -5915,6 +6506,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_98.png"
@@ -5925,6 +6517,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/e_99.png"
@@ -5935,6 +6528,7 @@
     "Atk1Dmg": 512,
     "Atk2Dmg": 512,
     "Health": 1590,
+    "Speed": 4,
     "Type": "gold",
     "Price": "360",
     "Icon": "specimen/fa_01.png"
@@ -5945,6 +6539,7 @@
     "Atk1Dmg": 320,
     "Atk2Dmg": 320,
     "Health": 1407,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/fa_02.png"
@@ -5955,6 +6550,7 @@
     "Atk1Dmg": 414,
     "Atk2Dmg": 414,
     "Health": 1502,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_03.png"
@@ -5965,6 +6561,7 @@
     "Atk1Dmg": 728,
     "Atk2Dmg": 728,
     "Health": 2635,
+    "Speed": 5,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fa_04.png"
@@ -5975,6 +6572,7 @@
     "Atk1Dmg": 538,
     "Atk2Dmg": 538,
     "Health": 1464,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_05.png"
@@ -5985,6 +6583,7 @@
     "Atk1Dmg": 536,
     "Atk2Dmg": 536,
     "Health": 2247,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fa_06.png"
@@ -5995,6 +6594,7 @@
     "Atk1Dmg": 515,
     "Atk2Dmg": 515,
     "Health": 2117,
+    "Speed": 4.44,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_07.png"
@@ -6005,6 +6605,7 @@
     "Atk1Dmg": 311,
     "Atk2Dmg": 311,
     "Health": 1453,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_08.png"
@@ -6015,6 +6616,7 @@
     "Atk1Dmg": 484,
     "Atk2Dmg": 484,
     "Health": 1785,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_09.png"
@@ -6025,6 +6627,7 @@
     "Atk1Dmg": 398,
     "Atk2Dmg": 398,
     "Health": 983,
+    "Speed": 11.11,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_10.png"
@@ -6035,6 +6638,7 @@
     "Atk1Dmg": 666,
     "Atk2Dmg": 666,
     "Health": 422,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_11.png"
@@ -6045,6 +6649,7 @@
     "Atk1Dmg": 668,
     "Atk2Dmg": 668,
     "Health": 2077,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_12.png"
@@ -6055,6 +6660,7 @@
     "Atk1Dmg": 829,
     "Atk2Dmg": 560,
     "Health": 2853,
+    "Speed": 5.71,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fa_13.png"
@@ -6065,6 +6671,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/fa_14.png"
@@ -6075,6 +6682,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_15.png"
@@ -6085,6 +6693,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_98.png"
@@ -6095,6 +6704,7 @@
     "Atk1Dmg": 1241,
     "Atk2Dmg": 1241,
     "Health": 4076,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fa_99.png"
@@ -6105,6 +6715,7 @@
     "Atk1Dmg": 660,
     "Atk2Dmg": 660,
     "Health": 1829,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "864",
     "Icon": "specimen/fb_01.png"
@@ -6115,6 +6726,7 @@
     "Atk1Dmg": 524,
     "Atk2Dmg": 524,
     "Health": 2568,
+    "Speed": 5.71,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fb_02.png"
@@ -6125,6 +6737,7 @@
     "Atk1Dmg": 529,
     "Atk2Dmg": 529,
     "Health": 1725,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_03.png"
@@ -6135,6 +6748,7 @@
     "Atk1Dmg": 756,
     "Atk2Dmg": 756,
     "Health": 1763,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_04.png"
@@ -6145,6 +6759,7 @@
     "Atk1Dmg": 446,
     "Atk2Dmg": 446,
     "Health": 1844,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_05.png"
@@ -6155,6 +6770,7 @@
     "Atk1Dmg": 248,
     "Atk2Dmg": 248,
     "Health": 1145,
+    "Speed": 10,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_06.png"
@@ -6165,6 +6781,7 @@
     "Atk1Dmg": 311,
     "Atk2Dmg": 311,
     "Health": 1813,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_07.png"
@@ -6175,6 +6792,7 @@
     "Atk1Dmg": 403,
     "Atk2Dmg": 403,
     "Health": 1879,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_08.png"
@@ -6185,6 +6803,7 @@
     "Atk1Dmg": 689,
     "Atk2Dmg": 689,
     "Health": 2297,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_09.png"
@@ -6195,6 +6814,7 @@
     "Atk1Dmg": 746,
     "Atk2Dmg": 746,
     "Health": 2617,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_10.png"
@@ -6205,6 +6825,7 @@
     "Atk1Dmg": 168,
     "Atk2Dmg": 320,
     "Health": 1482,
+    "Speed": 11.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_11.png"
@@ -6215,6 +6836,7 @@
     "Atk1Dmg": 1030,
     "Atk2Dmg": 1030,
     "Health": 3580,
+    "Speed": 3.13,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_12.png"
@@ -6225,6 +6847,7 @@
     "Atk1Dmg": 741,
     "Atk2Dmg": 741,
     "Health": 2043,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_13.png"
@@ -6235,6 +6858,7 @@
     "Atk1Dmg": 1666,
     "Atk2Dmg": 1666,
     "Health": 6666,
+    "Speed": 4.08,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/fb_14.png"
@@ -6245,6 +6869,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_15.png"
@@ -6255,6 +6880,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_98.png"
@@ -6265,6 +6891,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fb_99.png"
@@ -6275,6 +6902,7 @@
     "Atk1Dmg": 204,
     "Atk2Dmg": 204,
     "Health": 1137,
+    "Speed": 9.09,
     "Type": "gold",
     "Price": "864",
     "Icon": "specimen/fc_01.png"
@@ -6285,6 +6913,7 @@
     "Atk1Dmg": 1074,
     "Atk2Dmg": 1074,
     "Health": 3290,
+    "Speed": 4,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fc_02.png"
@@ -6295,6 +6924,7 @@
     "Atk1Dmg": 1187,
     "Atk2Dmg": 1187,
     "Health": 3944,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fc_03.png"
@@ -6305,6 +6935,7 @@
     "Atk1Dmg": 698,
     "Atk2Dmg": 698,
     "Health": 2445,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fc_04.png"
@@ -6315,6 +6946,7 @@
     "Atk1Dmg": 641,
     "Atk2Dmg": 641,
     "Health": 2605,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/fc_05.png"
@@ -6325,6 +6957,7 @@
     "Atk1Dmg": 196,
     "Atk2Dmg": 196,
     "Health": 655,
+    "Speed": 12.5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fc_06.png"
@@ -6335,6 +6968,7 @@
     "Atk1Dmg": 299,
     "Atk2Dmg": 299,
     "Health": 1389,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fc_07.png"
@@ -6345,6 +6979,7 @@
     "Atk1Dmg": 507,
     "Atk2Dmg": 507,
     "Health": 1722,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fc_08.png"
@@ -6355,6 +6990,7 @@
     "Atk1Dmg": 1291,
     "Atk2Dmg": 1291,
     "Health": 1937,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fc_09.png"
@@ -6365,6 +7001,7 @@
     "Atk1Dmg": 898,
     "Atk2Dmg": 898,
     "Health": 2514,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fc_10.png"
@@ -6375,6 +7012,7 @@
     "Atk1Dmg": 700,
     "Atk2Dmg": 700,
     "Health": 2445,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fc_11.png"
@@ -6385,6 +7023,7 @@
     "Atk1Dmg": 1010,
     "Atk2Dmg": 1010,
     "Health": 5099,
+    "Speed": 4.26,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fc_12.png"
@@ -6395,6 +7034,7 @@
     "Atk1Dmg": 885,
     "Atk2Dmg": 885,
     "Health": 2084,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fc_13.png"
@@ -6405,6 +7045,7 @@
     "Atk1Dmg": 1127,
     "Atk2Dmg": 1127,
     "Health": 2488,
+    "Speed": 3.23,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/fc_14.png"
@@ -6415,6 +7056,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fc_15.png"
@@ -6425,6 +7067,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fc_98.png"
@@ -6435,6 +7078,7 @@
     "Atk1Dmg": 864,
     "Atk2Dmg": 864,
     "Health": 3000,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fc_99.png"
@@ -6445,6 +7089,7 @@
     "Atk1Dmg": 436,
     "Atk2Dmg": 436,
     "Health": 1507,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "432",
     "Icon": "specimen/fd_01.png"
@@ -6455,6 +7100,7 @@
     "Atk1Dmg": 234,
     "Atk2Dmg": 234,
     "Health": 1257,
+    "Speed": 8.7,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/fd_02.png"
@@ -6465,6 +7111,7 @@
     "Atk1Dmg": 879,
     "Atk2Dmg": 879,
     "Health": 1924,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "10000",
     "Icon": "specimen/fd_03.png"
@@ -6475,6 +7122,7 @@
     "Atk1Dmg": 383,
     "Atk2Dmg": 383,
     "Health": 1484,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_04.png"
@@ -6485,6 +7133,7 @@
     "Atk1Dmg": 295,
     "Atk2Dmg": 295,
     "Health": 1297,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_05.png"
@@ -6495,6 +7144,7 @@
     "Atk1Dmg": 512,
     "Atk2Dmg": 512,
     "Health": 2706,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_06.png"
@@ -6505,6 +7155,7 @@
     "Atk1Dmg": 5,
     "Atk2Dmg": 5,
     "Health": 2016,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_07.png"
@@ -6515,6 +7166,7 @@
     "Atk1Dmg": 741,
     "Atk2Dmg": 741,
     "Health": 1957,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_08.png"
@@ -6525,6 +7177,7 @@
     "Atk1Dmg": 579,
     "Atk2Dmg": 579,
     "Health": 1752,
+    "Speed": 4,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_09.png"
@@ -6535,6 +7188,7 @@
     "Atk1Dmg": 1342,
     "Atk2Dmg": 1342,
     "Health": 3683,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_10.png"
@@ -6545,6 +7199,7 @@
     "Atk1Dmg": 330,
     "Atk2Dmg": 330,
     "Health": 1744,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_11.png"
@@ -6555,6 +7210,7 @@
     "Atk1Dmg": 687,
     "Atk2Dmg": 515,
     "Health": 1399,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_12.png"
@@ -6565,6 +7221,7 @@
     "Atk1Dmg": 773,
     "Atk2Dmg": 1531,
     "Health": 2599,
+    "Speed": 4.44,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fd_13.png"
@@ -6575,6 +7232,7 @@
     "Atk1Dmg": 1241,
     "Atk2Dmg": 1241,
     "Health": 4088,
+    "Speed": 4.08,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/fd_14.png"
@@ -6585,6 +7243,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_15.png"
@@ -6595,6 +7254,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_98.png"
@@ -6605,6 +7265,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fd_99.png"
@@ -6615,6 +7276,7 @@
     "Atk1Dmg": 563,
     "Atk2Dmg": 563,
     "Health": 1645,
+    "Speed": 3.7,
     "Type": "gold",
     "Price": "864",
     "Icon": "specimen/fe_01.png"
@@ -6625,6 +7287,7 @@
     "Atk1Dmg": 342,
     "Atk2Dmg": 342,
     "Health": 1386,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/fe_02.png"
@@ -6635,6 +7298,7 @@
     "Atk1Dmg": 491,
     "Atk2Dmg": 491,
     "Health": 1602,
+    "Speed": 4.35,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_03.png"
@@ -6645,6 +7309,7 @@
     "Atk1Dmg": 271,
     "Atk2Dmg": 271,
     "Health": 1254,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "300",
     "Icon": "specimen/fe_04.png"
@@ -6655,6 +7320,7 @@
     "Atk1Dmg": 616,
     "Atk2Dmg": 616,
     "Health": 3354,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fe_05.png"
@@ -6665,6 +7331,7 @@
     "Atk1Dmg": 734,
     "Atk2Dmg": 734,
     "Health": 1685,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_06.png"
@@ -6675,6 +7342,7 @@
     "Atk1Dmg": 496,
     "Atk2Dmg": 496,
     "Health": 1802,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_07.png"
@@ -6685,6 +7353,7 @@
     "Atk1Dmg": 971,
     "Atk2Dmg": 971,
     "Health": 1982,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_08.png"
@@ -6695,6 +7364,7 @@
     "Atk1Dmg": 949,
     "Atk2Dmg": 949,
     "Health": 2345,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_09.png"
@@ -6705,6 +7375,7 @@
     "Atk1Dmg": 361,
     "Atk2Dmg": 361,
     "Health": 1707,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_10.png"
@@ -6715,6 +7386,7 @@
     "Atk1Dmg": 829,
     "Atk2Dmg": 415,
     "Health": 1997,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_11.png"
@@ -6725,6 +7397,7 @@
     "Atk1Dmg": 724,
     "Atk2Dmg": 1448,
     "Health": 3130,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fe_12.png"
@@ -6735,6 +7408,7 @@
     "Atk1Dmg": 643,
     "Atk2Dmg": 643,
     "Health": 2955,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/fe_13.png"
@@ -6745,6 +7419,7 @@
     "Atk1Dmg": 580,
     "Atk2Dmg": 948,
     "Health": 2074,
+    "Speed": 4.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_14.png"
@@ -6755,6 +7430,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_15.png"
@@ -6765,6 +7441,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 312,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_98.png"
@@ -6775,6 +7452,7 @@
     "Atk1Dmg": 718,
     "Atk2Dmg": 718,
     "Health": 2012,
+    "Speed": 3.85,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/fe_99.png"
@@ -6785,6 +7463,7 @@
     "Atk1Dmg": 949,
     "Atk2Dmg": 545,
     "Health": 2583,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "648",
     "Icon": "specimen/ff_01.png"
@@ -6795,6 +7474,7 @@
     "Atk1Dmg": 456,
     "Atk2Dmg": 263,
     "Health": 1781,
+    "Speed": 5.56,
     "Type": "gold",
     "Price": "216",
     "Icon": "specimen/ff_02.png"
@@ -6805,6 +7485,7 @@
     "Atk1Dmg": 313,
     "Atk2Dmg": 180,
     "Health": 1922,
+    "Speed": 7.69,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_03.png"
@@ -6815,6 +7496,7 @@
     "Atk1Dmg": 600,
     "Atk2Dmg": 346,
     "Health": 2126,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_04.png"
@@ -6825,6 +7507,7 @@
     "Atk1Dmg": 568,
     "Atk2Dmg": 399,
     "Health": 1831,
+    "Speed": 7.14,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_05.png"
@@ -6835,6 +7518,7 @@
     "Atk1Dmg": 416,
     "Atk2Dmg": 284,
     "Health": 1716,
+    "Speed": 5.99,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_06.png"
@@ -6845,6 +7529,7 @@
     "Atk1Dmg": 1493,
     "Atk2Dmg": 746,
     "Health": 4093,
+    "Speed": 3.45,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_07.png"
@@ -6855,6 +7540,7 @@
     "Atk1Dmg": 425,
     "Atk2Dmg": 245,
     "Health": 1640,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_08.png"
@@ -6865,6 +7551,7 @@
     "Atk1Dmg": 669,
     "Atk2Dmg": 384,
     "Health": 2279,
+    "Speed": 4.65,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_09.png"
@@ -6875,6 +7562,7 @@
     "Atk1Dmg": 1139,
     "Atk2Dmg": 575,
     "Health": 3250,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_10.png"
@@ -6885,6 +7573,7 @@
     "Atk1Dmg": 975,
     "Atk2Dmg": 488,
     "Health": 2901,
+    "Speed": 4.17,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_11.png"
@@ -6895,6 +7584,7 @@
     "Atk1Dmg": 861,
     "Atk2Dmg": 516,
     "Health": 3046,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_12.png"
@@ -6905,6 +7595,7 @@
     "Atk1Dmg": 814,
     "Atk2Dmg": 581,
     "Health": 1948,
+    "Speed": 4.55,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_13.png"
@@ -6915,6 +7606,7 @@
     "Atk1Dmg": 814,
     "Atk2Dmg": 1331,
     "Health": 1130,
+    "Speed": 3.57,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ff_14.png"
@@ -6925,6 +7617,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ff_15.png"
@@ -6935,6 +7628,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 156,
     "Health": 1130,
+    "Speed": 5,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/ff_98.png"
@@ -6945,6 +7639,7 @@
     "Atk1Dmg": 1441,
     "Atk2Dmg": 1032,
     "Health": 5330,
+    "Speed": 3.39,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/ff_99.png"
@@ -6955,6 +7650,7 @@
     "Atk1Dmg": 461,
     "Atk2Dmg": 461,
     "Health": 1627,
+    "Speed": 4.76,
     "Type": "gold",
     "Price": "324",
     "Icon": "specimen/f_01.png"
@@ -6965,6 +7661,7 @@
     "Atk1Dmg": 615,
     "Atk2Dmg": 354,
     "Health": 2591,
+    "Speed": 6.25,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_03.png"
@@ -6975,6 +7672,7 @@
     "Atk1Dmg": 584,
     "Atk2Dmg": 643,
     "Health": 3512,
+    "Speed": 5.26,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_04.png"
@@ -6985,6 +7683,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_05.png"
@@ -6995,6 +7694,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_06.png"
@@ -7005,6 +7705,7 @@
     "Atk1Dmg": 684,
     "Atk2Dmg": 342,
     "Health": 1824,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_07.png"
@@ -7015,6 +7716,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_08.png"
@@ -7025,6 +7727,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_09.png"
@@ -7035,6 +7738,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_10.png"
@@ -7045,6 +7749,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_11.png"
@@ -7055,6 +7760,7 @@
     "Atk1Dmg": 477,
     "Atk2Dmg": 488,
     "Health": 1590,
+    "Speed": 8.33,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/f_12.png"
@@ -7065,6 +7771,7 @@
     "Atk1Dmg": 533,
     "Atk2Dmg": 266,
     "Health": 1713,
+    "Speed": 6.67,
     "Type": "gold",
     "Price": "540",
     "Icon": "specimen/f_13.png"
@@ -7075,6 +7782,7 @@
     "Atk1Dmg": 784,
     "Atk2Dmg": 531,
     "Health": 1691,
+    "Speed": 5.88,
     "Type": "gold",
     "Price": "99999999",
     "Icon": "specimen/f_14.png"
@@ -7085,6 +7793,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_15.png"
@@ -7095,6 +7804,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_98.png"
@@ -7105,6 +7815,7 @@
     "Atk1Dmg": 312,
     "Atk2Dmg": 342,
     "Health": 1130,
+    "Speed": 3.33,
     "Type": "gold",
     "Price": "100000",
     "Icon": "specimen/f_99.png"

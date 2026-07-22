@@ -1,0 +1,4514 @@
+[
+  {
+    "ID": "orb_basic_attack",
+    "Name": "Attack +2%",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 2,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_basic_attack.png",
+    "Tags": {
+      "pct": "2",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_01",
+    "Name": "Attack +5%",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 5,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_basic_attack_01.png",
+    "Tags": {
+      "pct": "5",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_01_ephemeral_10",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 5,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_attack_01_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "5",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_02",
+    "Name": "Attack +10%",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 10,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_basic_attack_02.png",
+    "Tags": {
+      "pct": "10",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_02_ephemeral_10",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 10,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_attack_02_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "10",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_02_ephemeral_30",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 10,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_attack_02_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "10",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_03",
+    "Name": "Attack +12%",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 12,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_basic_attack_03.png",
+    "Tags": {
+      "pct": "12",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_03_ephemeral_10",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 12,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_attack_03_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "12",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_03_ephemeral_20",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 12,
+    "Count": 20,
+    "Level": 20,
+    "Icon": "ui/orbs/orb_basic_attack_03_ephemeral_20.png",
+    "Tags": {
+      "count": "20",
+      "pct": "12",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_03_ephemeral_30",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 12,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_attack_03_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "12",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_04",
+    "Name": "Attack +14%",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 14,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_basic_attack_04.png",
+    "Tags": {
+      "pct": "14",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_04_ephemeral_10",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 14,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_attack_04_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "14",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_05",
+    "Name": "Attack +16%",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 16,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_basic_attack_05.png",
+    "Tags": {
+      "pct": "16",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_05_ephemeral_10",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 16,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_attack_05_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "16",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_05_ephemeral_30",
+    "Name": "Attack +16% charge 30",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 16,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_attack_05_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "16",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_06",
+    "Name": "Attack +17%",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 17,
+    "Count": null,
+    "Level": 6,
+    "Icon": "ui/orbs/orb_basic_attack_06.png",
+    "Tags": {
+      "pct": "17",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_06_ephemeral_10",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 17,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_attack_06_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "17",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_06_ephemeral_30",
+    "Name": "Attack +17% charge 30",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 17,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_attack_06_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "17",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_07",
+    "Name": "Attack +18%",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 18,
+    "Count": null,
+    "Level": 7,
+    "Icon": "ui/orbs/orb_basic_attack_07.png",
+    "Tags": {
+      "pct": "18",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_07_ephemeral_10",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 18,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_attack_07_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "18",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_08",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 19,
+    "Count": null,
+    "Level": 8,
+    "Icon": "ui/orbs/orb_basic_attack_08.png",
+    "Tags": {
+      "pct": "19",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_08_ephemeral_10",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 19,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_attack_08_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "19",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_09",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 20,
+    "Count": null,
+    "Level": 9,
+    "Icon": "ui/orbs/orb_basic_attack_09.png",
+    "Tags": {
+      "pct": "20",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_09_ephemeral_10",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 20,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_attack_09_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "20",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_attack_ephemeral_10",
+    "Name": "",
+    "Type": "attack_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 2,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_attack_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "2",
+      "type": "attack_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical",
+    "Name": "Critical +2%",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 2,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_basic_critical.png",
+    "Tags": {
+      "pct": "2",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_01",
+    "Name": "Critical +5%",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 5,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_basic_critical_01.png",
+    "Tags": {
+      "pct": "5",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_01_ephemeral_10",
+    "Name": "",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 5,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_critical_01_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "5",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_02",
+    "Name": "Critical +11%",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 11,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_basic_critical_02.png",
+    "Tags": {
+      "pct": "11",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_02_ephemeral_10",
+    "Name": "",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 11,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_critical_02_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "11",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_03",
+    "Name": "Critical +13%",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 13,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_basic_critical_03.png",
+    "Tags": {
+      "pct": "13",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_03_ephemeral_10",
+    "Name": "",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 13,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_critical_03_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "13",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_03_ephemeral_20",
+    "Name": "",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 13,
+    "Count": 20,
+    "Level": 20,
+    "Icon": "ui/orbs/orb_basic_critical_03_ephemeral_20.png",
+    "Tags": {
+      "count": "20",
+      "pct": "13",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_03_ephemeral_30",
+    "Name": "",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 13,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_critical_03_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "13",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_04",
+    "Name": "Critical +15%",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 15,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_basic_critical_04.png",
+    "Tags": {
+      "pct": "15",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_04_ephemeral_10",
+    "Name": "",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 15,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_critical_04_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "15",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_05",
+    "Name": "Critical +17% charge 30",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 17,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_basic_critical_05.png",
+    "Tags": {
+      "pct": "17",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_05_ephemeral_10",
+    "Name": "",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 17,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_critical_05_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "17",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_05_ephemeral_30",
+    "Name": "",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 17,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_critical_05_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "17",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_06",
+    "Name": "Critical +18%",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 18,
+    "Count": null,
+    "Level": 6,
+    "Icon": "ui/orbs/orb_basic_critical_06.png",
+    "Tags": {
+      "pct": "18",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_06_ephemeral_10",
+    "Name": "",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 18,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_critical_06_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "18",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_07",
+    "Name": "Critical +19%",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 19,
+    "Count": null,
+    "Level": 7,
+    "Icon": "ui/orbs/orb_basic_critical_07.png",
+    "Tags": {
+      "pct": "19",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_critical_ephemeral_10",
+    "Name": "",
+    "Type": "critical_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 2,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_critical_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "2",
+      "type": "critical_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life",
+    "Name": "Life +5%",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 5,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_basic_life.png",
+    "Tags": {
+      "pct": "5",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_01",
+    "Name": "Life +10%",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 10,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_basic_life_01.png",
+    "Tags": {
+      "pct": "10",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_01_ephemeral_10",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 10,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_life_01_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "10",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_02",
+    "Name": "Life +15%",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 15,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_basic_life_02.png",
+    "Tags": {
+      "pct": "15",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_02_ephemeral_10",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 15,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_life_02_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "15",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_02_ephemeral_30",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 15,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_life_02_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "15",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_03",
+    "Name": "Life +20%",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 20,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_basic_life_03.png",
+    "Tags": {
+      "pct": "20",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_03_ephemeral_10",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 20,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_life_03_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "20",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_03_ephemeral_20",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 20,
+    "Count": 20,
+    "Level": 20,
+    "Icon": "ui/orbs/orb_basic_life_03_ephemeral_20.png",
+    "Tags": {
+      "count": "20",
+      "pct": "20",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_03_ephemeral_30",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 20,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_life_03_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "20",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_04",
+    "Name": "Life +25%",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 25,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_basic_life_04.png",
+    "Tags": {
+      "pct": "25",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_04_ephemeral_10",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 25,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_life_04_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "25",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_05",
+    "Name": "Life +28%",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 28,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_basic_life_05.png",
+    "Tags": {
+      "pct": "28",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_05_ephemeral_10",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 28,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_life_05_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "28",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_05_ephemeral_30",
+    "Name": "Life +28% charge 30",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 28,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_life_05_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "28",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_06",
+    "Name": "Life +30%",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 30,
+    "Count": null,
+    "Level": 6,
+    "Icon": "ui/orbs/orb_basic_life_06.png",
+    "Tags": {
+      "pct": "30",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_06_ephemeral_10",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 30,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_life_06_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "30",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_06_ephemeral_30",
+    "Name": "Life +30% charge 30",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 30,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_life_06_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "30",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_07",
+    "Name": "Life +35%",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 35,
+    "Count": null,
+    "Level": 7,
+    "Icon": "ui/orbs/orb_basic_life_07.png",
+    "Tags": {
+      "pct": "35",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_07_ephemeral_10",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 75,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_life_07_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "75",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_08",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 40,
+    "Count": null,
+    "Level": 8,
+    "Icon": "ui/orbs/orb_basic_life_08.png",
+    "Tags": {
+      "pct": "40",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_08_ephemeral_10",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 113,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_life_08_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "113",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_09",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 45,
+    "Count": null,
+    "Level": 9,
+    "Icon": "ui/orbs/orb_basic_life_09.png",
+    "Tags": {
+      "pct": "45",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_09_ephemeral_10",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 150,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_life_09_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "150",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_life_ephemeral_10",
+    "Name": "",
+    "Type": "life_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 5,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_life_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "5",
+      "type": "life_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate",
+    "Name": "Drain life +3%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 3,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_basic_regenerate.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_01",
+    "Name": "Drain life +7%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 7,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_basic_regenerate_01.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 7,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_regenerate_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_02",
+    "Name": "Drain life +15%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 15,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_basic_regenerate_02.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 15,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_regenerate_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_03",
+    "Name": "Drain life +20%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 20,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_basic_regenerate_03.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "20",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 20,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_regenerate_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "20",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_04",
+    "Name": "Drain life +25%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 25,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_basic_regenerate_04.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "25",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 25,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_regenerate_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "25",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_05",
+    "Name": "Drain life +28%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 28,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_basic_regenerate_05.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "28",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 28,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_regenerate_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "28",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_06",
+    "Name": "Drain life +30%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 30,
+    "Count": null,
+    "Level": 6,
+    "Icon": "ui/orbs/orb_basic_regenerate_06.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "30",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_06_ephemeral_10",
+    "Name": "Drain life +30% charge 10",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 30,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_regenerate_06_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "30",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_07",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 65,
+    "Count": null,
+    "Level": 7,
+    "Icon": "ui/orbs/orb_basic_regenerate_07.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_07_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 65,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_regenerate_07_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_regenerate_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_regen",
+    "Pct": 3,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_regenerate_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate",
+    "Name": "Retaliate +3%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 3,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_basic_retaliate.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_01",
+    "Name": "Retaliate +7%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 7,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_basic_retaliate_01.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 7,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_retaliate_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_02",
+    "Name": "Retaliate +15%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 15,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_basic_retaliate_02.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 15,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_retaliate_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_03",
+    "Name": "Retaliate +17%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 17,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_basic_retaliate_03.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "17",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 17,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_retaliate_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "17",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_04",
+    "Name": "Retaliate +18%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 18,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_basic_retaliate_04.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "18",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 18,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_retaliate_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "18",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_05",
+    "Name": "Retaliate +19%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 19,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_basic_retaliate_05.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 19,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_retaliate_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_06",
+    "Name": "Retaliate +20%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 20,
+    "Count": null,
+    "Level": 6,
+    "Icon": "ui/orbs/orb_basic_retaliate_06.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "20",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_06_ephemeral_10",
+    "Name": "Retaliate +20% charge 10",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 20,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_retaliate_06_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "20",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_07",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 65,
+    "Count": null,
+    "Level": 7,
+    "Icon": "ui/orbs/orb_basic_retaliate_07.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_07_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 65,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_retaliate_07_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_retaliate_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_retaliate",
+    "Pct": 3,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_retaliate_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield",
+    "Name": "Shield +3%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 3,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_basic_shield.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_01",
+    "Name": "Shield +7%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 7,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_basic_shield_01.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 7,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_shield_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_02",
+    "Name": "Shield +15%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 15,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_basic_shield_02.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 15,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_shield_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_03",
+    "Name": "Shield +19%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 19,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_basic_shield_03.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 19,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_shield_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_04",
+    "Name": "Shield +22%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 22,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_basic_shield_04.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "22",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 22,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_shield_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "22",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_05",
+    "Name": "Shield +24%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 24,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_basic_shield_05.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "24",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 24,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_shield_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "24",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_06",
+    "Name": "Shield +25%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 25,
+    "Count": null,
+    "Level": 6,
+    "Icon": "ui/orbs/orb_basic_shield_06.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "25",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_06_ephemeral_10",
+    "Name": "Shield +25% charge 10",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 25,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_shield_06_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "25",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_07",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 65,
+    "Count": null,
+    "Level": 7,
+    "Icon": "ui/orbs/orb_basic_shield_07.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_07_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 65,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_shield_07_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_shield_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_shield",
+    "Pct": 3,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_shield_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash",
+    "Name": "Wound +3%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 3,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_basic_slash.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_01",
+    "Name": "Wound +7%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 7,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_basic_slash_01.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 7,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_slash_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_02",
+    "Name": "Wound +15%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 15,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_basic_slash_02.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 15,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_slash_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_03",
+    "Name": "Wound +19%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 19,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_basic_slash_03.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 19,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_slash_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_03_ephemeral_30",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 19,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_slash_03_ephemeral_30.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "30",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_04",
+    "Name": "Wound +22%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 22,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_basic_slash_04.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "22",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 22,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_slash_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "22",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_05",
+    "Name": "Wound +24%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 24,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_basic_slash_05.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "24",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 24,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_slash_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "24",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_06",
+    "Name": "Wound +25%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 25,
+    "Count": null,
+    "Level": 6,
+    "Icon": "ui/orbs/orb_basic_slash_06.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "25",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_06_ephemeral_10",
+    "Name": "Wound +25% charge 10",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 25,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_slash_06_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "25",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_07",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 65,
+    "Count": null,
+    "Level": 7,
+    "Icon": "ui/orbs/orb_basic_slash_07.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_07_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 65,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_slash_07_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_slash_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_slash",
+    "Pct": 3,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_slash_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen",
+    "Name": "Boost +3%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 3,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_basic_strengthen.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_01",
+    "Name": "Boost +7%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 7,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_basic_strengthen_01.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 7,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_strengthen_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_01_ephemeral_30",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 7,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_basic_strengthen_01_ephemeral_30.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "30",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_02",
+    "Name": "Boost +15%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 15,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_basic_strengthen_02.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 15,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_strengthen_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_03",
+    "Name": "Boost +19%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 19,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_basic_strengthen_03.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 19,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_strengthen_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_04",
+    "Name": "Boost +22%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 22,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_basic_strengthen_04.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "22",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 22,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_strengthen_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "22",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_05",
+    "Name": "Boost +24%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 24,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_basic_strengthen_05.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "24",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 24,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_strengthen_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "24",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_06",
+    "Name": "Boost +25%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 25,
+    "Count": null,
+    "Level": 6,
+    "Icon": "ui/orbs/orb_basic_strengthen_06.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "25",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_06_ephemeral_10",
+    "Name": "Boost +25% charge 10",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 25,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_strengthen_06_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "25",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_07",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 26,
+    "Count": null,
+    "Level": 7,
+    "Icon": "ui/orbs/orb_basic_strengthen_07.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "26",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_07_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 65,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_strengthen_07_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_strengthen_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_strengthen",
+    "Pct": 3,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_strengthen_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken",
+    "Name": "Curse +3%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 3,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_basic_weaken.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_01",
+    "Name": "Curse +7%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 7,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_basic_weaken_01.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 7,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_weaken_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "7",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_02",
+    "Name": "Curse +15%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 15,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_basic_weaken_02.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 15,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_weaken_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "15",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_03",
+    "Name": "Curse +19%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 19,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_basic_weaken_03.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 19,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_weaken_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "19",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_04",
+    "Name": "Curse +22%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 21,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_basic_weaken_04.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "21",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 21,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_weaken_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "21",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_05",
+    "Name": "Curse +24%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 24,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_basic_weaken_05.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "24",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 24,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_weaken_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "24",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_06",
+    "Name": "Curse +25%",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 25,
+    "Count": null,
+    "Level": 6,
+    "Icon": "ui/orbs/orb_basic_weaken_06.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "25",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_06_ephemeral_10",
+    "Name": "Curse +25% charge 10",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 25,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_weaken_06_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "25",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_07",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 65,
+    "Count": null,
+    "Level": 7,
+    "Icon": "ui/orbs/orb_basic_weaken_07.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_07_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 65,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_weaken_07_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "65",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_weaken_ephemeral_10",
+    "Name": "",
+    "Type": "ability_bonus",
+    "Category": "basic",
+    "Ability": "ability_weaken",
+    "Pct": 3,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_weaken_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "3",
+      "type": "ability_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp",
+    "Name": "XP +10%",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 10,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_basic_xp.png",
+    "Tags": {
+      "pct": "10",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_01",
+    "Name": "XP +40%",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 40,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_basic_xp_01.png",
+    "Tags": {
+      "pct": "40",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_01_ephemeral_10",
+    "Name": "XP +40% charge 10",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 40,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_xp_01_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "40",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_02",
+    "Name": "XP +80%",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 80,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_basic_xp_02.png",
+    "Tags": {
+      "pct": "80",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_02_ephemeral_10",
+    "Name": "XP +80% charge 10",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 80,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_xp_02_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "80",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_03",
+    "Name": "XP +120%",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 120,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_basic_xp_03.png",
+    "Tags": {
+      "pct": "120",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_03_ephemeral_10",
+    "Name": "XP +120% charge 10",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 120,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_xp_03_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "120",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_04",
+    "Name": "XP +150%",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 150,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_basic_xp_04.png",
+    "Tags": {
+      "pct": "150",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_04_ephemeral_10",
+    "Name": "XP +150% charge 10",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 150,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_xp_04_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "150",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_05",
+    "Name": "XP +200%",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 200,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_basic_xp_05.png",
+    "Tags": {
+      "pct": "200",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_05_ephemeral_10",
+    "Name": "XP +200% charge 10",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 200,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_xp_05_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "200",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_06",
+    "Name": "XP +300%",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 300,
+    "Count": null,
+    "Level": 6,
+    "Icon": "ui/orbs/orb_basic_xp_06.png",
+    "Tags": {
+      "pct": "300",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_06_ephemeral_10",
+    "Name": "",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 300,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_xp_06_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "300",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_basic_xp_ephemeral_10",
+    "Name": "",
+    "Type": "xp_bonus",
+    "Category": "basic",
+    "Ability": "",
+    "Pct": 10,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_basic_xp_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "10",
+      "type": "xp_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate",
+    "Name": "Drain life (2%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 2,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_special_addregenerate.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_01",
+    "Name": "Drain life (5%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 5,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_special_addregenerate_01.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 5,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addregenerate_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_02",
+    "Name": "Drain life (14%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 14,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_special_addregenerate_02.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "14",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 14,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addregenerate_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "14",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_02_ephemeral_30",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 14,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_special_addregenerate_02_ephemeral_30.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "30",
+      "pct": "14",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_03",
+    "Name": "Drain life (22%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 22,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_special_addregenerate_03.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "22",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 22,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addregenerate_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "22",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_03_ephemeral_20",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 22,
+    "Count": 20,
+    "Level": 20,
+    "Icon": "ui/orbs/orb_special_addregenerate_03_ephemeral_20.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "20",
+      "pct": "22",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_03_ephemeral_30",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 22,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_special_addregenerate_03_ephemeral_30.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "30",
+      "pct": "22",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_04",
+    "Name": "Drain life (29%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 29,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_special_addregenerate_04.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "29",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 29,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addregenerate_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "29",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_05",
+    "Name": "Drain life (35%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 35,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_special_addregenerate_05.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "pct": "35",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 35,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addregenerate_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "35",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addregenerate_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_regen",
+    "Pct": 2,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addregenerate_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_regen",
+      "count": "10",
+      "pct": "2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate",
+    "Name": "Retaliate (1%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -1,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_special_addretaliate.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "-1",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_01",
+    "Name": "Retaliate (2%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -2,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_special_addretaliate_01.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "-2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -2,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addretaliate_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "-2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_02",
+    "Name": "Retaliate (5%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -5,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_special_addretaliate_02.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "-5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -5,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addretaliate_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "-5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_03",
+    "Name": "Retaliate (13%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -13,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_special_addretaliate_03.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "-13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -13,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addretaliate_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "-13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_04",
+    "Name": "Retaliate (20%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -20,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_special_addretaliate_04.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "-20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -20,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addretaliate_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "-20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_05",
+    "Name": "Retaliate (25%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -25,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_special_addretaliate_05.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "pct": "-25",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -25,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addretaliate_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "-25",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addretaliate_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_retaliate",
+    "Pct": -1,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addretaliate_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_retaliate",
+      "count": "10",
+      "pct": "-1",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield",
+    "Name": "Shield (2%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 2,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_special_addshield.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_01",
+    "Name": "Shield (5%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 5,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_special_addshield_01.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 5,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addshield_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_02",
+    "Name": "Shield (13%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 13,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_special_addshield_02.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 13,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addshield_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_03",
+    "Name": "Shield (20%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 20,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_special_addshield_03.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 20,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addshield_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_03_ephemeral_20",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 20,
+    "Count": 20,
+    "Level": 20,
+    "Icon": "ui/orbs/orb_special_addshield_03_ephemeral_20.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "20",
+      "pct": "20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_03_ephemeral_30",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 20,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_special_addshield_03_ephemeral_30.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "30",
+      "pct": "20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_04",
+    "Name": "Shield (26%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 26,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_special_addshield_04.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "26",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 26,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addshield_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "26",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_05",
+    "Name": "Shield (30%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 30,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_special_addshield_05.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "pct": "30",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 30,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addshield_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "30",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addshield_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_shield",
+    "Pct": 2,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addshield_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_shield",
+      "count": "10",
+      "pct": "2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash",
+    "Name": "Wound (2%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -2,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_special_addslash.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "-2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_01",
+    "Name": "Wound (5%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -5,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_special_addslash_01.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "-5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -5,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addslash_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "-5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_02",
+    "Name": "Wound (13%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -13,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_special_addslash_02.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "-13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -13,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addslash_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "-13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_02_ephemeral_30",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -13,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_special_addslash_02_ephemeral_30.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "30",
+      "pct": "-13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_03",
+    "Name": "Wound (20%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -20,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_special_addslash_03.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "-20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -20,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addslash_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "-20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_04",
+    "Name": "Wound (26%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -26,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_special_addslash_04.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "-26",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -26,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addslash_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "-26",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_05",
+    "Name": "Wound (30%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -30,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_special_addslash_05.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "pct": "-30",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -30,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addslash_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "-30",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addslash_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_slash",
+    "Pct": -2,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addslash_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_slash",
+      "count": "10",
+      "pct": "-2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen",
+    "Name": "Boost (2%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 2,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_special_addstrengthen.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_01",
+    "Name": "Boost (5%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 5,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_special_addstrengthen_01.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 5,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addstrengthen_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_02",
+    "Name": "Boost (13%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 13,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_special_addstrengthen_02.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 13,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addstrengthen_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_03",
+    "Name": "Boost (20%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 20,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_special_addstrengthen_03.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 20,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addstrengthen_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_04",
+    "Name": "Boost (26%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 26,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_special_addstrengthen_04.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "26",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 26,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addstrengthen_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "26",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_05",
+    "Name": "Boost (30%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 30,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_special_addstrengthen_05.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "pct": "30",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 30,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addstrengthen_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "30",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addstrengthen_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_strengthen",
+    "Pct": 2,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addstrengthen_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_strengthen",
+      "count": "10",
+      "pct": "2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken",
+    "Name": "Curse (2%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -2,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_special_addweaken.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "-2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_01",
+    "Name": "Curse (5%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -5,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_special_addweaken_01.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "-5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_01_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -5,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addweaken_01_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "-5",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_02",
+    "Name": "Curse (13%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -13,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_special_addweaken_02.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "-13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_02_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -13,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addweaken_02_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "-13",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_03",
+    "Name": "Curse (20%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -20,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_special_addweaken_03.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "-20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_03_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -20,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addweaken_03_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "-20",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_04",
+    "Name": "Curse (26%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -26,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_special_addweaken_04.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "-26",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_04_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -26,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addweaken_04_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "-26",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_05",
+    "Name": "Curse (30%)",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -30,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_special_addweaken_05.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "pct": "-30",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_05_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -30,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addweaken_05_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "-30",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_addweaken_ephemeral_10",
+    "Name": "",
+    "Type": "ability",
+    "Category": "special",
+    "Ability": "ability_weaken",
+    "Pct": -2,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_addweaken_ephemeral_10.png",
+    "Tags": {
+      "ability": "ability_weaken",
+      "count": "10",
+      "pct": "-2",
+      "special": "true",
+      "type": "ability"
+    }
+  },
+  {
+    "ID": "orb_special_speed",
+    "Name": "Speed +2%",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 2,
+    "Count": null,
+    "Level": null,
+    "Icon": "ui/orbs/orb_special_speed.png",
+    "Tags": {
+      "pct": "2",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_01",
+    "Name": "Speed +5%",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 5,
+    "Count": null,
+    "Level": 1,
+    "Icon": "ui/orbs/orb_special_speed_01.png",
+    "Tags": {
+      "pct": "5",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_01_ephemeral_10",
+    "Name": "",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 5,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_speed_01_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "5",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_02",
+    "Name": "Speed +10%",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 10,
+    "Count": null,
+    "Level": 2,
+    "Icon": "ui/orbs/orb_special_speed_02.png",
+    "Tags": {
+      "pct": "10",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_02_ephemeral_10",
+    "Name": "",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 10,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_speed_02_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "10",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_02_ephemeral_20",
+    "Name": "",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 10,
+    "Count": 20,
+    "Level": 20,
+    "Icon": "ui/orbs/orb_special_speed_02_ephemeral_20.png",
+    "Tags": {
+      "count": "20",
+      "pct": "10",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_02_ephemeral_30",
+    "Name": "",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 10,
+    "Count": 30,
+    "Level": 30,
+    "Icon": "ui/orbs/orb_special_speed_02_ephemeral_30.png",
+    "Tags": {
+      "count": "30",
+      "pct": "10",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_02_xmas_2015_ephemeral_20",
+    "Name": "",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 10,
+    "Count": 20,
+    "Level": 20,
+    "Icon": "ui/orbs/orb_special_speed_02_xmas_2015_ephemeral_20.png",
+    "Tags": {
+      "count": "20",
+      "pct": "10",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_03",
+    "Name": "Speed +15%",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 15,
+    "Count": null,
+    "Level": 3,
+    "Icon": "ui/orbs/orb_special_speed_03.png",
+    "Tags": {
+      "pct": "15",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_03_ephemeral_10",
+    "Name": "",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 15,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_speed_03_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "15",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_04",
+    "Name": "Speed +18%",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 18,
+    "Count": null,
+    "Level": 4,
+    "Icon": "ui/orbs/orb_special_speed_04.png",
+    "Tags": {
+      "pct": "18",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_04_ephemeral_10",
+    "Name": "",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 18,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_speed_04_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "18",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_05",
+    "Name": "Speed +20%",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 20,
+    "Count": null,
+    "Level": 5,
+    "Icon": "ui/orbs/orb_special_speed_05.png",
+    "Tags": {
+      "pct": "20",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_05_ephemeral_10",
+    "Name": "",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 20,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_speed_05_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "20",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  },
+  {
+    "ID": "orb_special_speed_ephemeral_10",
+    "Name": "",
+    "Type": "speed_bonus",
+    "Category": "special",
+    "Ability": "",
+    "Pct": 2,
+    "Count": 10,
+    "Level": 10,
+    "Icon": "ui/orbs/orb_special_speed_ephemeral_10.png",
+    "Tags": {
+      "count": "10",
+      "pct": "2",
+      "special": "true",
+      "type": "speed_bonus"
+    }
+  }
+]
